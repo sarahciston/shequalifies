@@ -2,14 +2,14 @@
   "//1": "describes your app and its dependencies",
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
-  "name": "she qualifies",
+  "name": "shequalifies",
   "version": "0.0.1",
   "scripts": {
     "install": "bundle install",
-    "start": "bundle exec jekyll build && http-server _site/ -c-1 -p $PORT"
+    "start": "bundle exec jekyll build && http-server _site/ -c-1 -p 3000"
   },
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.12.3"
   },
   "engines": {
     "node": "8.x"

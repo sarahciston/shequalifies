@@ -1,6 +1,6 @@
 # Jekyll theme
-title: She Qualifies
-author: sarah ciston
+title: she qualifies
+author: Sarah Ciston
 email: sarahciston@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   A cool thing made with Glitch.
@@ -17,13 +17,13 @@ minima:
   # generate social links in footer
   # minima does not have a glitch social link... yet \o/
   social_links:
-    # twitter: jekyllrb
+    twitter: sarahciston
     github:  sarahciston
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: sarahciston
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
@@ -47,7 +47,7 @@ header_pages:
 - pages/about.md
 
 # Build settings
-theme: minima # just-the-docs
+theme: minima # just-the-docs #chalk
 
 plugins:
  - jekyll-feed
