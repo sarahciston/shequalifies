@@ -12,7 +12,7 @@
     "http-server": "^0.12.3"
   },
   "engines": {
-    "node": "8.x"
+    "node": "12.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/jekyll-starter-minima"
