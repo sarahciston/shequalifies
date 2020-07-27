@@ -1,2 +1,3 @@
 source 'https://rubygems.org'
-gem 'minima'
+gem 'just-the-docs'
+gem 'jekyll-feed'
