@@ -4,7 +4,11 @@
 
 /* import theme stylesheet */
 
-@import "minima";
-@import "minima/syntax-highlighting";
+// @import "minima";
+// @import "minima/syntax-highlighting";
 
 /* any custom styles go below */
+
+body {
+  font-family: "Roboto Mono", "Menlo", monospace;
+}

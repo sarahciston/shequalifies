@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "scripts": {
     "install": "bundle install",
-    "start": "bundle exec jekyll build && http-server _site/ -c-1 -p $PORT"
+    "start": "bundle exec jekyll build && http-server _site/ -c-1 -p 3000"
   },
   "dependencies": {
     "http-server": "^0.12.3"
