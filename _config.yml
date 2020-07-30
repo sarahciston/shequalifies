@@ -5,39 +5,10 @@ email: sarahciston@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   how do you know you've made it until you've made something?
 show_excerpts: true # set to true to show excerpts on the homepage
+timezone: America/Los_Angeles
 
-# baseurl: "https://shequalifies.glitch.me/"
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-# minima:
-#   date_format: "%b %-d, %Y"
-#
-#   # generate social links in footer
-#   # minima does not have a glitch social link... yet \o/
-#   social_links:
-#     twitter: sarahciston
-#     github:  sarahciston
-#     # rss: rss
-#     # dribbble: jekyll
-#     # facebook: jekyll
-#     # flickr:   jekyll
-#     instagram: sarahciston
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+# url: https://shequalifies.glitch.me
+# baseurl: https://shequalifies.glitch.me
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -50,8 +21,11 @@ theme: just-the-docs #chalk minima #jekyll-theme-with-hack-css
 
 #JUST THE DOCS####start
 
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/just-the-docs.png"
+
 # Color scheme supports "light" (default) and "dark"
-color_scheme: test #darkpurple
+color_scheme: sarah #darkpurple
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -95,28 +69,36 @@ aux_links_new_tab: true
 # Supports true (default) or false
 heading_anchors: true
 
+# Sort order for navigation links
+nav_sort: case_insensitive # default, equivalent to nil
+# nav_sort: case_sensitive # Capital letters sorted before lowercase
+
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: "&copy; 2020 Sarah Ciston. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+
+# Back to top link
+back_to_top: false
+back_to_top_text: "Back to top"
+
+# Footer content
+# appears at the bottom of every page's main content
+footer_content: "&copy; 2020 Sarah Ciston." # "Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
+gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/sarahciston/shequalifies" # the github URL for your repo
-# gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 # ga_tracking: UA-2709176-10
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
-# plugins:
-#   - jekyll-seo-tag
 
 compress_html:
   clippings: all
@@ -128,13 +110,20 @@ compress_html:
 
 
 #JUST THE DOCS####end
+
 plugins:
  - jekyll-feed
- - jekyll-seo-tag
+ - jekyll-include-cache
+ # - jekyll-seo-tag
 
 # Build settings
+livereload: true
 encoding: utf-8
 markdown: kramdown
+
+# kramdown:
+#   parse_block_html: true
+  
 exclude:
   - .sass-cache/
   - node_modules/

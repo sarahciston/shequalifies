@@ -19,6 +19,9 @@ let withings = require("./_includes/js/withings.js")
 app.get("/refresh", withings.refresh)
 app.get("/daily", withings.daily)
 
+let rescue = require("./_includes/js/rescueTime.js")
+app.get("/rescueDaily", rescue.daily)
+
 
 const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);

@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "install": "bundle install",
-    "start": "bundle exec jekyll build && node server.js"
+    "start": "bundle exec jekyll build --force && node server.js"
   },
   "dependencies": {
     "express": "^4.17.1",

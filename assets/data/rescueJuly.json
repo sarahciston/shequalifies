@@ -1,0 +1,22 @@
+{
+  "notes": "data is an array of arrays (rows), column names for rows in row_headers",
+  "row_headers": [
+    "Rank",
+    "Time Spent (seconds)",
+    "Number of People",
+    "Category"
+  ],
+  "rows": [
+    [1, 230025, 1, "Software Development"],
+    [2, 108509, 1, "Communication \u0026 Scheduling"],
+    [3, 79712, 1, "Uncategorized"],
+    [4, 50309, 1, "Utilities"],
+    [5, 28273, 1, "Design \u0026 Composition"],
+    [6, 23255, 1, "Reference \u0026 Learning"],
+    [7, 19686, 1, "Entertainment"],
+    [8, 18856, 1, "Shopping"],
+    [9, 11031, 1, "Social Networking"],
+    [10, 5574, 1, "Business"],
+    [11, 5205, 1, "News \u0026 Opinion"]
+  ]
+}
