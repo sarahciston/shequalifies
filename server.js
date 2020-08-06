@@ -32,6 +32,7 @@ async function createComment(req) {
     name: req.body.name,
     email: req.body.email,
     message: req.body.message,
+    quote: req.body.quote,
     pageId: req.body.pageId,
     redirect: req.body.redirect,
     commentId: uuid.v4(),
@@ -51,36 +52,17 @@ function mapComment(data) {
     name: data.name,
     email: data.email,
     message: data.message,
+    quote: data.quote,
     createdAt: data.createdAt,
     hidden: false,
   };
 }
 
-// app.get('/getComments', (req, res, next) => {
-//   getComments(req)
-//     // .then(response => res.json(response))
-//     .then(response => console.log(response))
-//     .then(response => res.send(response))
-//     .catch((err) => next(err))
-// });
-
-// // app.post('/comments/create', (req, res, next) =>
 app.post('/newComment', (req, res, next) => {
   createComment(req)
     .then((res) => console.log(res))
     .catch((err) => next(err))
 });
-
-// app.post('/newComment', (req, res) => {
-//   createComment(req)
-    
-//   // fs.writeFile(('comment'+commentID+'.yml'), req, (err) => {
-//   //   if (err) throw err;
-//   //   console.log('saved');
-//   //   res.send('saved')
-//   // });
-//   // }).catch(err => console.log(err))
-// })
 ////COMMENTS END
 
 

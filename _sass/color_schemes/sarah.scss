@@ -26,3 +26,35 @@ $root-font-size: 9px;
 $body-heading-color: $purple-100;
 $link-color: $purple-100;
 $btn-primary-color: $purple-100;
+
+/* The popup form - hidden by default */
+.newComment {
+  display: none ; /* block */
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-horizontal {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.newComment input[type=text] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus {
+  background-color: #ddd;
+  outline: none;
+}

@@ -152,7 +152,7 @@ defaults:
       commenting: open
   -
     scope:
-      path: '/posts'
+      path: 'posts'
       type: posts
     values:
       layout: post

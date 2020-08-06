@@ -1,10 +1,6 @@
 {% capture default_slug %}{{ page.slug | default: (page.title | slugify) }}{% endcapture %}
 {% capture slug %}{{ (page.slug | fallback: default_slug) | downcase | replace: '.', '-' | replace: '_' : '-' }}{% endcapture %}
 
-{% if page.commenting == 'open' %}
-{% include comment-new.html %}
-{% endif %}
-
 <!-- all comments -->
 {% for comments in site.data.comments %}
 {% assign comments = comments[1] %}
