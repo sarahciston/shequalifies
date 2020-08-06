@@ -1,0 +1,16 @@
+{
+  "notes": "data is an array of arrays (rows), column names for rows in row_headers",
+  "row_headers": [
+    "Date",
+    "Time Spent (seconds)",
+    "Number of People",
+    "Productivity"
+  ],
+  "rows": [
+    ["2020-07-30T00:00:00", 12096, 1, 1],
+    ["2020-07-30T00:00:00", 6425, 1, 2],
+    ["2020-07-30T00:00:00", 2975, 1, 0],
+    ["2020-07-30T00:00:00", 613, 1, -1],
+    ["2020-07-30T00:00:00", 538, 1, -2]
+  ]
+}

@@ -135,3 +135,27 @@ exclude:
   - package-lock.json
   - watch.json
   - "*.save.*"
+  
+emptyArray: []
+
+comments:
+  receiver: https://shequalifies.glitch.me/newComment
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+      author: sarahciston
+      commenting: open
+  -
+    scope:
+      path: '/posts'
+      type: posts
+    values:
+      layout: post
+      author: sarahciston
+      commenting: open
+  

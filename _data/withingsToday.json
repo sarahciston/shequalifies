@@ -3,14 +3,14 @@
   "body": {
     "activities": [
       {
-        "steps": 195,
-        "distance": 147.92,
-        "hr_average": 76,
-        "hr_min": 76,
-        "hr_max": 76,
+        "steps": 830,
+        "distance": 643.49,
+        "hr_average": 74,
+        "hr_min": 55,
+        "hr_max": 104,
         "deviceid": null,
         "timezone": "America/Los_Angeles",
-        "date": "2020-07-28",
+        "date": "2020-07-30",
         "brand": 1,
         "is_tracker": true
       }
@@ -19,4 +19,3 @@
     "offset": 0
   }
 }
-{"status":0,"body":{"activities":[],"more":false,"offset":200}}

@@ -1,0 +1,141 @@
+{
+  "status": 0,
+  "body": {
+    "series": [
+      {
+        "id": 1529385534,
+        "timezone": "America/Los_Angeles",
+        "model": 16,
+        "model_id": 55,
+        "startdate": 1595918700,
+        "enddate": 1595955600,
+        "date": "2020-07-28",
+        "data": {
+          "wakeupduration": 120,
+          "lightsleepduration": 13500,
+          "deepsleepduration": 23280,
+          "wakeupcount": 0,
+          "durationtosleep": 120,
+          "durationtowakeup": 0,
+          "hr_average": 58,
+          "hr_min": 52,
+          "hr_max": 68,
+          "sleep_score": 94
+        },
+        "modified": 1595956642
+      },
+      {
+        "id": 1532834512,
+        "timezone": "America/Los_Angeles",
+        "model": 16,
+        "model_id": 55,
+        "startdate": 1596008640,
+        "enddate": 1596042000,
+        "date": "2020-07-29",
+        "data": {
+          "wakeupduration": 180,
+          "lightsleepduration": 12960,
+          "deepsleepduration": 20220,
+          "wakeupcount": 0,
+          "durationtosleep": 180,
+          "durationtowakeup": 0,
+          "hr_average": 57,
+          "hr_min": 52,
+          "hr_max": 64,
+          "sleep_score": 94
+        },
+        "modified": 1596141089
+      },
+      {
+        "id": 1532834525,
+        "timezone": "America/Los_Angeles",
+        "model": 16,
+        "model_id": 55,
+        "startdate": 1596092400,
+        "enddate": 1596124320,
+        "date": "2020-07-30",
+        "data": {
+          "wakeupduration": 1140,
+          "lightsleepduration": 15420,
+          "deepsleepduration": 15360,
+          "wakeupcount": 2,
+          "durationtosleep": 180,
+          "durationtowakeup": 0,
+          "hr_average": 57,
+          "hr_min": 52,
+          "hr_max": 72,
+          "sleep_score": 89
+        },
+        "modified": 1596141090
+      },
+      {
+        "id": 1535745881,
+        "timezone": "America/Los_Angeles",
+        "model": 16,
+        "model_id": 55,
+        "startdate": 1596196860,
+        "enddate": 1596213960,
+        "date": "2020-07-31",
+        "data": {
+          "wakeupduration": 240,
+          "lightsleepduration": 6600,
+          "deepsleepduration": 10260,
+          "wakeupcount": 0,
+          "durationtosleep": 120,
+          "durationtowakeup": 120,
+          "hr_average": 54,
+          "hr_min": 42,
+          "hr_max": 61,
+          "sleep_score": 30
+        },
+        "modified": 1596314575
+      },
+      {
+        "id": 1535745889,
+        "timezone": "America/Los_Angeles",
+        "model": 16,
+        "model_id": 55,
+        "startdate": 1596268380,
+        "enddate": 1596306720,
+        "date": "2020-08-01",
+        "data": {
+          "wakeupduration": 720,
+          "lightsleepduration": 15120,
+          "deepsleepduration": 22500,
+          "wakeupcount": 2,
+          "durationtosleep": 120,
+          "durationtowakeup": 180,
+          "hr_average": 58,
+          "hr_min": 52,
+          "hr_max": 68,
+          "sleep_score": 93
+        },
+        "modified": 1596314576
+      },
+      {
+        "id": 1537231797,
+        "timezone": "America/Los_Angeles",
+        "model": 16,
+        "model_id": 55,
+        "startdate": 1596358320,
+        "enddate": 1596390420,
+        "date": "2020-08-02",
+        "data": {
+          "wakeupduration": 120,
+          "lightsleepduration": 11580,
+          "deepsleepduration": 20400,
+          "wakeupcount": 0,
+          "durationtosleep": 120,
+          "durationtowakeup": 0,
+          "hr_average": 63,
+          "hr_min": 55,
+          "hr_max": 73,
+          "sleep_score": 92
+        },
+        "modified": 1596402720
+      }
+    ],
+    "more": false,
+    "offset": 0
+  }
+}

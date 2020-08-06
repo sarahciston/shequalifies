@@ -1,0 +1,61 @@
+<form action="/newComment" method="post" id="commentform" class="form-horizontal">
+  <fieldset id="commentfields">
+    <h4>add a comment</h4>
+    <input name="redirect" type="hidden" value="{{ page.title }}">
+    <input name="pageId" type="hidden" value="{{ page.title }}">
+
+    <label for="name">name</label>
+    <input type="text" name="name" id="name" placeholder="" />
+
+    <label for="email">email</label>
+    <input type="text" name="email" id="email" placeholder=""/>
+    <br><br>
+    <textarea name="message" id="message" placeholder="add your response" width="700px" height="400"></textarea>
+
+    <button class="btn btn-primary" id="commentbutton">submit</button> 
+
+  </fieldset>
+</form>
+<!-- <div id="commentstatus" style="clear:both" class="status"></div> -->
+
+<script>
+  var commentbutton = document.getElementById('commentbutton')
+  commentbutton.addEventListener("click", setupForm);
+  // onclick="form.submit()"
+  
+  function getSelectionText() {
+    var text = "";
+    if (window.getSelection) {
+        text = window.getSelection().toString();
+        console.log(text)
+        // document.activeElement.style.background = "yellow"
+    } else if (document.selection && document.selection.type != "Control") {
+        text = document.selection.createRange().text;
+    }
+    return text;
+  }
+  
+  function setupForm() {
+    console.log('reached setupForm()')
+
+    // var status = document.getElementById('commentstatus')
+    // status.innerText = ''
+
+    var requiredIds = [ 'message', 'email', 'name']
+    var missing = requiredIds.filter(id => document.getElementById(id).value.length < 3)
+    if (missing.length > 0) {
+      status.innerText = 'Some required fields are missing - (' + missing.join(', ') + ')'
+      return
+    }
+
+    var form = document.getElementById('commentform')
+    form.action = {{ site.comments.receiver }}
+    console.log('form action reached')
+    button.innerText = 'Posting...'
+    button.disabled = true
+    form.submit()
+    console.log('form submitted')
+    var fields = document.getElementById('commentfields')                                         
+    fields.disabled = true      
+  }  
+  </script>

@@ -47,7 +47,7 @@ exports.daily = (req, res) => {
   let url = baseUrl + 'daily_summary_feed?key=' + KEY
   console.log(url)
   
-  let path = './assets/data/rescueDaily.json'
+  let path = './_data/rescueDaily.json'
   
   writeRequest(url, path, res)
     
