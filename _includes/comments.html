@@ -16,7 +16,10 @@
 <!--         display -->
       <!-- just this page -->
     {% if comment.pageId == page.title %}
-      <li class="sortbypage">{{ comment.message }} <cite>&ndash; {{ comment.name }}, <span class="muted" title="{{ comment.createdAt | date_to_rfc822 }}">
+      <li class="sortbypage">
+        {% if comment.quote != "" %}<i><span color="purple">{{ comment.quote }}</span></i>{% endif %}
+        {{ comment.message }} 
+        <cite>&ndash; {{ comment.name }}, <span class="muted" title="{{ comment.createdAt | date_to_rfc822 }}">
       {{ comment.createdAt | date: '%B' }}
       {% assign d = comment.createdAt | date: "%-d" %}
       {% case d %}

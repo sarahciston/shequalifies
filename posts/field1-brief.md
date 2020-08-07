@@ -19,7 +19,8 @@ _How does language change within algorithmic systems, and how does it change us?
 - how algorithmic co-writing helps us find the word we're looking for even as it narrows down choices and capitalizes on the space between words. I'm interested in the natural language processing of autocomplete and text generation---in particular the human co-authors who unwitting participate when corporate interests extract their text to create machine learning models but who have no say in shaping their design or applications. As power relations are amplified, particular interests become legible or illegible as they are processed algorithmically: How does this shape the new algorithmically co-written ‘voice’ of writers?
 - not only what these ML/NLP tools have to offer an expanded/obliterated definition of agency/authorship, but also how they require/inspire new experimental forms that interrogate their problematic current uses and expand their creative, even activist imaginaries through poetic practices
 
-### organizing metaphor
+### organizing metaphors & verbs
+labyrinth, loop
 
 ### historical moments, conceptual & technical shifts
 

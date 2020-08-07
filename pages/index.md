@@ -19,12 +19,15 @@ Thoughts guiding this work:
 
 **organic and artificial intelligence assemblages**
 
->_“people and their data make each other”_ (Lupton 2019, 121) 
+>_“people and their data make each other”_ --Deborah Lupton 
+{: .fs-3 }
+
+>_“the letter is a threshold”_ --John Cayley
 {: .fs-3 }
 
 >_"everything permutes, everything loves, everything seems to hate something”_ 
 {: .fs-3 }
->> ---Quirinus Kuhlmann, whose "theoretical sketch of an _Ars magna librum scribendi_ [was] a universal letter combination machine designed to write all existing and potential books in the world" (Cramer 2005, 65)
+>> --Quirinus Kuhlmann, whose "theoretical sketch of an _Ars magna librum scribendi_ [was] a universal letter combination machine designed to write all existing and potential books in the world" (Florian Cramer)
 {: .fs-3 }
 
 

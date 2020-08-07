@@ -18,7 +18,8 @@ _How can we make artificial intelligence more equitable and less biased by drawi
 -  imagine AI systems and their supporting infrastructures instead informed by Black, indigenous, POC, queer, feminist ways of knowing, their long histories of handmade media and craft techniques and aesthetics, their communities of care, their strategies for passing and flagging and for surviving violent systems. 
 - an intersectional stack(s) (wouldn’t be called a stack but) would originate from and serve the needs of its own communities; would understand its material relationships as an ecology; would embrace error, delay, and ambiguity; and would not try to be everything to everyone. It would value multiplicity, interrelation, polyvocality, multimodality. in my own practice, I’m interested in what critical-creative-code-community modalities can produce this kind of work, or document its iterative and instinctual naturess, or create shared spaces that support its generation. More broadly, I argue for an essential relationship between experimental artistic-research and tactical-media approaches like this and larger-scale real-world applications.
 
-### organizing metaphor
+### organizing metaphors & verbs
+matrix, passing
 
 ### historical moments, conceptual & technical shifts
 

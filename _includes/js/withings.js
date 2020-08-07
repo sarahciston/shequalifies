@@ -78,7 +78,7 @@ exports.refresh = (req, res) => {
     .then(r => {
         console.log("new data " + r)
 
-        res.send(r)
+        // res.send(r)
 
         fs.writeFile('./oauth.json', r, (err) => {
           if (err) throw err;
@@ -130,7 +130,7 @@ exports.sleep = (req, res) => {
   
   let urlSleep = 'https://wbsapi.withings.net/v2/sleep?action=getsummary'
   let vars = {
-        startdateymd: "2020-07-28", 
+        startdateymd: "2020-07-20", 
         enddateymd: dateISO,
         data_fields: "sleep_score,deepsleepduration,lightsleepduration,remsleepduration,wakeupduration,wakeupcount,durationtosleep,durationtowakeup,hr_max,hr_min,hr_average"
         // lastupdate: "2020-07-28"

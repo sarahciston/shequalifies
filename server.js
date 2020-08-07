@@ -3,6 +3,7 @@ const fs = require('fs');
 const cors = require('cors');
 const uuid = require('uuid');
 const url = require('url');
+// const schedule = require('node-schedule');
 
 // const { validateComment } = require('./_comments/validation');
 // const { renderMarkdown } = require('./_comments/markdown');
@@ -87,6 +88,19 @@ const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
 
+//chron jobs
+// var j = schedule.scheduleJob('* * /6 * *', function(){
+//   console.log('The answer to life, the universe, and everything!');
+// });
+
+// var j = schedule.scheduleJob({second: 1}, function(fireDate){
+//   console.log('answer the universe!' + fireDate);
+// });
+
+// var r = schedule.scheduleJob({minute: 15}, function(fireDate){
+//   console.log('answer me!' + fireDate);
+//   withings.refresh()
+// });
 
 
 

@@ -123,7 +123,7 @@ layout: table_wrappers
 {% if page.commenting == 'open' %}
 <div class="newComment" id="formPopup">
 <form action="/newComment" method="post" id="commentform" class="form-horizontal" >
-  <fieldset id="commentfields">
+  <fieldset id="commentfields" hidden="true">
     <h4>add a comment</h4>
     <input name="redirect" type="hidden" value="{{ page.title }}">
     <input name="pageId" type="hidden" value="{{ page.title }}">
@@ -137,12 +137,10 @@ layout: table_wrappers
     <label for="message" id="quotelabel"></label>
     <textarea name="message" id="message" placeholder="" rows="6"></textarea>
     <input type="hidden" name="quote" id="quote" value=""/>
-
-    <button class="btn btn-primary" id="commentbutton">submit</button> 
-    <button class="btn btn-primary" id="cancelbutton">cancel</button> 
-
+    <button class="btn btn-primary form-button" id="commentbutton">submit</button> 
   </fieldset>
 </form>
+  <button class="btn btn-primary" id="addbutton">add a comment</button>
 </div>
 {% endif %} 
         
@@ -194,39 +192,107 @@ layout: table_wrappers
     {% endif %}
     
   </div>
+  
   <script type="application/javascript">
+    
     let selection;
     let selectedText;
-    document.onselectionchange = function() {
+    let quoteText;
+    const commentform = document.getElementById('commentform');
+    const addbutton = document.getElementById('addbutton');
+    const commentbutton = document.getElementById('commentbutton');
+    const textarea = document.getElementById('message');
+    const quote = document.getElementById('quote');
+    const label = document.getElementById('quotelabel');
+    let list = [];
+    
+    addbutton.addEventListener("click", openCommentBox);
+    
+    function closeCommentBox() {
+      console.log('close');
+      list = [];
+      addbutton.innerText = "add a comment";
+      commentfields.hidden = true;
+      commentform.style.display = "none";
+      addbutton.addEventListener("click", openCommentBox);
+    }
+    
+    function openCommentBox() {
+      console.log('open');
+      addbutton.innerText = "cancel";
+      commentfields.hidden = false;
+      commentform.style.display = "block";
+      list.push(selectedText);
+      quote.value = list[0];
+      label.innerText = list[0];
+      addbutton.addEventListener("click", closeCommentBox);
+    }
+    
+    function select() {
       selection = document.getSelection();
       selectedText = selection.toString();
       console.log(selectedText);
-      document.onmouseup = function() { openForm() }
-    };
-        
-    function openForm() {
-      var quote = document.getElementById('quote');
-      quote.value = selectedText;
-      var label = document.getElementById('quotelabel');
-      label.innerText = selectedText;
-      document.getElementById("formPopup").style.display = "block";
+      document.onmouseup = function() {
+        console.log('mouseup');
+        openCommentBox();
+      }
     }
-
-    function closeForm() {
-      document.getElementById("formPopup").style.display = "none";
-    }
+    
+    document.addEventListener("selectionchange", select);
+    
+    // document.addEventListener('mouseup', console.log('finished mouseup'));
+    // document.onselectionchange = function() {
+    //   selection = document.getSelection();
+    //   selectedText = selection.toString();
+    //   console.log(selectedText);
+    //   document.onmouseup = function() { 
+    //     openForm() 
+    //   }
+    // };
+    
+    // if (commentfields.hidden == true) {
+    //     console.log('reached toggle true')
+    //     closeCommentBox();
+    //   } else {
+    //     console.log('reached toggle false')
+    //     openCommentBox();
+    //   };
     
     //all this copied over from comment-new.html
-    var cancelbutton = document.getElementById('commentbutton')
-    cancelbutton.addEventListener("click", closeForm);
+    // addbutton = document.getElementById('addbutton');
+    // cancelbutton = document.getElementById('cancelbutton');
+    // cancelbutton.hidden = true;
+    // cancelbutton.addEventListener("click", closeForm);
+    // commentbutton = document.getElementById('commentbutton');
+    // commentbutton.addEventListener("click", setupForm);
+    // commentfields = document.getElementById('commentfields');
     
-    var commentbutton = document.getElementById('commentbutton')
-    commentbutton.addEventListener("click", setupForm);
+    function openForm() {
+      // console.log('inside openForm');
+      // commentfields.hidden = false;
+      textarea = document.getElementById('message');
+      quote = document.getElementById('quote');
+      quote.value = selectedText;
+      label = document.getElementById('quotelabel');
+      label.innerText = 'highlighting: "'+ selectedText + '"';
+      document.getElementById("formPopup").style.display = "block";
+      // textarea.onfocus = function() {
+      //   pass
+      // }
+    }
     
+    function closeForm() {
+      // addbutton.hidden = false;
+      // cancelbutton.hidden = true;
+      // commentbutton.hidden = true;
+      commentfields.hidden = true;
+      addbutton.innerHTML = "add a comment";
+      // document.getElementById("formPopup").style.display = "none";
+    }
     
     function setupForm() {
       console.log('reached setupForm()')
-
+      // cancelbutton.disabled = true;
       // var status = document.getElementById('commentstatus')
       // status.innerText = ''
 
@@ -237,15 +303,15 @@ layout: table_wrappers
         return
       }
 
-      var form = document.getElementById('commentform')
-      form.action = {{ site.comments.receiver }}
-      console.log('form action reached')
-      button.innerText = 'Posting...'
-      button.disabled = true
-      form.submit()
-      console.log('form submitted')
-      var fields = document.getElementById('commentfields')            
-      fields.disabled = true  
+      // var form = document.getElementById('commentform');
+      commentform.action = {{ site.comments.receiver }}
+      console.log('form action reached');
+      button.innerText = 'Posting...';
+      button.disabled = true;
+      commentform.submit();
+      console.log('form submitted');
+      var fields = document.getElementById('commentfields');            
+      fields.disabled = true;  
       closeForm(); //added
     }      
     

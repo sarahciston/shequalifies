@@ -19,8 +19,8 @@ _What does my data say about me, that I couldn't say before? That I didn't want 
 - some subversive survival strategies and analog antecedents were overshadowed when they did not map onto quantifiable data systems, but may provide alternative models with more space for plurality (e.g. paper diaries as an open interface vs a mood app with five predetermined choices as a closed interface). 
 - when enacted computationally and at scale, data identities fracture and complicate the individualistic Western idea of ‘self.’ Rather, concepts of self and technology are co-extensive, continuous (a false dichotomy), calling for new understandings of identification that are temporal, performative, distributed, technophenomenological, embedded with active data, and accountable to their interrelations. If a self _is_ a technology, this allows for a critique of post/humanism and data culture that uses networked, immersive data to reveal relational intersubjectivity without flattening inequity. It calls for a broader agential ecology and an ethics of care as counter-strategies to current exploitative methods, including a reconsideration of what ‘counts’ as data and how it is owned, offered, optimized, interpreted, and embodied. 
 
-
-### organizing metaphor
+### organizing metaphors & verbs
+infinite scroll, flagging
 
 ### historical moments, conceptual & technical shifts
 

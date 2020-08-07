@@ -29,7 +29,7 @@ $btn-primary-color: $purple-100;
 
 /* The popup form - hidden by default */
 .newComment {
-  display: none ; /* block */
+  display: block; /*none ;  block */
   position: fixed;
   bottom: 0;
   right: 15px;
@@ -57,4 +57,11 @@ $btn-primary-color: $purple-100;
 .form-container input[type=text]:focus {
   background-color: #ddd;
   outline: none;
+  display: none; /*none ;  block */
 }
+
+/*
+#message input[type=text]:focus {
+  lable:
+}
+*/
