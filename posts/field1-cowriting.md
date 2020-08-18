@@ -63,6 +63,8 @@ all of this goes to my arguments to dispell the magical unthought differences be
 
 The citational nature of code connects it to writing, community, natural language etc. (pull Hayles contrasting quote and critique it). Not that there is NO differences but they don't have all that power; I argue for a spectrum, continuum. 
 
+
+
 #### Others
 
 >"signifiers of voltage differences" (Kittler 150)
