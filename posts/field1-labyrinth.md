@@ -9,7 +9,7 @@ excerpt_separator:  <!--more-->
 
 {% include references.md %}
 
-## labyrinths, a wander
+## labyrinth, a wander
 
 A labyrinth is a visual algorithm written in dirt, read to one's body with the soles of one's feet, processed at any speed. Slow is best. Its simplest form is a spiral, drawn freehand, unthinking, a temporary standin or spiritual ascension. 
 

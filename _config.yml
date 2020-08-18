@@ -27,7 +27,7 @@ theme: just-the-docs #chalk minima #jekyll-theme-with-hack-css
 # logo: "/assets/images/just-the-docs.png"
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: sarah #darkpurple
+color_scheme: sarah #sarah #darkpurple #light
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -74,9 +74,6 @@ heading_anchors: true
 # Sort order for navigation links
 nav_sort: case_insensitive # default, equivalent to nil
 # nav_sort: case_sensitive # Capital letters sorted before lowercase
-
-# Footer content
-# appears at the bottom of every page's main content
 
 # Back to top link
 back_to_top: false

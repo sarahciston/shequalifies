@@ -117,12 +117,12 @@ var j = schedule.scheduleJob(ruleFresh, function(){
 var ruleLoad = new schedule.RecurrenceRule();
 // ruleFresh.dayOfWeek = [0, new schedule.Range(4, 6)];
 // ruleFresh.hour = [0, new schedule.Range(4, 6)];
-ruleLoad.hour = [0, new schedule.Range(2, 23, 6)]; //2,4,6,8,10,12,14,16,18,20,22] step param 2
-ruleLoad.minute = 30;
-// var k = schedule.scheduleJob({hour: 8}, function(){
-//   cron.load()
-//   console.log(j.nextInvocation())
-// });
+ruleLoad.hour = [0, new schedule.Range(1, 23, 4)]; //2,4,6,8,10,12,14,16,18,20,22] step param 2
+ruleLoad.minute = 15;
+var k = schedule.scheduleJob(ruleLoad, function(){
+  cron.load()
+  console.log(k.nextInvocation())
+});
 
 // var j = schedule.scheduleJob('* * /2 * *', cron.fresh() ); //refresh withings code
 // var k = schedule.scheduleJob('* * /3 * *', cron.load() ); //refresh withings code

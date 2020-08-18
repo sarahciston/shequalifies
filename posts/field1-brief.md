@@ -1,6 +1,5 @@
 ---
 title: field 1 brief
-nav_order: 4
 parent: co-writing with algorithms
 last_modified_date: 2020-07-30 10:40
 ---

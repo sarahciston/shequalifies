@@ -1,7 +1,7 @@
 ---
 title: embodied data
-nav_order: 96
-last_modified_date: 2020-08-16 00:29
+nav_order: 3
+last_modified_date: 2020-08-17 20:57
 ---
 
 {% include glossary.md %}
@@ -34,7 +34,7 @@ _a running total calculated using a proprietary algorithm, from a range of weigh
     {%- assign lengthSleep = series | size | minus: 1 -%}
     {%- assign sleep = series[lengthSleep].data -%}
     {%- assign light = sleep.lightsleepduration | divided_by: 3600 | round: 2 -%}
-    {%- assign deep = sleep.deepsleepduration | divided_by: 3600 | round: 2 -%}
+    {% assign deep = sleep.deepsleepduration | divided_by: 3600 | round: 2 %}
     - I slept {{ light | plus: deep }} hours ({{ light }} hours lightly and {{ deep }} hours deeply).
   
 ### and I spent...

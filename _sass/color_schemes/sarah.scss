@@ -1,20 +1,16 @@
 
 $nav-width: 375px;
 $nav-width-md: 300px;
-$nav-list-item-height: $sp-6;
-$nav-list-item-height-sm: $sp-8;
-$nav-list-expander-right: true;
 $content-width: 900px;
 $header-height: 65px;
-$search-results-width: $content-width - $nav-width;
-$transition-duration: 300ms;
+$transition-duration: 300ms; 
 
 $media-queries: (
   xs: 320px,
   sm: 500px,
   md: 550px, /*$content-width*/
   lg: 950px, /*$content-width + $nav-width,*/
-  xl: 1000px,
+  xl: 1000px
 );
 
 
@@ -63,9 +59,3 @@ $btn-primary-color: $purple-100;
   outline: none;
   display: none; /*none ;  block */
 }
-
-/*
-#message input[type=text]:focus {
-  lable:
-}
-*/

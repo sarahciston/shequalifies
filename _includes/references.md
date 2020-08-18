@@ -29,7 +29,6 @@
 *[Sedgwick]: Sedgwick, Eve K. 2011. “Making Things, Practicing Emptiness” & “Reality and Realization.” _The Weather in Proust_.
 *[Sobchack]: Sobchack, Vivian. 2004. “Susie Scribbles: On Technology, Technë, and Writing Incarnate.” Carnal Subjects.
 *[Todorovic]: Todorovic, Vladimir and Dejan Grba. 2019. “Helping Machines (Help Us) Make Mistakes: Narrativity in Generative Art.” xCoAx 2019 Proceedings.
-
 <!-- field2 -->
 *[Bennett]: Bennett, Jane. 2010. Vibrant Matter. 
 *[Berson]: Berson, Josh. 2015. Computable Bodies. 
@@ -52,7 +51,8 @@
 *[Foucault]: Foucault, Michel. 1988. “Technologies of the Self.” Technologies of the Self.
 *[Hong]: Hong, Sun-ha. 2016. “Data’s Intimacy: Machinic Sensibility and the Quantified Self” Communication +1.
 *[Marks]: Marks, Laura U. 1998. “Video Haptics and Erotics.” Screen 39:4.
-*[Posner & Klein]: Posner, Miriam and Lauren Klein. 2017. “Data as Media.” Feminist Media Histories.
+*[Posner]: Posner, Miriam and Lauren Klein. 2017. “Data as Media.” _Feminist Media Histories_.
+*[Klein]: D’Ignazio, Catherine, and Lauren Klein. 2019. _Data Feminism_; Posner, Miriam and Lauren Klein. 2017. “Data as Media.” _Feminist Media Histories_.
 *[Proulx]: Proulx, M. 2016. “Protocol and Performativity: Queer Selfies and the Coding of Online Identity.” Performance Research. 
 *[Raley]: Raley, Rita. 2006. “Code.surface || Code.depth.” dichtung-digital.; 2009. Tactical Media.; 2013. “Dataveillance and Countervailance.” Raw Data is an Oxymoron.; 2018. “LOVE.ABZ AND THE TASK OF THE MACHINE TRANSLATOR - An Interview with Otso Huopaniemi.” AModern. https://amodern.net/article/love-abz/
 *[Ravetto-Biagioli]: Ravetto-Biagioli, Kriss. 2016. “The Digital Uncanny and Ghost Effects.” Screens.
@@ -60,13 +60,13 @@
 *[Rotman]: Rotman, Brian. 2008. “Parallel Selves.” Becoming Beside Ourselves. 
 *[Schüll]: Schüll, Natasha Dow. 2016. “Data for Life: Wearable Technology and the Design of Self-Care.” BioSocieties.
 *[Wissinger]: Wissinger, Elizabeth. 2017. “Wearable Technology and the Woman Question.” Digital Sociologies. eds. Jessie Daniels, et al. 
-
 <!-- field3 -->
 *[Ahmed]: Ahmed, Sara. 2006. Queer Phenomenology; —. 2017. Living a Feminist Life.
 *[Adam]: Adam, Alison. 1998. Artificial Knowing: Gender and the Thinking Machine.
 *[Apprich]: Apprich, Clemens, Wendy Hui Kyong Chun, Florian Cramer, & Hito Steyerl. 2018. Pattern Discrimination.
-*[Apprich]: Benjamin, Ruha. 2019. _Race After Technology: Abolitionist Tools for the New Jim Code._
-*[D’Ignazio & Klein]: D’Ignazio, Catherine, and Lauren Klein. 2019. Data Feminism. 
+*[Benjamin]: Benjamin, Ruha. 2019. _Race After Technology: Abolitionist Tools for the New Jim Code._
+*[D’Ignazio & Klein]: D’Ignazio, Catherine, and Lauren Klein. 2019. Data Feminism.
+*[Klein]: D’Ignazio, Catherine, and Lauren Klein. 2019. _Data Feminism_; Posner, Miriam and Lauren Klein. 2017. “Data as Media.” _Feminist Media Histories_.
 *[Dunbar-Hester]: Dunbar-Hester, Christina. 2020. _Hacking Diversity: The Politics of Inclusion in Open Technology Cultures._
 *[McPherson]: McPherson, Tara. 2018. _Feminist in a Software Lab._ 
 *[Noble]: Noble, Safiya Umoja. 2018. _Algorithms of Oppression._
@@ -90,5 +90,3 @@
 *[Sundén]: Sundén, Jenny. 2018 “Queer Disconnections: Affect, Break, and Delay in Digital Connectivity.” Transformations 31:4. 
 *[Steyerl]: Apprich, Clemens, Wendy Hui Kyong Chun, Florian Cramer, & Hito Steyerl. 2018. Pattern Discrimination.
 *[Sweeney]: Sweeney, Miriam E. 2016. “The Intersectional Interface.” In The Intersectional Internet: Race, Sex, Class and Culture Online.
-
-
