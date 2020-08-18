@@ -1,10 +1,13 @@
 ---
-layout: default
 title: field 2 brief
 nav_order: 6
 parent: immersive data identities
 last_modified_date: 2020-08-1 14:00
 ---
+
+{% include glossary.md %}
+
+{% include references.md %}
 
 # immersive data identities
 
@@ -21,6 +24,7 @@ _What does my data say about me, that I couldn't say before? That I didn't want 
 
 ### organizing metaphors & verbs
 infinite scroll, flagging
+a self API
 
 ### historical moments, conceptual & technical shifts
 
@@ -34,4 +38,4 @@ infinite scroll, flagging
 
 ### sub-topics
 
-### the gaps, interventions to be made
+### gaps & interventions

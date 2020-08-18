@@ -125,7 +125,7 @@ layout: table_wrappers
 <form action="/newComment" method="post" id="commentform" class="form-horizontal" >
   <fieldset id="commentfields" hidden="true">
     <h4>add a comment</h4>
-    <input name="redirect" type="hidden" value="{{ page.title }}">
+    <input name="basename" type="hidden" value="{{ page.path }}">
     <input name="pageId" type="hidden" value="{{ page.title }}">
 
     <label for="name">name</label>
@@ -208,18 +208,12 @@ layout: table_wrappers
     
     addbutton.addEventListener("click", openCommentBox);
     
-    function closeCommentBox() {
-      console.log('close');
-      list = [];
-      addbutton.innerText = "add a comment";
-      commentfields.hidden = true;
-      commentform.style.display = "none";
-      addbutton.addEventListener("click", openCommentBox);
-    }
+    
     
     function openCommentBox() {
       console.log('open');
       addbutton.innerText = "cancel";
+      commentbutton.disabled = false;
       commentfields.hidden = false;
       commentform.style.display = "block";
       list.push(selectedText);
@@ -228,18 +222,32 @@ layout: table_wrappers
       addbutton.addEventListener("click", closeCommentBox);
     }
     
+    function closeCommentBox() {
+      console.log('close');
+      list = [];
+      addbutton.innerText = "add a comment";
+      commentbutton.disabled = false;
+      commentfields.hidden = true;
+      commentform.style.display = "none";
+      addbutton.addEventListener("click", openCommentBox);
+    }
+    
     function select() {
       selection = document.getSelection();
       selectedText = selection.toString();
       console.log(selectedText);
       document.onmouseup = function() {
-        console.log('mouseup');
-        openCommentBox();
-      }
-    }
+        if (selectedText != "") {
+          console.log('mouseup');
+          openCommentBox(); 
+        };
+      };
+    };
     
     document.addEventListener("selectionchange", select);
     
+    addbutton.addEventListener("click", openCommentBox);
+
     // document.addEventListener('mouseup', console.log('finished mouseup'));
     // document.onselectionchange = function() {
     //   selection = document.getSelection();
@@ -306,12 +314,12 @@ layout: table_wrappers
       // var form = document.getElementById('commentform');
       commentform.action = {{ site.comments.receiver }}
       console.log('form action reached');
-      button.innerText = 'Posting...';
-      button.disabled = true;
+      commentbutton.innerText = 'Posting...';
+      commentbutton.disabled = true;
       commentform.submit();
       console.log('form submitted');
       var fields = document.getElementById('commentfields');            
-      fields.disabled = true;  
+      // fields.disabled = true;  
       closeForm(); //added
     }      
     

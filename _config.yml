@@ -9,6 +9,8 @@ timezone: America/Los_Angeles
 
 # url: https://shequalifies.glitch.me
 # baseurl: https://shequalifies.glitch.me
+permalink: /:title/
+# permalink: /:categories/:year/:month/:day/:title
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up

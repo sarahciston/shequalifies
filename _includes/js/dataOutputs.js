@@ -1,13 +1,28 @@
 const fs = require("fs");
 
-let rescueDaily = fs.readFileSync('../assets/data/rescueDaily.json');
-rescueDaily = JSON.parse(rescueDaily);
+// let rescueDaily = fs.readFileSync('../assets/data/rescueDaily.json');
+// rescueDaily = JSON.parse(rescueDaily);
 
-for (let i=0; i< rescueDaily.length; i++){
-  let date = rescueDaily[i].date
-  let dailyCompUse = rescueDaily[i].total_duration_formatted
-  console.log(date, dailyCompUse)
+// for (let i=0; i< rescueDaily.length; i++){
+//   let date = rescueDaily[i].date
+//   let dailyCompUse = rescueDaily[i].total_duration_formatted
+//   console.log(date, dailyCompUse)
+// }
+
+exports.wordcount = (req, res) => {
+//   {{ site.post }}?=wordcount //posts/bodydata.html?=wordcount
+  let path = req.query
+  console.log(path)
+  // let f = fs.readFileSync("./posts/bodydata.md")
+  let f = fs.readFileSync(path)
+  f = String(f)
+  let words = f.split(' ') //creates an array
+  let wordcount = words.length
+  console.log(wordcount)
+  return wordcount
 }
+
+
 
 // <ul>
 // {% for day in site.assets.data.rescueDaily %}
@@ -40,12 +55,12 @@ for (let i=0; i< rescueDaily.length; i++){
 
 
 
-// <!-- <script type="application/javascript">
-fetch('/rescueDaily').then(res =>{
-  res = JSON.parse(res)
-  console.log(res)
-  var test = document.getElementById("test");
-  test.innerhtml(res[0].total_duration_formatted);
-  test.hidden = false;
-}).catch(err =>{console.log(err)})
-// </script> -->
+// // <!-- <script type="application/javascript">
+// fetch('/rescueDaily').then(res =>{
+//   res = JSON.parse(res)
+//   console.log(res)
+//   var test = document.getElementById("test");
+//   test.innerhtml(res[0].total_duration_formatted);
+//   test.hidden = false;
+// }).catch(err =>{console.log(err)})
+// // </script> -->

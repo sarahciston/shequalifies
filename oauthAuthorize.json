@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--0052730a -->
+		<title>Mon compte</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+
+		<link rel="apple-touch-icon" href="/favicon.png" sizes="57x57">
+	    <link rel="apple-touch-icon" href="/favicon.png" sizes="72x72">
+	    <link rel="apple-touch-icon" href="/favicon.png" sizes="76x76">
+	    <link rel="apple-touch-icon" href="/favicon.png" sizes="114x114">
+	    <link rel="apple-touch-icon" href="/favicon.png" sizes="120x120">
+	    <link rel="apple-touch-icon" href="/favicon.png" sizes="144x144">
+	    <link rel="apple-touch-icon" href="/favicon.png" sizes="152x152">			<link href="/min/g=baseCSS,blockCSS&amp;0052730a" rel="stylesheet" type="text/css" media="screen">		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		  ga('create', 'UA-6686090-26', 'withings.com');
+		  ga('require', 'linkid', 'linkid.js');ga('send', 'pageview');		</script>	</head>
+	<body>			<!--COOKIE BAR-->
+			<div class="cookieBar">
+				<p>En cliquant et en naviguant sur ce site, vous autorisez l'usage des cookies à améliorer votre expérience et à vous fournir du contenu publicitaire personnalisé avec nos partenaires.</p>
+				<div class="actions">
+					<a target="_blank" href="https://www.withings.com/legal/cookies" type="button" class="btn btn-secondary white moreButton">En savoir plus</a>
+					<button type="button" class="btn btn-main white acceptButton">J'accepte</button>
+				</div>
+				<a class="acceptButton">J'accepte</a>
+			</div>	<div id="signin" class="container-fluid">
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 sidebar">
+				<div class=" logo"></div>
+				<div class="contentForm">
+					<h3>Mon compte</h3>						<a href="/oauth2_user/account_create?b=authorize2">Je n'ai pas de compte</a>					<div class="alert alert-success hide"></div>
+					<form method="post" role="form" novalidate>
+						<div class="form-group">
+							<label class="control-label">E-mail</label>
+							<input type="email" name="email" value="" class="form-control email" placeholder="E-mail"autofocus="autofocus" tabindex="1">
+						</div>
+						<div class="form-group">
+							<label class="control-label">Mot de passe</label>
+							<input type="password" name="password" class="form-control password" placeholder="Mot de passe" tabindex="2">
+						</div>						<input type="hidden" name="use_2fa" value="">							<div class="form-group forgotpassword">
+								<a class="pull-right" href="/forget">Mot de passe oublié ?</a>
+							</div>
+						<div class="createButton">
+							<button type="submit" class="btn btn-main dark-blue btn-lg center-block btn-block" tabindex="4">Connexion</button>
+						</div>
+						<input type="hidden" name="is_admin"  value="f">
+						<input type="hidden" name="csrf_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImV4cCI6MTU5Njk1MDE5Miwic2Vzc2lvbiI6ZmFsc2V9.9IRCokSgXKCx8KsLNrSkOq1OUvci8m3Ok-58wuaZG9s">
+					</form>
+				</div>
+			</div>
+			<div class="hidden-xs col-sm-6 col-md-8 col-lg-9 image">
+			</div>
+		</div>
+	</div>			<script type="text/javascript" src="/min/g=baseJS&amp;0052730a"></script>		<script type="text/javascript">
+			wiService.sessionid = "";
+			constants.REV       = "0052730a";
+            constants.COOKIE_CONSENT_DOMAIN = "withings.com";
+		</script>	<script src="https://apis.google.com/js/api:client.js"></script>
+	<script>
+		function getParameterByName(name, url) {
+			if (!url) {
+				url = window.location.href;
+			}
+			name = name.replace(/[\[\]]/g, "\\$&");
+			var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+			results = regex.exec(url);
+			if (!results) return null;
+			if (!results[2]) return '';
+			return decodeURIComponent(results[2].replace(/\+/g, " "));
+		}
+		$(function() {
+		 	"use strict";
+			// Request verify
+			$("#verify_button").on("click", function() {
+				var redirect_uri = getParameterByName("r");
+				var wsdata = {
+					service: 'v2/account',
+					method: 'requestverify',
+					data : {
+						email: $(".email").val()
+					}
+				};
+
+				if(redirect_uri != null) {
+					wsdata.data.redirect_uri = redirect_uri;
+				}
+
+				wiService.call(wsdata).done(function(data) {
+					$("form").addClass("hide");
+					$(".alert-danger").addClass("hide");
+					$(".alert-success").append('<li>Un lien de réactivation vous a été envoyé. Merci de vérifier votre boîte de réception.</li>');
+					$(".alert-success").removeClass("hide");
+				});
+			});
+
+			//Form submit
+			$("form").on("submit", function() {
+			 	//Remove previous alerts
+			 	$(".alert").remove();
+			 	$('.form-group').removeClass('has-error');
+
+				var errors = [];
+				var reg = /^.+\@.+\..+|account:\d+$/;
+
+				var $mail 		= $(".email");
+				var $password 	= $(".password");
+
+				//Check errors
+				if ($mail.val() == "") {
+					errors.push("Veuillez entrer un e-mail");
+					$mail.parent().addClass("has-error");
+				} else if (!reg.test($mail.val())) {
+					errors.push("Le format de l'adresse e-mail est incorrect.");
+					$mail.parent().addClass("has-error");
+				} else if ($password.val() == "") {
+					errors.push("Veuillez entrer un mot de passe");
+					$password.parent().addClass("has-error");
+				}
+
+				if (errors.length) {
+					var e = "<div class='alert alert-danger'>";
+					for (var error in errors) {
+						e += errors[error];
+					}
+					e += "</div>";
+					$("form").before(e);
+					return false;
+				}
+			});
+		});	</script>	</body>
+</html>

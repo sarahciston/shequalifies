@@ -3,7 +3,7 @@ const fs = require('fs');
 const cors = require('cors');
 const uuid = require('uuid');
 const url = require('url');
-// const schedule = require('node-schedule');
+const schedule = require('node-schedule');
 
 // const { validateComment } = require('./_comments/validation');
 // const { renderMarkdown } = require('./_comments/markdown');
@@ -29,17 +29,20 @@ app.set('view engine', "jekyll")
 ////COMMENTS START
 
 async function createComment(req) {
+  let basename = req.body.basename;
+  basename = "/" + basename.replace('.md', '');
+      
   let comment = {
     name: req.body.name,
     email: req.body.email,
     message: req.body.message,
     quote: req.body.quote,
     pageId: req.body.pageId,
-    redirect: req.body.redirect,
+    basename: basename,
     commentId: uuid.v4(),
     createdAt: new Date().toISOString()
   }
-  
+    
   await storeComment(comment);
 
   return mapComment(comment);
@@ -49,7 +52,7 @@ function mapComment(data) {
   return {
     commentId: data.commentId,
     pageId: data.pageId,
-    redirect: data.redirect,
+    basename: data.basename,
     name: data.name,
     email: data.email,
     message: data.message,
@@ -61,8 +64,11 @@ function mapComment(data) {
 
 app.post('/newComment', (req, res, next) => {
   createComment(req)
-    .then((res) => console.log(res))
-    .catch((err) => next(err))
+    .then((data) => {
+      console.log(data);
+      console.log(data.basename)
+      res.redirect(data.basename)
+  }).catch((err) => next(err))
 });
 ////COMMENTS END
 
@@ -75,31 +81,58 @@ app.get("/", (request, response) => {
 });
 
 let withings = require("./_includes/js/withings.js")
+// app.all("/withOauth", withings.oauth) //doesnt work use terminal
 app.get("/withRefresh", withings.refresh)
+
 app.get("/withToday", withings.today)
 app.get("/withWeight", withings.weight)
 app.get("/withSleep", withings.sleep)
 
 let rescue = require("./_includes/js/rescueTime.js")
 app.get("/rescueDaily", rescue.daily)
+app.get("/rescueToday", rescue.today)
+app.get("/rescueAugust", rescue.august)
 
+let path = "./posts/bodydata.md"
+let { wordcount } = require("./_includes/js/dataOutputs.js")
+app.get("/wordcount", wordcount)
 
 const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
 
 //chron jobs
-// var j = schedule.scheduleJob('* * /6 * *', function(){
-//   console.log('The answer to life, the universe, and everything!');
+const cron = require('./cron.js')
+
+var ruleFresh = new schedule.RecurrenceRule();
+// ruleFresh.dayOfWeek = [0, new schedule.Range(4, 6)];
+// ruleFresh.hour = [0, new schedule.Range(4, 6)];
+ruleFresh.hour = [0, new schedule.Range(2, 22, 2)]; //2,4,6,8,10,12,14,16,18,20,22] step param 2
+ruleFresh.minute = 0;
+var j = schedule.scheduleJob(ruleFresh, function(){
+  cron.fresh()
+  console.log(j.nextInvocation())
+});
+
+var ruleLoad = new schedule.RecurrenceRule();
+// ruleFresh.dayOfWeek = [0, new schedule.Range(4, 6)];
+// ruleFresh.hour = [0, new schedule.Range(4, 6)];
+ruleLoad.hour = [0, new schedule.Range(2, 23, 6)]; //2,4,6,8,10,12,14,16,18,20,22] step param 2
+ruleLoad.minute = 30;
+// var k = schedule.scheduleJob({hour: 8}, function(){
+//   cron.load()
+//   console.log(j.nextInvocation())
 // });
 
-// var j = schedule.scheduleJob({second: 1}, function(fireDate){
-//   console.log('answer the universe!' + fireDate);
-// });
+// var j = schedule.scheduleJob('* * /2 * *', cron.fresh() ); //refresh withings code
+// var k = schedule.scheduleJob('* * /3 * *', cron.load() ); //refresh withings code
 
-// var r = schedule.scheduleJob({minute: 15}, function(fireDate){
+// var j = schedule.scheduleJob({minute: 1}, cron.fresh())
+// var k = schedule.scheduleJob({hour: 2}, cron.load())
+
+// var j = schedule.scheduleJob({minute: 7}, function(fireDate){
 //   console.log('answer me!' + fireDate);
-//   withings.refresh()
+//   cron.fresh()
 // });
 
 

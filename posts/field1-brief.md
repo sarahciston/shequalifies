@@ -1,10 +1,13 @@
 ---
-layout: page
 title: field 1 brief
 nav_order: 4
 parent: co-writing with algorithms
 last_modified_date: 2020-07-30 10:40
 ---
+
+{% include glossary.md %}
+
+{% include references.md %}
 
 # co-writing with algorithms
 
@@ -20,7 +23,8 @@ _How does language change within algorithmic systems, and how does it change us?
 - not only what these ML/NLP tools have to offer an expanded/obliterated definition of agency/authorship, but also how they require/inspire new experimental forms that interrogate their problematic current uses and expand their creative, even activist imaginaries through poetic practices
 
 ### organizing metaphors & verbs
-labyrinth, loop
+labyrinth
+loop, gif, recursion, spiral, labyrinth again, the substrata trauma repeating
 
 ### historical moments, conceptual & technical shifts
 
@@ -34,6 +38,4 @@ labyrinth, loop
 
 ### sub-topics
 
-### the gaps, interventions to be made
-
-
+### gaps & interventions
