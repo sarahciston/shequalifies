@@ -15,10 +15,10 @@ last_modified_date: 2020-08-17 20:57
 _a running total calculated using a proprietary algorithm, from a range of weighted factors, updated in real time (range: 0--1)_
 {: .fs-2 }
 
-<!-- Today's word count: {{ site.data.wordcount[0].words }} -->
-
 ### today in this body so far...
-    
+
+<!--     {% assign wordcount = site.page.co-writing-with-algorithms.wc %} -->
+<!--     - I have written {{ wordcount }} words -->
     {%- assign activities = site.data.withingsToday.body.activities -%}
     {%- assign lengthToday = activities | size | minus: 1 -%}
     {% assign today = activities[lengthToday] %}

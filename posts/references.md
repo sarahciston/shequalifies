@@ -48,6 +48,7 @@ last_modified_date: 2020-08-15 19:17
 1. Eve Language. [witheve.com](http://witheve.com/)
 1. Holzer, Jenny. 1970s-2020s. “Living,” “Truisms,” “Survival.”
 1. MEZ (Mary Anne Breeze). Selected works.
+1. [Moll, Joanna. 2014. “CO2GLE”, 2019. “The Hidden Life of an Amazon User.”](https://www.janavirgin.com/)
 1. Motte, Warren F. Oulipo: A Primer for Potential Literature.
 1. Stein, Gertrude. Tender Buttons. 
 1. Robertson, Lisa. Nilling.

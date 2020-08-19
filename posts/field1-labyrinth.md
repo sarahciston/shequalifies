@@ -32,8 +32,10 @@ But who is [the woman](https://lt.ikscience.com/98017-betty-shannon-unsung-mathe
 
 When I put myself in Zoom-ready webcam frame in front of the Img2Txt machine learning algorithm, with no particular extra training, it sees: "a woman standing in front of a mirror brushing her teeth." Not scholar with pen or programmer or artist. And this is self-isolation; I haven't necessarily brushed my teeth either. 
 
-I train a new model using a tiny dataset of images of labyrinths, interested in what it will find. Like a hobbiest brushing dust off a chest in an attic more than a scientist with her carefully measured hypotheses. 
+<!-- I train a new model using a tiny dataset of images of labyrinths, interested in what it will find. Like a hobbiest brushing dust off a chest in an attic more than a scientist with her carefully measured hypotheses. But the model won't train in time. -->
 
+Italo Calvino (quoting Hans Magnus Enzensberger): _“these games of orientation are in turn games of disorientation. Therein lies their fascination and their risk. The labyrinth is made so that whoever enters it will stray and get lost. But the labyrinth also poses the visitor a challenge: that he reconstruct the plan of it and dissolve its power. If he succeeds, he will have destroyed the labyrinth ; for one who has passed through it, no labyrinth exists."_ (Calvino 1987, 23)
+{: .fs-3 }
 
 [^1]: Are all metaphors reversible? 
 
