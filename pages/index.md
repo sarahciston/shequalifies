@@ -23,7 +23,10 @@ Today I am writing Field 1: [Co-Writing with Algorithms](posts/field1-cowriting)
 >_"All perception is a commons. All subjectivity is intersubjectivity. Self is self-through-other."_ --Andreas Weber
 {: .fs-3 }
 
->_“people and their data make each other”_ --Deborah Lupton 
+>_"people and their data make each other"_ --Deborah Lupton 
+{: .fs-3 }
+
+> _"the edges of letters are memorable, emotional places, and remain so"_ --Anne Carson
 {: .fs-3 }
 
 <!-- >_“the letter is a threshold”_ --John Cayley
