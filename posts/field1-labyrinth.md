@@ -1,7 +1,7 @@
 ---
 title: labyrinth
 parent: co-writing with algorithms
-last_modified_date: 2020-08-12 19:54
+last_modified_date: 2020-08-19 02:06
 excerpt_separator:  <!--more-->
 ---
 
@@ -36,6 +36,9 @@ When I put myself in Zoom-ready webcam frame in front of the Img2Txt machine lea
 
 Italo Calvino (quoting Hans Magnus Enzensberger): _“these games of orientation are in turn games of disorientation. Therein lies their fascination and their risk. The labyrinth is made so that whoever enters it will stray and get lost. But the labyrinth also poses the visitor a challenge: that he reconstruct the plan of it and dissolve its power. If he succeeds, he will have destroyed the labyrinth ; for one who has passed through it, no labyrinth exists."_ (Calvino 1987, 23)
 {: .fs-3 }
+
+>"form is a passage" --Erin Manning
+_and we move from noself to noself_
 
 [^1]: Are all metaphors reversible? 
 

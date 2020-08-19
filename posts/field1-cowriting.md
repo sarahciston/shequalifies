@@ -2,7 +2,7 @@
 title: co-writing with algorithms
 nav_order: 4
 has_children: true
-last_modified_date: 2020-08-18 15:52
+last_modified_date: 2020-08-19 02:08
 <!-- wc: wordcount -->
 ---
 
@@ -50,7 +50,8 @@ Most of the theorists across media studies, software studies, and related fields
 
 Each theorist may define their terms and draw the boundaries between them in different places, and raise different stakes on the nuanced distinctions, which I will detail further; however, a primary shared concern remains to unpack the relationships between parts of these complex systems---networked human-machine social assemblages--which their complexity obscures. While abstraction can be necessary to operate (hard to drive a car if thinking about all the ways it works at once), when abstraction contributes to mystification and loss of agency, encapsulation and individualism, or ***probably the third thing I'm forgetting, The extractive/capture of .... and the narrowing of possibilities as they are privatized (power consolidation), the belief that we cannot understand or alter systems (mystification), transfer agency to inanimate objects, etc. XXX COME BACK TO THIS XXX** 
 
-First I will discuss how **XX** authors have characterized the distinct properties of code language and its entanglements with self/other/technology, describing how they may intersect or conflict. Then I will outline my framing of a more porous relationship of languages (both coded and natural), other technological tools, selves, and others. I will draw on examples from my own body of artistic research practice as well as from historical and contemporary artists to discuss what kinds of artworks, entanglements, and **somethingsXXX** this framework potentially produces for the field---in particular by revealing how obfuscated aspects of these systems work, by finding emergent possibilities in the gaps and excesses, or **other thing GS/other/corporate**. Throughout this discussion, I will break out/pull in code snippets and moments of writing that produce this document(?) to help point to or begin to sketch possibilities for a ***critical-creative-code writing** that both describes and enacts this framework.[^Logs]
+**update for what I actually did, talked about code, then subjects, then...**
+First I will discuss how **XX** authors have characterized the distinct properties of code language and its entanglements with self/other/technology, describing how they may intersect or conflict. Then I will outline my framing of a more porous relationship of languages (both coded and natural), other technological tools, selves, and others. I will draw on examples from my own body of artistic research practice as well as from historical and contemporary artists to discuss what kinds of artworks, entanglements, and **somethingsXXX** this framework potentially produces for the field---in particular by revealing how obfuscated aspects of these systems work, by finding emergent possibilities in the gaps and excesses, or **other thing GS/other/corporate**. Throughout this discussion, **I will break out/pull in code snippets** and moments of writing that produce this document(?) to help point to or begin to sketch possibilities for a ***critical-creative-code writing** that both describes and enacts this framework.[^Logs]
 
 [^Logs]: Example, check the logs of this live code by visiting the link in the upper right corner of the site, then when the source code is shown, click tools at the bottom left, then Logs. You'll see a running thread of the server-side processes printed out as the site builds and rebuilds each time changes are made or data is updated.
 
@@ -98,37 +99,22 @@ Hayles portrays code as distinct type of language because it enacts itself, and 
 
 >understanding code as re-source links its effectiveness to history and context. _If code is performative, it is because of the community (human and otherwise) that enables such utterances to be repeated and executed, that one joins through such citation._ [...] what is crucial to a performative utterance’s success or failure is its iterability, [...] What is crucial here is: first, code that succeeds must be citations---and extremely exact citations at that. _There is no room for syntax errors_; second, that _this iterability precedes the so-called subject (or machine) that is supposedly the source of the code_; and third, and most importantly, _an entire structure must be in place in order for a command to be executed. This structure is as institutional and political as it is machinic._ (322, emphasis added)
 
-While I will discuss later where I think error may emerge as a useful component, I support the citational, iterable view of code that situates it in context of its human creators and audiences, as well as within technological infrastructures. This view also connects it to other writing practices, community practices, and subjects. 
+While I will discuss later where I think error may emerge as a useful component, I support the citational, iterable view of code that situates it in context of its human creators and audiences, as well as within technological infrastructures. This view also connects it to other writing practices, community practices, and subjects; and it connects the iterable, recursive properties of code to its perforative, interpellating properties. 
 
 I would maintain the need for some specificity that can parse differences between digital and analog, between coding languages and other human languages, but not so much that insists upon ignoring their commonalities or granting those differences too much power or magic, erasing our human roles and agency in the process. Rather, I am interested in how these living languages may operate across a spectrum and influence each other as they evolve together.
 
-## 2. abstraction: the self is a technology
+## 2. entanglement
 
-### 2.1 analog continuum not digital discrete
+### 2.1 self--other--technology systems
 
+The work of clarifying code and its position(s) in computational and cultural systems also helps clarify its entangled relationships with individuals, as Chun and Hayles began to touch on above. Viewing self--others--tech as a messy interrelated set of systems is important as the frequency of digital encounters nears continuous and as the impact and influence of digital languages and other technological objects grows:
 
-Both Chun and Hayles argue that code precedes subjectivity: 
+>This may seem strange at ﬁrst: to recover the subject in the physical minutiae of the encounter between text and machine. The point of contact between human, text, and device is signiﬁcant because it is in the liminal zone of semiotic exchange where subjects disappear into machines and where machines step forth as animated and seemingly intelligent actors. Our ability to apprehend the politics of smart objects depends on the formulation of their poetics: how they are made. (Tenen 2017, 10)
 
->“Because it is a frequent point of confusion, I emphasize that these dynamics happen before (or after) any human interpretation of these messages. Whatever messages on screen may say or imply, they are themselves generated through a machine dynamics that has little tolerance for ambiguity, floating signifiers, or signifiers without corresponding signifieds.” (Hayles 2005, 47) _It's a complex question but it's untrue, humans wrote them somewhere, but true that they happen on different scales, affect us other humans before we realize (relate to parisi, et al, scale_
+Again, and as Tenen (2017) argues here, allowing the 'subject' to disavow agency as we imagine the 'machine' acquires it is a dangerous obfuscation of the how and what of computing. In this "liminal zone of semiotic exchange,"  
 
+### 2.2 analog continuum to digital discrete
 
-### Quotes I Haven't Used Yet
-
-#### Cox
->"programs no longer encode pure logic but human social behavior too. [...] systems are embedded in larger language systems where meanings are produced through social practices. In other words, computer programs have bodies in the sense that other materialities and meanings are deeply interwoven, and these necessarily exist as part of wider social relations." (Cox 2012, 26--27)
-
->"both subjectivity and code recursively write their own instrumentation. Yet the subject is not simply preprogrammed like a machine but more like code in actively combining internal and external factors, standing between what is possible and what actually exists. [...] collective and networked intelligence open up the conditions of possibility for reinvention by embracing broader contingencies, to challenge overpowering forces that wish to close them down, encapsulate and subsume them" (Cox 2012, 109).
-
-#### Tenen p2
-
->“This may seem strange at ﬁrst: to recover the subject in the physical minutiae of the encounter between text and machine. The point of contact between human, text, and device is signiﬁcant because it is in the liminal zone of semiotic exchange where subjects disappear into machines and where machines step forth as animated and seemingly intelligent actors. Our ability to apprehend the politics of smart objects depends on the formulation of their poetics: how they are made” (Tenen 2017, 10)
->“the possibility of machine phenomenology in relationship to humanism. “Computational poetics, I maintain, encourages users to become active thinkers, tinkerers, and makers of technology” (Tenen 2017, 12).
-
-
-#### tenen pt 1
-> “Despite its formative effect on practices of comprehension, code, the programmatic sign, does not often ﬁgure in our theories of meaning making. Instead, we consign it to the ornamental formatting layer of document structure. We do so at our peril. [...] Code is an exercise of power, not its representation. The difference between representation and control is one of brute force. It lies in the distinction between a restraining order and physical restraint” (Tenen 2017, 47–48) 
-
-_is it both, what do we mean when we say code, do we mean the word, or the whole system enacting it? have to call for a reading that actually reads the text but also looks at its context. no algorithm studies that doesn't scale, requires different readings at different levels working together to comprise a system...this is why a suite or a better metaphor for this matters?_
 
 
 #### Carson
@@ -141,6 +127,12 @@ _In the move from the epic to the lyric, Carson marks fragmentation, disjointed 
 >“In Archilochos and the other archaic poets we see people struck by new ways of thinking about edges—the edges of sounds, letters, words, emotions, events in time, selves. This is apparent in the way they use the materials of poetry, as well as in the things they say. Contraction and focus are the mechanism of lyric procedure. The sweep of epic narrative contracts upon a moment of emotion; the cast of characters is pared down to one ego; the poetic eye enters its subject in a single beam. The diction and meter of these poets seem to represent a systematic breakup of the huge floes of Homer's poetic system. Epic formulas of phrase and rhythm pervade lyric poetry, but they are broken apart and differently assembled in irregular shapes and joins.” (Carson 1998, 51)
 >“To anyone trained in this way [in writing by copying letterforms] the edges of letters are memorable, emotional places, and remain so.” (Carson 1998, 57)
 _would be interesting to look to non-Western/European traditions for how this process/lineage takes shape differently._
+
+
+
+### 2.3 self is a technology 
+
+>"both subjectivity and code recursively write their own instrumentation. Yet the subject is not simply preprogrammed like a machine but more like code in actively combining internal and external factors, standing between what is possible and what actually exists. [...] collective and networked intelligence open up the conditions of possibility for reinvention by embracing broader contingencies, to challenge overpowering forces that wish to close them down, encapsulate and subsume them" (Cox 2012, 109).
 
 #### Poster
 
@@ -160,7 +152,25 @@ Barthes, while the "death of the author" erased the importance of subjectivity/s
 >"The text, only the text," we are told, but "only the text" does not exist: [...] every reading derives from trans-individual forms: the associations engendered by the letter (but where is that letter?) [...] are always caught up (sampled and inserted) by certain codes, certain languages, certain lists of stereotypes. [...] Where do these rules come from? Certainly not from the author, who does nothing but apply them in his own way [...]; visible apart from him, these rules come from an age-old logic of narrative, from a symbolic form which constitutes us even before we are born---in a word, from that vast cultural space through which our person (whether author or reader) is only one passage. [...T]o read is to make our body work [...] at the invitation of the text's signs, of all the languages which traverse it and form something like the shimmering depth of the sentence. (Barthes 1989, 31)
 
 
+Both Chun and Hayles argue that code precedes subjectivity: 
 
+>“Because it is a frequent point of confusion, I emphasize that these dynamics happen before (or after) any human interpretation of these messages. Whatever messages on screen may say or imply, they are themselves generated through a machine dynamics that has little tolerance for ambiguity, floating signifiers, or signifiers without corresponding signifieds.” (Hayles 2005, 47) 
+_It's a complex question but it's untrue, humans wrote them somewhere, but true that they happen on different scales, affect us other humans before we realize (relate to parisi, et al, scale_
+
+
+
+
+
+
+
+
+#### tenen pt 1
+> “Despite its formative effect on practices of comprehension, code, the programmatic sign, does not often ﬁgure in our theories of meaning making. Instead, we consign it to the ornamental formatting layer of document structure. We do so at our peril. [...] Code is an exercise of power, not its representation. The difference between representation and control is one of brute force. It lies in the distinction between a restraining order and physical restraint” (Tenen 2017, 47–48) 
+
+_is it both, what do we mean when we say code, do we mean the word, or the whole system enacting it? have to call for a reading that actually reads the text but also looks at its context. no algorithm studies that doesn't scale, requires different readings at different levels working together to comprise a system...this is why a suite or a better metaphor for this matters?_
+
+>“the possibility of machine phenomenology in relationship to humanism. “Computational poetics, I maintain, encourages users to become active thinkers, tinkerers, and makers of technology” (Tenen 2017, 12).
+_w/parisi?_
 
 
 ## 3. multiply situated & emergent
@@ -190,7 +200,7 @@ B) The excess beyond linguistic capitalism, exemplified in recent work by [Allis
 [Compasses]: http://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf
 ![compasses1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FParrish-Compasses1.png?v=1597783585780)
 
-Gertrude Stein (2014, 1914): accretion, writing that works like machine writing before machine writing, other kinds of thinking/knowledge/processing, reads like im2txt caption/computer vision ID, process of accretion toward meaning that happens in the reader/recipient is pattern finding whether machine/human (this distinction is sketchy but important to some theorists?) But there are patterns and recombinatorics even in instinctive processes: "Act so that there is no use in a center. A wide action is not a width" (Stein 2014, 1914, 63). And then later, "A willow and no window, a wide place stranger, a wideness makes an active center" (Stein 2014, 1914, 75). As Calvino (1987) argues, the author 'I' is a writing machine, constructed with the writing, "the product and the instrument of the writing process" (15). 
+Gertrude Stein (2014, 1914): accretion, writing that works like machine writing before machine writing, other kinds of thinking/knowledge/processing, reads like im2txt caption/computer vision ID, process of accretion toward meaning that happens in the reader/recipient is pattern finding whether machine/human (this distinction is sketchy but important to some theorists?) But there are patterns and recombinatorics even in instinctive processes: "Act so that there is no use in a center. A wide action is not a width" (Stein 2014, 1914, 63). And then later, "A willow and no window, a wide place stranger, a wideness makes an active center" (Stein 2014, 1914, 75). As Calvino (1987) argues, the author 'I' is a writing machine, constructed with the writing; she is "the product and the instrument of the writing process" (15). _read some of my screens re-written by gpt-2 into it?_
 
 **additionally, corporate projects like Mozilla Common Voice or GPT-2/3 et al?**
 
@@ -247,4 +257,7 @@ And N. Katherine Hayles **, using both print books and digital text, makes an ar
 needed? 
 For Adrian MacKenzie (2005) also  code's performativity is not in its conflation with speech acts alone, but rather related to its sociality: 
 >“In production, circulation and consumption of information, in the ways that things like Linux mediate informatic sociality, and in the ways they articulate new intersections between the different sets of practices and conventions, code objects demonstrate that operationality depends on the constitution of collective agency. [...] locates operationality within a speciﬁc culture of circulation of code.” (MacKenzie 88) 
+
+#### Cox
+>"programs no longer encode pure logic but human social behavior too. [...] systems are embedded in larger language systems where meanings are produced through social practices. In other words, computer programs have bodies in the sense that other materialities and meanings are deeply interwoven, and these necessarily exist as part of wider social relations." (Cox 2012, 26--27)
 
