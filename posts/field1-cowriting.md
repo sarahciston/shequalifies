@@ -60,13 +60,11 @@ First I will discuss how **XX** authors have characterized the distinct properti
 
 ## 1. specificity
 
+>_Within the field of networked and programmable media, at the very least, we can acknowledge: machine codes, tokenized codes, low-level languages, high-level languages, scripting languages, macro languages, markup languages, operating systems and their scripting language, the human–computer interface (HCI), the procedural descriptions of software manuals, and a very large number of texts addressed to entirely human concerns._ (Cayley 2018, 56)
+
 ### 1.1 layers & gaps, abstraction & obfuscation
 
-When someone says 'code' they might be referring to any number of kinds of writing intended for machines, and possibly people, to interpret: 
-
->Within the field of networked and programmable media, at the very least, we can acknowledge: machine codes, tokenized codes, low-level languages, high-level languages, scripting languages, macro languages, markup languages, operating systems and their scripting language, the human–computer interface (HCI), the procedural descriptions of software manuals, and a very large number of texts addressed to entirely human concerns. (Cayley 2018, 56)
-
-Many of these types of code may be running in the same system, most types have a variety of languages and even dialects to choose from, and may be used for different purposes or genres, and written in different styles---which means that, at each juncture of design and implementation, their human designers must make choices, informed by culture, context, training, and understood goals. To say, "it's just code" or "it's hard-coded" or "the computer decided" erases both the hundreds of human decisions and the likely millions of binary decisions involved. 
+When someone says 'code' they might be referring to any number of kinds of writing intended for machines, and possibly people, to interpret. Many of these types of code may be running in the same system, most types have a variety of languages and even dialects to choose from, and may be used for different purposes or genres, and written in different styles---which means that, at each juncture of design and implementation, their human designers must make choices, informed by culture, context, training, and understood goals. To say, "it's just code" or "it's hard-coded" or "the computer decided" erases both the hundreds of human decisions and the likely millions of binary decisions involved. 
 
 Just as the humanities has strong close-reading practices to analyze text and paratext for many other forms of media, these types of code should be read for all their stylistic and contextualized choices. The Critical Code Studies approach, established by Mark Marino (2006), views code "as already having meaning beyond its functionality since it is a form of symbolic expression and interaction.” He argues, further, "there are implications in the way a code tries to perform a function that bear the imprint of epistemologies, cultural assumptions about gender, race and sexuality; economic philosophies; and political paradigms. This brief litany does not begin to get at the more computer-specific issues." This view of code(s) begins to demonstrate a) the distinctions between types of codes, b) the paratextual and social/cultural aspects that code also carries, and c) some ways code may have more in common with other forms of writing than it is generally assumed. Marino says, "code is not merely instrumental but rather a performative, transformative, mediating process."
 
@@ -108,6 +106,8 @@ I would maintain the need for some specificity that can parse differences betwee
 
 ## 2. entanglement
 
+>_To anyone trained in this way [learning writing by copying letterforms] the edges of letters are memorable, emotional places, and remain so._ (Carson 1998, 57)
+
 ### 2.1 self--other--technology systems
 
 The work of clarifying code and its position(s) in computational and cultural systems also helps clarify its entangled relationships with individuals, as Chun and Hayles began to touch on above. Viewing self--others--tech as a messy interrelated set of systems is important as the frequency of digital encounters nears continuous and as the impact and influence of digital languages and other technological objects grows:
@@ -130,8 +130,6 @@ In this breathable, expandable definition of oral language, it seems a more poro
 
 With the historical perspective of thousands of years, Carson is able to detail how the technological shift adopting written language as a widespread tool created shifts in content and form of media, but also in conceptions of identity itself. If written language was a harbinger of Western individualism, of course it would be an important counterpoint to examine how non-European traditions processed similar transitions perhaps differently. Would another thousand years show contemporary shifts to digital culture as paradigm changing or progressing along the same continuum? My answer is yes. Including written language as one of the forms of technology discussed here expands the context for any 'precident-setting' change, while also showing the comprehensive imbrication of subjects and tools. 
 
->To anyone trained in this way [learning writing by copying letterforms] the edges of letters are memorable, emotional places, and remain so. (Carson 1998, 57)
-
 ### 2.3 self is a (relational) technology 
 
 Above, Hayles and Tenen suggest a new understanding of subjectivity through the lens of computation, and Geoff Cox emphasizes the code-like reciprocal nature of the relationship between code and self. His book _Speaking Code_ (2012) does view code as speech act, but also goes further to situate it in relation to political[^pessimistic] and relational subjects: "both subjectivity and code recursively write their own instrumentation. Yet the subject is not simply preprogrammed like a machine but more like code in actively combining internal and external factors, standing between what is possible and what actually exists" (109). This is reminescent of Roland Barthes' (1989) open approach to text, and (while the "death of the author" helped a decade of scholars erase the importance of subjectivity and subject position by pejoratively labeling it "just identity politics") his focus on the interconnectedness and instability of the sign, even and especially with non-digital text, remains useful:
@@ -148,125 +146,60 @@ The database is one of the most associative forms we have, certainly computation
 
 This distributed sense of identity is a far cry from the self-contained individualism of rational modernism (and that any of these 20th century authors talk even then of "the subject" as singular and unified with a straight face is beyond me), and Poster suggests its fragmentation by database calls for different politics than for autonomous individuals: "we need to understand the forms of agency appropriate to a dispersed, multiple subject and to generate strategies of resistance appropriate to that 'identity formation'" (93). 
 
-The epistemological shifts that coincide with technological shifts,
-each points to the tenuous nature of self, that self itself is (can be thought of as?) a conceptual tool/epistemological (Foucault, this is field 2)**
+Each of the writers discussed describes the relationship between code and/or technology and subjects that is relational enough to destabilize the notion of a fixed, hermetically sealed individual. Tracing the shifts in conceptions of selfhood as a framework over time do part of the work to help unfix it from its assumed status as natural, rather than another conceptual tool, historically situated. And as technological shifts like the database and other computational forms suggest coincident epistemological shifts (whether literal "distributed cognition" or more broadly the sense of self as tenuously co-constructed, interrelated, contingent), this may even point to a (partial) return to Carson's multi-sensory breathable, expandable self---not one that renders the edges completely irrelevant (we do not want to lose Chun's specificity or to lose the hard-won intersectional subjectivities that specificity allows)---but instead selves that are porous, selves that are in process over time/space, selves that retain their verbs, selves writing themselves. 
 
-Point to a process-oriented self! Not just interconnected, spacially, but temporally. Constituted by its operations, acting and acted upon, in tandem... this is all field 2 though... lean more on the tech part? 
+## 3. multiply-situated & emergent
 
-### what is a self in this system? 
+>And in these operations [of my own writing] the person "I," whether explicit or implicit, splits into a number of different figures: into an "I" who is writing and an "I" who is written, into an empirical "I" who looks over the shoulder of the "I" who is writing and into a mythical "I" who serves as a model for the "I" who is written. The "I" of the author is dissolved in the writing. The so-called personality of the writer exists within the very act of writing: it is the product and the instrument of the writing process. [...] Writers, as they have always been up to now, are already writing machines; or at least they are when things are going well. (Calvino 1987, 15)
 
-Calvino author is writing machine, in the writing process: 
->“And in these operations [of my own writing] the person "I," whether explicit or implicit, splits into a number of different figures: into an "I" who is writing and an "I" who is written, into an empirical "I" who looks over the shoulder of the "I" who is writing and into a mythical "I" who serves as a model for the "I" who is written. The "I" of the author is dissolved in the writing . The so-called personality of the writer exists within the very act of writing: it is the product and the instrument of the writing process. [...] Writers, as they have always been up to now, are already writing machines; or at least they are when things are going well” (Calvino 1987, 15). 
+### 3.1 authors & aliens 
 
+Text-generating AI write like Gertrude Stein (2014, 1914), though it is unlikely their intented objectivee. Famed modernist poet and patron, Stein's writing works like machine writing before machines wrote. It gathers meaning by accretion, relying on the thinking/processing/knowledge base of its reader. It sounds like computer vision at its most plainspoken, im2txt caption generator or GPT-2 before it devolves into fake news rants. The similarity between poet and program makes sense to me because both are about pattern finding, whether image or sound or shape of letterform. The works may appear or feel intuitive to the poet or the blackboxed neural net, but there are patterns and recombinant processes revealled nevertheless: "Act so that there is no use in a center. A wide action is not a width" (Stein 63). And then later, "A willow and no window, a wide place stranger, a wideness makes an active center" (75). Or, "You can say things like, 'It's true,' 'It's true,' 'It's true,' or 'It's true,' You can say things like, 'I'm doing this on my mobile'" (Ciston, ["Screens for Each Other"](https://screensforeachother.now.sh/)).[^samples]
 
-Both Chun and Hayles argue that code precedes subjectivity... because it's citational, because it's happening at spacial and temporal scales outside the scope of human sensorium (but not because they are without human influence). 
+[^samples]: Work produced by training GPT-2 on an original essay of mine. Another example: "Don't. Be. A. Good. Person. Note: The above list is meant to be a starting point for your own personal journeys. If you are an adult, please read my book, The Myth of the Self" (Ciston, ["Screens for Each Other"](https://screensforeachother.now.sh/)). 
 
-~~“Because it is a frequent point of confusion, I emphasize that these dynamics happen before (or after) any human interpretation of these messages. Whatever messages on screen may say or imply, they are themselves generated through a machine dynamics that has little tolerance for ambiguity, floating signifiers, or signifiers without corresponding signifieds.” (Hayles 2005, 47)~~
-_It's a complex question but it's untrue, humans wrote them somewhere, but true that they happen on different scales, affect us other humans before we realize (relate to parisi, et al, scale_
+For most genres it may be true what Friedrich Kaplan (2014) says, that “human readers can tell the difference based on a feeling of oddity induced by texts produced by algorithms. These oddities are due to speciﬁc lexical or syntactic biases of these algorithms that often produce syntactically correct sentences---that no natural speaker would ever write” (61). However, not only does poetry prove the exception to this rule, increasing human speakers and writers have begun to digest (or process) the codes of code language, incorporating them into their own syntax and lexicon. He agrees and marks this as one of the dangers of what he terms 'linguistic capitalism': "natural languages could progressively evolve to seamlessly integrate the linguistic biases of algorithms and the economical constraints of the global linguistic economy" (61).
 
+Projects like GPT-2, or now GPT-3, alongside any other project that trains its model relying on a giant corpus of input data provided by the public web, complicate already complex questions of authorship and agency surrounding code and other human languages. With unwitting contributors through web scraping, Open AI's GPT-2 processes are unaccounted for and difficult to trace as a user of the resulting tools. Projects like Mozilla's Common Voice solicit their contributor base but still rely on this multiplicitous network of combined authorship reframed through an obfuscated algorithmic model that introduces and abstracts all manner of influence. How might we take the distributed, co-authored sense of self suggested by these tools, but shift their construction to a more ethical, transparently entangled usage that at least reveals who benefits, if not (ideally) benefitting more involved? How can we even know whose voices are transformed or lost in this process, and whose are dangerously amplified, without that transparency? 
 
-## 3. multiply situated & emergent
+What can an artistic research practice do to reveal the workings of these relational systems---as well as to reveal the potential in their gaps and glitches, errors and excesses that linguistic capitalism attempts to foreclose? To offer a few quick examples of different possible text-driven approaches, [Joanna Moll](http://www.janavirgin.com/)'s [CO2GLE](http://www.janavirgin.com/CO2/CO2GLE_about.html) and [The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/) speak to the former and [Allison Parrish](http://www.decontextualize.com/)'s _[Compasses]_ speaks to the latter. 
 
->“the possibility of machine phenomenology in relationship to humanism. “Computational poetics, I maintain, encourages users to become active thinkers, tinkerers, and makers of technology” (Tenen 2017, 12).
-_w/parisi?_
+In Moll's [CO2GLE](http://www.janavirgin.com/CO2/CO2GLE_about.html) and [The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/) their backend operational necessities become frontend content, as the works themselves are about the systems that enable their existence. "CO2GLE" clocks the carbon dioxide emmissions produced by running the website, and the longer it runs the more its counter increases. Its minimalist design suggests viewers infer the carbon heft that much more robust sites must require. Meanwhile, "The Hidden Life of an Amazon User" displays all (and I do mean _all_) of the source code required to make a purchase on the site (available to anyone through the Dev tools of their browser) as the front-facing text content of the site, along with screen captures of each page as it would load. The text is not so much meant to be read as scrolled through until the wrist fatigue gives a sense of the volume of data being collected and processed on each buyer to produce recommendations and sell them their next purchase. Ironically, this extreme excess of text, produced dynamically (that is, on the fly by procedural processes, preprogrammed software), is designed alternately to narrow choices for buyers in order to create purchases then expand opportunities for purchase again. 
 
-#### Parisi
->"“digital machines are now embedded with a seamful environment of data, in which each level of computation extends into another: not through seamless compatibility but through the incorporation of incomputable data within systems. [...] the pervasive extension of algorithmic logic has now become attuned to alien regions of perception and cognition. These are zones occupied by abstract yet real incomputable states that interfere with computational calculus by **anticipating new conditions of spatiotemporal experience**” (Parisi 2013, 26) …”important to [...] distinguish this architecture from, the notions of interaction and responsiveness that have been developed in the context of ubiquitous computing” (Parisi 2013, 26) _Vagus, trauma, sensory, unconscious, pre, wander._
->“the effects of the unknown have become the causal motor by which control is unconditionally exercised and driven by immanent decisions about what has not yet happened” (Parisi 2013, xvii) _her "soft thought_"
->"programming culture is infected by incomputable thoughts that are yet to be accounted for. (Parisi 2013, xviii)
-
-While careful to remove mysticism, perhaps room for the alien or non human comprehensible components, kinds of thinking that are not... contrast these with Chun's critique of sourcery
-
-
-### 3.1. artists & aliens
-
-What can an artistic research practice do to a) reveal the workings of these relational systems and b) reveal the potential in their gaps and glitches, errors and excesses? [Joanna Moll]http://www.janavirgin.com/'s [CO2GLE](http://www.janavirgin.com/CO2/CO2GLE_about.html) and [The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/) speak to the former and [Allison Parrish](http://www.decontextualize.com/)'s _[Compasses]_ speaks to the latter. 
-
-A) In Moll's [CO2GLE](http://www.janavirgin.com/CO2/CO2GLE_about.html) and [The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/) their backend becomes frontend as the works themselves are about the use of the systems that enable their use ***rephrase**
-
-B) The excess beyond linguistic capitalism, exemplified in recent work by [Allison Parrish](http://www.decontextualize.com/): "In "[Compasses]," I used this model to generate new imaginary words that exist in the negative phonetic spaces between the phonetic hidden states corresponding to names of members of well-known quartets."
-
->Kaplan? _linguistic capitalism, the space between words_ **maybe use this in the excess/artist section?**
->“Autocompletion services can transform linguistic material without value (not much bidding on misspelled words) into a potentially proﬁtable economic resource” (Kaplan 2014, 60)
->“human readers can tell the difference based on a feeling of oddity induced by texts produced by algorithms. These oddities are due to speciﬁc lexical or syntactic biases of these algorithms that often produce syntactically correct sentences—that no natural speaker would ever write.” (61)
-“natural languages could progressively evolve to seamlessly integrate the linguistic biases of algorithms and the economical constraints of the global linguistic economy.” (61)
-
+For Kaplan, one of effects of the main operations of linguistic capitalism is to narrow linguistic choice in order to profit from it. He describes how Google Ad Services and other similar algorithmic systems constrain and reshape language: "Autocompletion services can transform linguistic material without value (not much bidding on misspelled words) into a potentially proﬁtable economic resource" (60). By suggesting an alternate spelling it or a nearby word it's already sold at auction (_"showing results for 'cistern'" Google used to proclaim to me until very recently_), vocabulary narrows, services provided narrow, and the processes determining these decisions occur at scales illegible to human perception. "We need to be asking what happens to our words in one billionth of a second" (Sack 2017). Linguistic capitalism narrows human language options, as Kaplan argues, but it certainly creates an excess of machine language---and it points to the potential for other non-economic valuations of language (like poetics) that could utilize machinic and human language excesses and errors. 
 
 [Compasses]: http://sync.abue.io/issues/190705ap_sync2_27_compasses.pdf
 ![compasses1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FParrish-Compasses1.png?v=1597783585780)
 
-Gertrude Stein (2014, 1914): accretion, writing that works like machine writing before machine writing, other kinds of thinking/knowledge/processing, reads like im2txt caption/computer vision ID, process of accretion toward meaning that happens in the reader/recipient is pattern finding whether machine/human (this distinction is sketchy but important to some theorists?) But there are patterns and recombinatorics even in instinctive processes: "Act so that there is no use in a center. A wide action is not a width" (Stein 2014, 1914, 63). And then later, "A willow and no window, a wide place stranger, a wideness makes an active center" (Stein 2014, 1914, 75). As Calvino (1987) argues, the author 'I' is a writing machine, constructed with the writing; she is "the product and the instrument of the writing process" (15). _read some of my screens re-written by gpt-2 into it?_
+For a brilliant example of this potential at work, [Allison Parrish](http://www.decontextualize.com/)'s "[Compasses]" creates a model to "generate new imaginary words that exist in the negative phonetic spaces between the phonetic hidden states corresponding to names of members of well-known quartets." Where Google is literally selling advertisers the space between words (Sack 2017), Parrish's work finds poetic resonance and new language in that space.
 
-**additionally, corporate projects like Mozilla Common Voice or GPT-2/3 et al?**
+My continuing work on ["InnerVoiceOver"](http://innervoiceover.com) tries to use the same space of excess, as well as error, as a field for poetic value: 
 
+>This interactive audio sculpture uses AI to 'rewrite' the inner critic. It explores capacities for error and compassion in both technological and human systems. Listen to its self-compassion database created by other users using text-to-speech technology, or record your own phrase to the database using speech-to-text. Through language altered across digital distance, the piece joyfully shows what its technology fails to do---and how these errors reflect the gaps (and the potential for reconfiguration) between us. (Ciston, exhibition materials)
 
+The work focuses on the errors and excesses produced by the natural language processing tools it employs for its database, the interpretive slippage that allows for a creative leap, where the paradigmatic interrupts the syntagmatic. Rather than as unspoken synonyms like in print writing, Hayles says, "In digital media using dynamic databases, this relationship is reversed. The paradigmatic alternatives are encoded into the database and in this sense actually exist, whereas the syntagmatic is dynamically generated on the fly as choices are made that determine which items in the database will be used. In this sense, the syntagmatic is virtual rather than actual" (53). I use the paradigmatic vectors of the database to suggest poetic, compassionate, imperfect possibilities for the listener, ones that might begin to break down their fixed mystical preconceptions of machine learning and their fixed negative preconceptions of themselves---by connecting them asynchronously to others who contributed text to the database.
 
-### 3.2 to enact, or entanglements, or emergent --- conclusion?
-writing with/against (Raley/Hupaniemi)
+**Transition to parisi**
+>...“This richness is possible, of course, only because all these possibilities are stored in the computer, available to be rearranged, interpolated, followed or not. Somewhat paradoxically, then, the more data that are stored in computer memory, all of which are ordered according to specified addresses and called by executable commands, the more ambiguities are possible. Flexibility and the resulting mobilization of narrative ambiguities at a high level depend upon rigidity and precision at a low level. The lower the level, the closer the language comes to the reductive simplicity of ones and zeros, and yet it is precisely the ability to build up from this reductive base that enables high-level literariness to be achieved” (Hayles 2005, 53-54).
 
->Hayles on Saussure: “The syntagmatic vector points horizontally, for example, along the syntax of a sentence. By contrast, the paradigmatic vector operates vertically, for example, in the synonyms that might be used in place of a given word in an utterance” (52)
-This is the NLP interpretive error moment of the leap, where the paradigmatic interrupts the syntagmatic.
-Hayles on Derrida right after: “Derrida's deconstruction of this hierarchical arrangement is typical of his treatment of hierarchical dichotomies in general, for he shows that the privileged term must in fact contain and depend on what it tries to exclude. "The exteriority of the signifier is the exteriority of writing in general,’” (53). 
-“In digital media using dynamic databases, this relationship is reversed. The paradigmatic alternatives are encoded into the database and in this sense actually exist, whereas the syntagmatic is dynamically generated on the fly as choices are made that determine which items in the database will be used. In this sense, the syntagmatic is virtual rather than actual. This insight opens onto further explorations of how databases and narratives interface together, especially in electronic literature and the more general question of literariness” (Hayles 2005, 53).
-...“This richness is possible, of course, only because all these possibilities are stored in the computer, available to be rearranged, interpolated, followed or not. Somewhat paradoxically, then, the more data that are stored in computer memory, all of which are ordered according to specified addresses and called by executable commands, the more ambiguities are possible. Flexibility and the resulting mobilization of narrative ambiguities at a high level depend upon rigidity and precision at a low level. The lower the level, the closer the language comes to the reductive simplicity of ones and zeros, and yet it is precisely the ability to build up from this reductive base that enables high-level literariness to be achieved” (Hayles 2005, 53-54).
+A paradigmatic approach suggests or calls for, or I am arguing for, a muliply-situated approach, and this requires acknowledging the limits of any one perspective, perhaps even attempting to imagine through alternate lenses. Tenen suggests a 'machine phenomenology' and says, "Computational poetics, I maintain, encourages users to become active thinkers, tinkerers, and makers of technology" (12). 
+
+Without returning to the mystification of code that Chun warns against, to attempt to think more like machines means at least to leave room for alterity, perhaps room for the alien or non-human-comprehensible components. Luciana Parisi (2013) says that what she calls 'soft thought' is an essential component of understanding the artificial systems of which we are now a part. She describes soft thought as the incomputable, unaccounted for thoughts that infect the computable (xviii), saying, “the effects of the unknown have become the causal motor by which control is unconditionally exercised and driven by immanent decisions about what has not yet happened” (xvii). Importantly, she distinguishes between current ideas of interaction and responsive technology, and this more anticipatory technology which exceeds it (26). She says:
+
+>digital machines are now embedded with a seamful environment of data, in which each level of computation extends into another: not through seamless compatibility but through the incorporation of incomputable data within systems. [...T]he pervasive extension of algorithmic logic has now become attuned to <span class="purple-inline">_alien regions of perception and cognition._</span> These are zones occupied by abstract yet real incomputable states that interfere with computational calculus by <span class="purple-inline">_anticipating new conditions of spatiotemporal experience.</span> (26, emphasis added). 
+
+While I suspect Chun would question Parisi's conjuring of the term 'alien', the emphasis on a distinct level of perception and cognition and a new mode of anticipating experience rather than merely interacting via feedback response are both worth parsing with the material specificity as algorithmic systems grow increasingly automated and abstracted. Both Chun and Hayles argue that code precedes subjectivity because it's happening at spacial and temporal scales outside the scope of human sensorium, (but I would argue not because it is without human influence from other prior actors---as Chun emphasizes it also precedes subjectivity because it is citational). 
+
+### 3.2 to enact, or entanglements, or emergent --- writing with and against conclusion?
+
+writing with/against (Raley/HUOPANIEMI)
+>“this is obviously a paradoxical position to be in for an artist interested in language: writing with, through, and literally in a system provided by a corporation that seeks to take possession of words and language in general. This is why I have found your formulation, “writing with and against Google” so tremendously helpful. [...] “Writing with” in the sense of incorporating part of what the algorithms are suggesting. “Writing against” in the sense of resisting the influence of automated processes that work to shape languages in ways that make them more practicable for other automated processes. If there is no space for resistance, there is no performance.” (Raley & Huopaniemi 2018)
+
+_Vagus, trauma, sensory, unconscious, pre, wander._
 
 
 ### conclusion: specific, entangled, situated, emergent
 
-**close this section with this quote?**
-#### tenen pt 1
 > “Despite its formative effect on practices of comprehension, code, the programmatic sign, does not often ﬁgure in our theories of meaning making. Instead, we consign it to the ornamental formatting layer of document structure. We do so at our peril. [...] Code is an exercise of power, not its representation. The difference between representation and control is one of brute force. It lies in the distinction between a restraining order and physical restraint” (Tenen 2017, 47–48) 
 
 _is it both, what do we mean when we say code, do we mean the word, or the whole system enacting it? have to call for a reading that actually reads the text but also looks at its context. no algorithm studies that doesn't scale, requires different readings at different levels working together to comprise a system...this is why a suite or a better metaphor for this matters?_
-
-
----
-
-### Quotes I'm Not Using
-
-#### others
-
->Sobchack?
-
->"signifiers of voltage differences" (Kittler 150)
-
-> “The representation of codes, whether binary, assembly, or high-level, can therefore only ever be that: a representation of what is happening at the machine level.” (Raley, "Code Surface")
-
-### error/excess potential (bring back?)
->“‘this assertion does not hold true literally for code, where the contexts are precisely determined by the level and nature of the code. Code may be rendered unintelligible if transported into a different context-for example, into a different programming language or a different syntactic structure within the same language. Only at the high level of object-oriented languages such as C++ does code recuperate the advantages of citability and iterability (i.e., inheritance and polymorphism, in the discourse of programming language) and in this sense become “grammatological:’ “ (Hayles 2005, 48) _ok sure but isn’t that what we’re also talking about, Also true with natural language, her argument is stretched and unclear here._
-
-**Both say no room for error, yet error creates space, break, poetics, the very paradigmatic possibility outside the interpellated DB Hayles describes**
->“changes on one level of programming code must be exactly correlated with what is happening at all the other levels. [...] For the machine, obsolete code is no longer a competent utterance.” (Hayles 2005, 47) _Errors don’t break the computer completely, something else does occur, in ML other emergent systems other things happen. In abstraction, nothing is exactly correlated?_
-
-And N. Katherine Hayles **, using both print books and digital text, makes an argument for additional kinds of entanglement but unfortunately [lacks/loses] some of the specificity of Chun**
-
-
->“Enmeshed within this ﬂow of data, human behavior is increasingly integrated with the technological nonconscious through somatic responses, haptic feedback, gestural interactions, and a wide variety of other cognitive activities that are habitual and repetitive and that therefore fall below the threshold of conscious awareness. Mediating between these habits and the intelligent machines that entrain them are layers of code. Code, then, affects both linguistic and nonlinguistic human behavior. Just as code is at once a language system and an ~~agent commanding~~ the computer’s performances, so it interacts with and inﬂuences human agency expressed somatically, implemented for example through habits and postures." (Hayles "Trauma" 2006, 140)
-~~>“Along with the hierarchical nature of code goes a dynamic of concealing and revealing that operates in ways that have no parallels in speech and writing. Because computer languages become more English-like as they move higher in the "tower of languages" (Rita Raley's phrase), concealing the "brute" lower levels carries considerable advantage. Knowing how to conceal code with which one is not immediately concerned is an essential practice in computer programming” (Hayles 2005, 54) **Hemingway/iceberg writing & object-oriented programming lol**~~
-
->(also include ullman quote re code has one meaning what it does, vs Critical Code studies?)
-
-### surfaces / medium (format for transmission)
-
->“The screen should not simply be cast as the bearer, for example, of multiple (flat) surfaces or successive “states” of text; it must be viewed as a monitor for complex processes, processes which, if they are linguistic, will be textual and symbolic, with a specific materiality as such. We must be able to see and read what the screen presents rather than recasting what passes before our eyes as the emulation of a “transparent” medium” (Cayley 2018, 81)
-
->“As writing and other visual arts became the privileged bearers of memory and messages, weaving withdrew into its own screens. Both canvases and paper reduce the complexities of weaving to raw materials on which images and signs are imposed: the cloths from which woven patterns once emerged now become backcloths, passive matrices on which images are imposed and interpreted as if from on high. Images are no longer carried in the weave, but imprinted on its surface” (Plant 1998, 67)
-
-~~Hayles suggests that this requires different subjectivity but does not outline for whom and how it would be different: **does she?**~~
-
-needed? 
-For Adrian MacKenzie (2005) also  code's performativity is not in its conflation with speech acts alone, but rather related to its sociality: 
->“In production, circulation and consumption of information, in the ways that things like Linux mediate informatic sociality, and in the ways they articulate new intersections between the different sets of practices and conventions, code objects demonstrate that operationality depends on the constitution of collective agency. [...] locates operationality within a speciﬁc culture of circulation of code.” (MacKenzie 88) 
-
-#### Carson
->“The _aporrhoai_ are mediators of perception which allow everything in the universe to be potentially 'in touch' with everything else (cf. Arist., Sens. 4.442a29). Empedokles and his contemporaries posit a universe where the spaces between things are ignored and the interactions constant. Breath is everywhere. There are no edges.” (Carson 1998, 49)
-
->"Archilochos understands the law differentiating self from not-self, for Eros cuts into him just at the point where that difference lies. To know desire, to know words, is for Archilochos a matter of perceiving the edge between one entity and another" (Carson 1998, 51)
-
-#### Cox
->"programs no longer encode pure logic but human social behavior too. [...] systems are embedded in larger language systems where meanings are produced through social practices. In other words, computer programs have bodies in the sense that other materialities and meanings are deeply interwoven, and these necessarily exist as part of wider social relations." (Cox 2012, 26--27)
-
-Cox points to the tools themselves as a possible source for 
->[...C]ollective and networked intelligence open up the conditions of possibility for reinvention by embracing broader contingencies, to challenge overpowering forces that wish to close them down, encapsulate and subsume them. (Cox 2012, 109)
-
-

@@ -44,6 +44,10 @@ _a running total calculated using a proprietary algorithm, from a range of weigh
     - {{ day.all_productive_percentage }} percent was labeled productive
     - {{ day.all_distracting_percentage }} percent was labeled distracting
 
+### current mood...
+
+![easycheese](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FHQ-cheese.gif?v=1597842831179)
+
 #### more details
 
     - {{ day.business_duration_formatted }} on business
