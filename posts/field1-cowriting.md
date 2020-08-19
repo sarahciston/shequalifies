@@ -44,6 +44,8 @@ Things I might like to talk about also within this question:
 
 _Hook/question/my arg_
 
+**Through this writing, combining approaches from the scholarship in this field... am I arguing for an approach to code language that is specific, entangled, multiply situated, emergent...? And what does that look like, do, create, and why does that matter? **
+
 Most of the theorists across media studies, software studies, and related fields whom I'll discuss here share a common argument that 1) some distinction is to be made between code language and 'natural' or 'human' language, 2) that there are distinctions between the levels or types of code languages that constitute a more complete computational system (usually differentiated by their degree of abstraction away from binary or machinic understanding and toward human understanding or interface)
 
 Each theorist may define their terms and draw the boundaries between them in different places, and raise different stakes on the nuanced distinctions, which I will detail further; however, a primary shared concern remains to unpack the relationships between parts of these complex systems---networked human-machine social assemblages--which their complexity obscures. While abstraction can be necessary to operate (hard to drive a car if thinking about all the ways it works at once), when abstraction contributes to mystification and loss of agency, encapsulation and individualism, or ***probably the third thing I'm forgetting, The extractive/capture of .... and the narrowing of possibilities as they are privatized (power consolidation), the belief that we cannot understand or alter systems (mystification), transfer agency to inanimate objects, etc. XXX COME BACK TO THIS XXX** 
@@ -64,14 +66,30 @@ Just as the humanities has strong close-reading practices to analyze text and pa
 
 So, while I may say "code" or "software" or "computation" and sometimes I may say it to avoid saying exactly what I mean... the things that code is include _many_ layers. And there are _many, many_ layers of conflation happening in the cultural conceptions of code, which at their extreme tend to mystify any specific computational media object one could otherwise  engaged: “interfaces stand in, more often than not, for the computer itself, erasing the medium” (Chun 2008, 318). 
 
-The mystery and power associated with technology (or tools, and perhaps in particular with language tools) preceeds computation, of course. Florian Cramer (2005), tracing the history of executable language, says at the outset, “technology is semantic, ecstatic and magic” (18). This religious (or at least inexplicably powerful) quality is the focus of Wendy H. K. Chun's (2008) critique: “The reduction of computer to source code, combined with the belief that users run our computers, makes us vulnerable to fantastic tales of the power of computing. To break free of this sourcery, we need to interrogate, rather than venerate or even accept, the grounding or logic of software” (300). **something moreXXX into next arg building here**
+The mystery and power associated with technology (or tools, and perhaps in particular with language tools) precedes computation, of course. Florian Cramer (2005), tracing the history of executable language, says at the outset, “technology is semantic, ecstatic and magic” (18). This religious (or at least inexplicably powerful) quality is the focus of Wendy H. K. Chun's (2008) critique: “The reduction of computer to source code, combined with the belief that users run our computers, makes us vulnerable to fantastic tales of the power of computing. To break free of this sourcery, we need to interrogate, rather than venerate or even accept, the grounding or logic of software” (300). She begins to interrogate this logic by distinguishing the language of code from the additional processes required to put it into action and from the results of those actions, plus explaining in part why these distinctions matter: 
+
+>The goal of software is to conflate an event with a written command. Software blurs the difference among human-readable code (readable because of another program), its machine-readable interpretation, and its execution by turning the word "program" from a verb to a noun, [...] by turning execution into inscription---or at least attempting to do so. [...T]his conflation of instruction or command with its product is also linked to software’s gendered, military history: in the military, there is supposed to be no difference between a command given and a command completed, especially to a "girl." (303–304)
+
+By flattening the software--hardware infrastructure and shifting from verb to noun, Chun seems to argue that a static inevitability or obscure magic replaces or simplifies the agency, or transfers it to the black box and away from potential interventions. It would be fascinating to expand on this linguistic interpretation by contrasting it with Nathaniel Mackey's (1992) "Other: From Noun to Verb," which in part discusses Amiri Baraka's "poetics of process": "The sense he advances that 'this verb value'" is an impulse to 'make words surprise themselves'" (60). While that is perhaps outside the scope here, I recognize and value the attention to word choice and tracing such slippages, which often go unnoted but carry material and epistemological repercussions. 
+
+These repercussions do not stop at readable code or at the digital, but are felt across all the computational layers described by the scholars discussed here. While Chun disentangles the specificity of each layer from another, she argues that this more nuanced understanding supports the complexly entangled relationships : 
+
+>“This erasure of the vicissitudes of execution coincides with the conflation of data with information, information with knowledge---the assumption that what’s most difficult is the capture, rather than the analysis, of data. This erasure of execution through source code as source creates an intentional authorial subject: the computer, the program, or the user, and this source is treated as the source of meaning.” (Chun 2008, 316)
 
 
 #### why the citational is important here, especially for self/relational/writing
+Where Chun aims to disentangle the specifics of code as noun and verb, object and action, Hayles wants to re-emphasize the entanglement of physical object and signification in their co-roles for materiality, and the entanglement of texts with each other. Hayles suggests that this requires different subjectivity but does not outline for whom and how it would be different: **does she?** Meanwhile, in relation to Chun's specificity, Hayles perhaps **overentangles or conflates or overemphasizes** the executable aspect of code language (as performative) at the expense of the other processes involved. 
+
+For Chun, as well as for Adrian MacKenzie and for Geoff Cox, code's performativity is not in its conflation with speech act alone. 
 
 >“understanding code as re-source links its effectiveness to history and context. If code is performative, it is because of the community (human and otherwise) that enables such utterances to be repeated and executed, that one joins through such citation. [...] what is crucial to a performative utterance’s success or failure is its iterability, [...] What is crucial here is: first, code that succeeds must be citations—and extremely exact citations at that. There is no room for syntax errors; second, that this iterability precedes the so-called subject (or machine) that is supposedly the source of the code; and third, and most importantly, an entire structure must be in place in order for a command to be executed. This structure is as institutional and political as it is machinic.” (Chun 2008, 322)
 
-The citational nature of code connects it to writing, community, natural language etc. (pull Hayles contrasting quote and critique it). Not that there is NO differences but they don't have all that power; I argue for a spectrum, continuum. (Also reference MacKenzie's social context Linux arg?)
+The citational nature of code connects it to writing, community, natural language etc. **pull Hayles contrasting quote and critique it** Not that there is NO differences but they don't have all that power; I argue for a spectrum, continuum. **Also reference MacKenzie's social context Linux arg?**
+
+**Both say no room for error, yet error creates space, break, poetics, the very paradigmatic possibility outside the interpellated DB Hayles describes**
+
+**both say (or imply) the code/materiality precedes the subject/subjectivity**
+
 
 ***Hayles:***
 >“Nor does code allow the infinite iterability and citation that Derrida associates with inscriptions, whereby any phrase, sentence, or paragraph can be lifted from one context and embedded in another.” (Hayles 2005, 48) _I don’t think I agree with this!! What about all of stack exchange and open source and versioning and OOO and a host of other things? Not to mention VARIABLES as iterable, lifted from and embedded into_
@@ -82,26 +100,15 @@ The citational nature of code connects it to writing, community, natural languag
 
 
 
+Transition:? All of this goes to my arguments to dispel the magical unthought differences between digital/analog code writing and other human writing (without ignoring their specificities, but without also fetishizing their specialness or letting their power erase our agency in those processes.)
+
+
 ### abstraction: the self is a technology, analog continuum not digital discrete
 
 
 
 
 ### Quotes I Haven't Used Yet
-
-
-
-#### Chun
-
-all of this goes to my arguments to dispell the magical unthought differences between digital/analog code writing and other human writing (without ignoring their specificities, but without also fetishizing their specialness or letting their power erase our agency in those processes.)
-
-
->“The goal of software is to conflate an event with a written command. Software blurs the difference among human-readable code (readable because of another program), its machine-readable interpretation, and its execution by turning the word “program” from a verb to a noun, by turning process in time into process in space, by turning execution into inscription—or at least attempting to do so. [...] this conflation instruction or command with its product is also linked to software’s gendered, military history: in the military, there is supposed be no difference between a command given and a command completed, especially to a “girl.” (Chun 2008, 303–304).
-
->“This erasure of the vicissitudes of execution coincides with the conflation of data with information, information with knowledge — the assumption that what’s most difficult is the capture, rather than the analysis, of data. This erasure of execution through source code as source creates an intentional authorial subject: the computer, the program, or the user, and this source is treated as the source of meaning.” (Chun 2008, 316)
-
-
-
 
 #### Hayles
 > “This entanglement of the bodies of texts and digital subjects is one manifestation of what I call "intermediation;' that is, complex transactions between bodies and texts as well as between different forms of media” (Hayles 2005, 7)
@@ -111,8 +118,6 @@ all of this goes to my arguments to dispell the magical unthought differences be
 >“changes on one level of programming code must be exactly correlated with what is happening at all the other levels. [...] For the machine, obsolete code is no longer a competent utterance.” (Hayles 2005, 47) _Errors don’t break the computer completely, something else does occur, in ML other emergent systems other things happen. In abstraction, nothing is exactly correlated?_
 
 >“Because it is a frequent point of confusion, I emphasize that these dynamics happen before (or after) any human interpretation of these messages. Whatever messages on screen may say or imply, they are themselves generated through a machine dynamics that has little tolerance for ambiguity, floating signifiers, or signifiers without corresponding signifieds.” (Hayles 2005, 47) _It's a complex question but it's untrue, humans wrote them somewhere, but true that they happen on different scales, affect us other humans before we realize (relate to parisi, et al, scale_
-
->(also include ullman quote re code has one meaning what it does, vs Critical Code studies?)
 
 >“Along with the hierarchical nature of code goes a dynamic of concealing and revealing that operates in ways that have no parallels in speech and writing. Because computer languages become more English-like as they move higher in the "tower of languages" (Rita Raley's phrase), concealing the "brute" lower levels carries considerable advantage. Knowing how to conceal code with which one is not immediately concerned is an essential practice in computer programming” (Hayles 2005, 54)
 
@@ -128,9 +133,9 @@ all of this goes to my arguments to dispell the magical unthought differences be
 While careful to remove mysticism, perhaps room for the alien or non human comprehensible components, kinds of thinking that are not... contrast these with Chun's critique of sourcery
 
 #### Cox
->“programs no longer encode pure logic but human social behavior too. [...] systems are embedded in larger language systems where meanings are produced through social practices. In other words, computer programs have bodies in the sense that other materialities and meanings are deeply interwoven, and these necessarily exist as part of wider social relations.” (Cox 2012, 26--27)
+>"programs no longer encode pure logic but human social behavior too. [...] systems are embedded in larger language systems where meanings are produced through social practices. In other words, computer programs have bodies in the sense that other materialities and meanings are deeply interwoven, and these necessarily exist as part of wider social relations." (Cox 2012, 26--27)
 
->“both subjectivity and code recursively write their own instrumentation. Yet the subject is not simply preprogrammed like a machine but more like code in actively combining internal and external factors, standing between what is possible and what actually exists. [...] collective and networked intelligence open up the conditions of possibility for reinvention by embracing broader contingencies, to challenge overpowering forces that wish to close them down, encapsulate and subsume them” (Cox 2012, 109).
+>"both subjectivity and code recursively write their own instrumentation. Yet the subject is not simply preprogrammed like a machine but more like code in actively combining internal and external factors, standing between what is possible and what actually exists. [...] collective and networked intelligence open up the conditions of possibility for reinvention by embracing broader contingencies, to challenge overpowering forces that wish to close them down, encapsulate and subsume them" (Cox 2012, 109).
 
 #### Tenen
 
@@ -156,6 +161,13 @@ _In the move from the epic to the lyric, Carson marks fragmentation, disjointed 
 >“To anyone trained in this way [in writing by copying letterforms] the edges of letters are memorable, emotional places, and remain so.” (Carson 1998, 57)
 _would be interesting to look to non-Western/European traditions for how this process/lineage takes shape differently._
 
+#### Poster
+
+>“With databases , most often, the individual is constituted in absentia, only indirect evidence [...] closer to the instance of writing, with the reader-subject being hailed by an absent author. But [...] the writer is known, even if only as a writer, and is an individual or finite group of individuals. The reader very often intentionally selects to be interpellated by the particular author, whereas in the example of computer databases that is rarely if ever the case. Interpellation by database is a complicated configuration of unconsciousness, indirection, automation, and absent-mindedness both on the part of the producer of the database and on the part of the individual subject being constituted by it” (Poster 1995, 90).
+
+>“The cultural function of databases is not so much the institution of dominant power structures against the individual but in restructuring the nature of the individual” (Poster 1995, 93).
+>“The process of subject constitution was one of "subjectification," of producing individuals with a (false) sense of their own interiority. With the super-panopticon, on the contrary, subject constitution takes an opposing course of "objectification," of producing individuals with dispersed identities, identities of which the individuals might not even be aware.” (Poster 1995, 93).
+>“A politics of databases, then, would respond to the cultural form of subjectification in postmodernity. Instead of developing a resistant politics of privacy to counter the alleged incursions of databases on the autonomous individual, we need to understand the forms of agency appropriate to a dispersed, multiple subject and to generate strategies of resistance appropriate to that "identity formation” (Poster 1995, 93).
 
 #### Others
 
@@ -180,13 +192,7 @@ Barthes, while the "death of the author" erased the importance of subjectivity/s
 >“As writing and other visual arts became the privileged bearers of memory and messages, weaving withdrew into its own screens. Both canvases and paper reduce the complexities of weaving to raw materials on which images and signs are imposed: the cloths from which woven patterns once emerged now become backcloths, passive matrices on which images are imposed and interpreted as if from on high. Images are no longer carried in the weave, but imprinted on its surface” (Plant 1998, 69)
 “The processes themselves become dematerialized as myths, legends, and metaphors.” (Plant 1998, 70)
 
-#### Poster
 
->“With databases , most often, the individual is constituted in absentia, only indirect evidence [...] closer to the instance of writing, with the reader-subject being hailed by an absent author. But [...] the writer is known, even if only as a writer, and is an individual or finite group of individuals. The reader very often intentionally selects to be interpellated by the particular author, whereas in the example of computer databases that is rarely if ever the case. Interpellation by database is a complicated configuration of unconsciousness, indirection, automation, and absent-mindedness both on the part of the producer of the database and on the part of the individual subject being constituted by it” (Poster 1995, 90).
-
->“The cultural function of databases is not so much the institution of dominant power structures against the individual but in restructuring the nature of the individual” (Poster 1995, 93).
->“The process of subject constitution was one of "subjectification," of producing individuals with a (false) sense of their own interiority. With the super-panopticon, on the contrary, subject constitution takes an opposing course of "objectification," of producing individuals with dispersed identities, identities of which the individuals might not even be aware.” (Poster 1995, 93).
->“A politics of databases, then, would respond to the cultural form of subjectification in postmodernity. Instead of developing a resistant politics of privacy to counter the alleged incursions of databases on the autonomous individual, we need to understand the forms of agency appropriate to a dispersed, multiple subject and to generate strategies of resistance appropriate to that "identity formation” (Poster 1995, 93).
 
 ### artists
 
@@ -218,3 +224,6 @@ Hayles on Derrida right after: “Derrida's deconstruction of this hierarchical 
 
 
 ### Quotes I'm Not Using
+
+>(also include ullman quote re code has one meaning what it does, vs Critical Code studies?)
+
