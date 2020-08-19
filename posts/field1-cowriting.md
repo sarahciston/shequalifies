@@ -56,11 +56,11 @@ First I will discuss how **XX** authors have characterized the distinct properti
 
 ## 1. specificity
 
-### 1.1 layers & gaps, abstraction & obfuscation by design
+### 1.1 layers & gaps, abstraction & obfuscation, conflation by design
 
 When someone says 'code' they might be referring to any number of kinds of writing intended for machines, and possibly people, to interpret: 
 
->“Within the field of networked and programmable media, at the very least, we can acknowledge: machine codes, tokenized codes, low-level languages, high-level languages, scripting languages, macro languages, markup languages, operating systems and their scripting language, the human–computer interface (HCI), the procedural descriptions of software manuals, and a very large number of texts addressed to entirely human concerns.” (Cayley 2018, 56)
+>Within the field of networked and programmable media, at the very least, we can acknowledge: machine codes, tokenized codes, low-level languages, high-level languages, scripting languages, macro languages, markup languages, operating systems and their scripting language, the human–computer interface (HCI), the procedural descriptions of software manuals, and a very large number of texts addressed to entirely human concerns. (Cayley 2018, 56)
 
 Many of these types of code may be running in the same system, most types have a variety of languages and even dialects to choose from, and may be used for different purposes or genres, and written in different styles---which means that, at each juncture of design and implementation, their human designers must make choices, informed by culture, context, training, and understood goals. To say, "it's just code" or "it's hard-coded" or "the computer decided" erases both the hundreds of human decisions and the likely millions of binary decisions involved. 
 
@@ -76,62 +76,48 @@ By flattening the software--hardware infrastructure and shifting from verb to no
 
 These repercussions do not stop at readable code or at the digital, but are felt across all the computational layers described by the scholars discussed here. While Chun disentangles the specificity of each layer from another, her argument suggests that this more nuanced understanding supports reckoning with the complexly entangled relationships between these layers and cultural systems/individuals they affect: 
 
->“This erasure of the vicissitudes of execution coincides with the conflation of data with information, information with knowledge---the assumption that what’s most difficult is the capture, rather than the analysis, of data. This erasure of execution through source code as source creates an intentional authorial subject: the computer, the program, or the user, and this source is treated as the source of meaning.” (316)
+>This erasure of the vicissitudes of execution coincides with the conflation of data with information, information with knowledge---the assumption that what’s most difficult is the capture, rather than the analysis, of data. This erasure of execution through source code as source creates an intentional authorial subject: the computer, the program, or the user, and this source is treated as the source of meaning. (316)
 
-With the loss of the "vicissitudes of execution," she claims, the archetype of the user and of the computer are embued with undue meaning and agency, without the context of the operations that support---and more importantly influence, shape, limit---that agency. 
+With the loss of the "vicissitudes of execution," she claims, the archetype of the user and of the computer are embued with undue meaning and agency, without the context of the operations that support---and more importantly influence, shape, and limit---that agency. 
 
-### 1.2 material & ephemeral
+### 1.2 material & ephemeral, entanglement and estrangement
 
-This is not a specifically digital, computational, or contemporary problem, as Sadie Plant (1998) points out: 
+This problem is not exclusively digital, computational, or contemporary. Sadie Plant (1998), in her cyberfeminist history of computing, describes how the material of weaving became estranged from the practice of weaving: 
 
->"whereas the weave was once both the process and the product, the woven stuff, images are now separated out from matrices to which they had been immanent. The artist sees only the surface of a web which is covered as he works; the paper on which authors now look down has no say in the writing it supports. _The processes themselves become dematerialized as myths, legends, and metaphors_." (68, emphasis added)
+>whereas the weave was once both the process and the product, the woven stuff, images are now separated out from matrices to which they had been immanent. The artist sees only the surface of a web which is covered as he works; the paper on which authors now look down has no say in the writing it supports. _The processes themselves become dematerialized as myths, legends, and metaphors_. (68, emphasis added)
 
-And N. Katherine Hayles **, using both print books and digital text, makes an argument for additional kinds of entanglement but unfortunately [lacks/loses] some of the specificity of Chun**
-#### Hayles on entanglement
-> “This entanglement of the bodies of texts and digital subjects is one manifestation of what I call "intermediation;' that is, complex transactions between bodies and texts as well as between different forms of media” (Hayles 2005, 7)
+Dennis Tenen (2017) draws attention to a not-dissimilar gap created by the presentation of texts in digital formats: "A substantial gap separates visible text from its storage medium. The two sites of inscription, screen and electromagnetic storage, are physically incongruent. One must be translated, transformed into the other" (9). Later builds on the implications of this estrangement by suggesting that this is what contributes to digital texts seeming ephemeral: "The inscription passes from view. The sign reappears again on-screen, already processed, that is, altered by the intervention of control units. Reading no longer identiﬁes solitary, self-directed activity. Machine operators far removed from the site of interpretation intervene between readers, writers, and texts” (102).
 
->“materiality [...] cannot simply be collapsed into physicality but is an emergent property generated by interactions between a work's signifying strategies and the physical characteristics it mobilizes as resources for its operations. ***[...T]aking materiality seriously requires different models of subjectivity*** than those usually assumed in textual editing, as well as changed concepts of how embodied texts relate to one another” (Hayles 2005, 9).
+These gaps between inscription and execution, between representation layer and storage medium, text and paper, do not mean however that these works are merely immaterial information, as is often assumed about digital objects or about language in general. N. Katherine Hayles (2005) argues that in fact the materiality of such works is produced _through_ their unique combination of physical properties and linguistic strategies---pointing to a richer relationship between materiality and meaning: "materiality [...] cannot simply be collapsed into physicality but is an emergent property generated by interactions between a work's signifying strategies and the physical characteristics it mobilizes as resources for its operations" (9). She builds on this expanded definition of materiality as a call for other kinds of entanglements as well. She suggests not only "complex transactions between bodies and texts as well as between different forms of media" (7), but also "different models of subjectivity than those usually assumed in textual editing, as well as changed concepts of how embodied texts relate to one another" (9). **for whom, how? does she say? specifics available?** Hayles traces certain continuities across analog and digital media, and lays out many of the primary concerns for scholars for the next decades. While the entanglements she outlines more broadly across media are useful, when discussing code the specifics tend to tangle. 
 
+### 1.3 citational is/as relational
 
+Where Chun aims to disentangle the specifics of code as noun and verb, object and action, Hayles wants to re-emphasize the entanglement of physical object and signification in their co-roles for materiality, and the entanglement of texts with each other. Both are interested code as performative or as "speech act" or more broadly as performative. In contrast to Chun's specificity, Hayles perhaps **overentangles, conflates, or overemphasizes** the executable aspect of code language (as performative) at the expense of the other processes involved. 
 
-#### tenen pt 1
+Hayles portrays code as distinct type of language because it enacts itself, and she details further differences between code languages and other human languages, including, "Nor does code allow the infinite iterability and citation that Derrida associates with inscriptions, whereby any phrase, sentence, or paragraph can be lifted from one context and embedded in another" (48). While I argue examples like Git versioning, StackExchange, object-oriented programming, the Free Libre Open Source Software (FLOSS) ethos, and maybe even the concept of variables could be counterpoints to this, as each allows for lifing, embedding, reiterating, and citing practices. Meanwhile Chun points directly to the citational nature of code, rather than just its executability, that makes it performative:  
 
->“The gap between input and output is what makes digital texts appear ephemeral. Temporary storage media, located between keyboard and screen, allow for rapid remediation. They keep ink in motion, across surfaces, unattached to sticky media like paper. Such spatial elongation comes at a cost: The inscription passes from view. The sign reappears again on-screen, already processed, that is, altered by the intervention of control units. Reading no longer identiﬁes solitary, self-directed activity. Machine operators far removed from the site of interpretation intervene between readers, writers, and texts” (Tenen 2017, 102).
+>understanding code as re-source links its effectiveness to history and context. _If code is performative, it is because of the community (human and otherwise) that enables such utterances to be repeated and executed, that one joins through such citation._ [...] what is crucial to a performative utterance’s success or failure is its iterability, [...] What is crucial here is: first, code that succeeds must be citations---and extremely exact citations at that. _There is no room for syntax errors_; second, that _this iterability precedes the so-called subject (or machine) that is supposedly the source of the code_; and third, and most importantly, _an entire structure must be in place in order for a command to be executed. This structure is as institutional and political as it is machinic._ (322, emphasis added)
 
-> “Despite its formative effect on practices of comprehension, code, the programmatic sign, does not often ﬁgure in our theories of meaning making. Instead, we consign it to the ornamental formatting layer of document structure. We do so at our peril. [...] Code is an exercise of power, not its representation. The difference between representation and control is one of brute force. It lies in the distinction between a restraining order and physical restraint” (Tenen 2017, 47–48)
+This citational nature of code connects it to writing, community, subjectivity.  
+Not that there is NO differences but they don't have all that power; I argue for a spectrum, continuum. **Also reference MacKenzie's social context Linux arg?**
+For Adrian MacKenzie and for Geoff Cox, too, code's performativity is not in its conflation with speech acts alone, but rather related to its sociality: 
 
->“A substantial gap separates visible text from its storage medium. The two sites of inscription, screen and electromagnetic storage, are physically incongruent. One must be translated, transformed into the other. Control codes govern the process of transﬁguration, which brings with it physical control at the level of platform and architecture.” (Tenen 2017, 9)
+>“‘this assertion does not hold true literally for code, where the contexts are precisely determined by the level and nature of the code. Code may be rendered unintelligible if transported into a different context-for example, into a different programming language or a different syntactic structure within the same language. Only at the high level of object-oriented languages such as C++ does code recuperate the advantages of citability and iterability (i.e., inheritance and polymorphism, in the discourse of programming language) and in this sense become “grammatological:’ “ (Hayles 2005, 48) _ok sure but isn’t that what we’re also talking about, Also true with natural language, her argument is stretched and unclear here._
 
-These gaps between execution and inscription, between representation layer and storage medium
-
-
-### surfaces / medium (format for transmission)
-
->“The screen should not simply be cast as the bearer, for example, of multiple (flat) surfaces or successive “states” of text; it must be viewed as a monitor for complex processes, processes which, if they are linguistic, will be textual and symbolic, with a specific materiality as such. We must be able to see and read what the screen presents rather than recasting what passes before our eyes as the emulation of a “transparent” medium” (Cayley 2018, 81)
-
->“As writing and other visual arts became the privileged bearers of memory and messages, weaving withdrew into its own screens. Both canvases and paper reduce the complexities of weaving to raw materials on which images and signs are imposed: the cloths from which woven patterns once emerged now become backcloths, passive matrices on which images are imposed and interpreted as if from on high. Images are no longer carried in the weave, but imprinted on its surface” (Plant 1998, 67)
-
-### 1.3 citational/relational
-
-**why the citational is important here, especially for self/relational/writing**
-
-Where Chun aims to disentangle the specifics of code as noun and verb, object and action, Hayles wants to re-emphasize the entanglement of physical object and signification in their co-roles for materiality, and the entanglement of texts with each other. Hayles suggests that this requires different subjectivity but does not outline for whom and how it would be different: **does she?** Meanwhile, in relation to Chun's specificity, Hayles perhaps **overentangles or conflates or overemphasizes** the executable aspect of code language (as performative) at the expense of the other processes involved. 
-
-For Chun, as well as for Adrian MacKenzie and for Geoff Cox, code's performativity is not in its conflation with speech act alone. 
-
->“understanding code as re-source links its effectiveness to history and context. If code is performative, it is because of the community (human and otherwise) that enables such utterances to be repeated and executed, that one joins through such citation. [...] what is crucial to a performative utterance’s success or failure is its iterability, [...] What is crucial here is: first, code that succeeds must be citations—and extremely exact citations at that. There is no room for syntax errors; second, that this iterability precedes the so-called subject (or machine) that is supposedly the source of the code; and third, and most importantly, an entire structure must be in place in order for a command to be executed. This structure is as institutional and political as it is machinic.” (Chun 2008, 322)
-
-The citational nature of code connects it to writing, community, natural language etc. **pull Hayles contrasting quote and critique it** Not that there is NO differences but they don't have all that power; I argue for a spectrum, continuum. **Also reference MacKenzie's social context Linux arg?**
 
 **Both say no room for error, yet error creates space, break, poetics, the very paradigmatic possibility outside the interpellated DB Hayles describes**
 >“changes on one level of programming code must be exactly correlated with what is happening at all the other levels. [...] For the machine, obsolete code is no longer a competent utterance.” (Hayles 2005, 47) _Errors don’t break the computer completely, something else does occur, in ML other emergent systems other things happen. In abstraction, nothing is exactly correlated?_
 
 
+**why the citational is important here, especially for self/relational/writing**
 
-***Hayles:***
->“Nor does code allow the infinite iterability and citation that Derrida associates with inscriptions, whereby any phrase, sentence, or paragraph can be lifted from one context and embedded in another.” (Hayles 2005, 48) _I don’t think I agree with this!! What about all of stack exchange and open source and versioning and OOO and a host of other things? Not to mention VARIABLES as iterable, lifted from and embedded into_
 
->“‘this assertion does not hold true literally for code, where the contexts are precisely determined by the level and nature of the code. Code may be rendered unintelligible if transported into a different context-for example, into a different programming language or a different syntactic structure within the same language. Only at the high level of object-oriented languages such as C++ does code recuperate the advantages of citability and iterability (i.e., inheritance and polymorphism, in the discourse of programming language) and in this sense become “grammatological:’ “ (Hayles 2005, 48) _ok sure but isn’t that what we’re also talking about, Also true with natural language, her argument is stretched and unclear here._
+And N. Katherine Hayles **, using both print books and digital text, makes an argument for additional kinds of entanglement but unfortunately [lacks/loses] some of the specificity of Chun**
+
+
+#### tenen pt 1
+> “Despite its formative effect on practices of comprehension, code, the programmatic sign, does not often ﬁgure in our theories of meaning making. Instead, we consign it to the ornamental formatting layer of document structure. We do so at our peril. [...] Code is an exercise of power, not its representation. The difference between representation and control is one of brute force. It lies in the distinction between a restraining order and physical restraint” (Tenen 2017, 47–48)
+
 
 
 
@@ -247,3 +233,10 @@ Hayles on Derrida right after: “Derrida's deconstruction of this hierarchical 
 
 >(also include ullman quote re code has one meaning what it does, vs Critical Code studies?)
 
+### surfaces / medium (format for transmission)
+
+>“The screen should not simply be cast as the bearer, for example, of multiple (flat) surfaces or successive “states” of text; it must be viewed as a monitor for complex processes, processes which, if they are linguistic, will be textual and symbolic, with a specific materiality as such. We must be able to see and read what the screen presents rather than recasting what passes before our eyes as the emulation of a “transparent” medium” (Cayley 2018, 81)
+
+>“As writing and other visual arts became the privileged bearers of memory and messages, weaving withdrew into its own screens. Both canvases and paper reduce the complexities of weaving to raw materials on which images and signs are imposed: the cloths from which woven patterns once emerged now become backcloths, passive matrices on which images are imposed and interpreted as if from on high. Images are no longer carried in the weave, but imprinted on its surface” (Plant 1998, 67)
+
+~~Hayles suggests that this requires different subjectivity but does not outline for whom and how it would be different: **does she?**~~
