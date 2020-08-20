@@ -31,13 +31,22 @@ Field exam will appear here supplemented by the surrounding pages. Watch the liv
 
 ## 0. introduction
 
-## 1. ?
 
+>"With the virtual body came its fascist sibling, the data body—a much more highly developed virtual form, and one that exists in complete service to the corporate and police state. The data body is the total collection of files connected to an individual" (Critical Art Ensemble 1998, 145). 
+
+
+## 1. history sucks and the present isn't looking great
+
+## 2. dark susveillance, alternate media, less valued systems already in progress
+
+## 3. artistic, hybrid, other possibilities
+
+
+
+## Stuff I haven't used yet
 
 Marey, measurement of movement, and the long histories of violence that emerged from those impulses toward taxonoomy. His sphygmograph appearing like a clackering stigmata against the pulse point inside the wrist. The chronolocomotive tools built to capture motion imperceptible by the eye, somewhere between a 19th-century FitBit and a torture device. 
 
-
-## Quotes I haven't used yet
 
 ### Historical to Contemporary, Brutal to Subversive, Surveillance & Susveillance
 
@@ -126,10 +135,65 @@ pretend AI is human labor, behind the computational layer of interface
 could compare all these to the shipping manifests of the trade of enslaved peoples
 
 #### Wernimont
+
+>"contemporary self-tracking pratices are firmly rooted in racializing, colonizing, and gendering technologies of knowledge as well as control." (Wernimont 2018, 122)
+
+colonial influenced logics, interface
+>"Like the schema of early censuses and mortality counts, the established schema of mechanical step tracking quickly elided the ways in which colonial logics were both integrated and normalized by tracking devices and their outputs. While devices vary in detail, they almost all share a physical boundary like the watch face or digital output, and depend on the aesthetic rationality performed by spare numerical interfaces. The shared history with clockworks" (Wernimont 2018, 122)
+
+From the 16th century, according to Wernimont (2018), and gaining popularity into the 18th century, the pedometer (or 'perambulator' or 'waywiser')(111) began as a tool for measuring distance, not the effort of the wearer, (123), and so first gained popularity for its imperialist abilities to "mediate territorial power" over land (123). Later the tool moves away from the domain of the elite white gentleman's conspicuous consumption and need "to measure the land and situate the wearer’s body therein," (123) to a measure of health or infirmity (but still wealth) (123). By the 19th century the pedometer became a measure for labor and morality of both genders among the white elite. Wernimont cites stories of a wife writing to the newspaper wishing to track her husband's evening excursions (130) and several accounts of pedometers at debutante balls and in which "the pedometer stands in as a technology able to reveal to anxious men the moral status of the woman being surveilled" (133). By the early 20th century, "quantifiable female body norms like weight and discussions of pedometers to improve household efficiencies emerged together in the context of increasing pressures to optimize industrial practices" (140). 
+
+>"quantifications of life activities in recreational, social, and health contexts are part of the construction of whiteness, and especially certain kinds of valued white masculinity and white femininity, prior to the mid-twentieth century. The quantification of black life did occur, but it tended to happen within the different contexts of enslavement and labor quotas." (144--145)
+
+>"For lifestyle users, giving up their data is a voluntary (if frequently hidden) act. Parolees and those under other forms of legal surveillance have little choice about the data collection, and have even more limited access to the data than do commercial device wearers. This is a racialized and racializing difference;" (150)
+
+Know thyself, foucault
+>"know thyself has long been cover for self-regulation and wealth generation in the service of the nation-state and other institutional entities" (151) "Knowing thyself looks an awful lot like corporate efforts to know and shape the consumer body" (155).
+
+>"In Greek and Roman texts, the injunction of having to know yourself was always associated with the other principle of having to take care of yourself" (20) ... "There has been an inversion between the hierarchy of the two principles of antiquity, "Take care of yourself" and "Know thyself." In Greco-Roman culture knowledge of oneself appeared as the consequence of taking care of yourself. In the modern world, knowledge of oneself constitutes the fundamental principle." (Foucault , 22)
+
+data speaks with more authority than certain types of people, who gets to know themselves, who gets to know about others, access to data, relates to Browne's biometric data as evidence
+>"quantum media are being used to either preempt or bolster women’s narrations of embodied experiences. In each of these instances, there is a sense that a data collection device can testify to the state of a woman’s body in ways that reveal truth—a pregnancy, injury, or perhaps subterfuge. What’s more, the data themselves are subject to further semiotic transformation before they come to testify on behalf of or against these women;" (156)
+
+the programmed constraints mean the devices and their data outputs can "only point in one direction: success or failure in a health paradigm [...] in ways that entirely missed political, environmental, and ethical contexts [...] for activity in favor of ones more supportive of the normalized behavior of affluent American citizens" (158):
+
+>"**activity monitors can only understand physical activity within a paradigm where the wearer is safe, not responsible for the care of others, and using activity for exercise, not survival" (158).**
+
+>"the “we” of device wearers are not really building the “we” imagined" (158)
+
+>"Such mediations thus violently rewrite [...] experiences" (159)
+
+>"What kinds of stories cannot be told with either a commercial report or even [an] artistic mapping because individuals do not have access to such media, the time to engage it fully, and/or do not have the security to reveal the details of their everyday experience without increasing their risk of domestic or state violence? Do we really want a suite of quantifying tools built largely by a long progression of white Christian men to be the dominant media for understanding and living human life? Can we imagine other possibilities?" (159)
+
+
+open/closed forms, appropriating for own use
+>"One of the ways in which the gendering of activity tracking has changed with the shift to mechanical and then digital pedometers is in the relative inaccessibility of the media for women’s appropriation. The interface of the manuscript page or book is relatively free from constraint; even in the tabular books and almanacs of the period, we see writers using forms designed to capture numbers in order to record a wide array of information. In contrast, tracking watches, bracelets, and necklaces along with their apps close off the data collection in ways that block women and gender-nonconforming or nonbinary people from hacking the media to create nonmasculine experiences and/or stories. The informational interfaces of digital media change, and the different media ecosystems today are mutually constitutive of one another, both working to create certain possibilities for lived experience and foreclosing others." (Wernimont 2018, 141)
+
+>"That users might need to take back data about their embodied experience testifies to the degree to which the informational flow has changed, thus positioning the data creator as reader versus author/artist" (141)
+
+>"We are not currently ourselves, they claim, but wearable tracking devices, apps, and other so-called lifestyle integrations can help us map a way to find ourselves—out there, in the data. Such claims assert that processes of abstraction and surveillance enable self-understanding and fulfillment. The good life, they maintain, can be had with the help of a wrist bracelet or clip used to carefully monitor behaviors and behavioral change. Such logic may not be especially unusual. Meditation is a practice based on self-observation as well. But the fact that meaning making is outsourced to corporations suggests a commercialized panopticon embedded in and around bodies and everyday digital practices." (Wernimont 2018, 96)
+
+prestige, normalizing
+> "As such devices circulate in a prestige economy, they perform the normalizing function discussed elsewhere for mortality counts and population statistics. Steptracking devices draw on both the prestige of fine instruments and enumeration to shore up the value of human activity tracking, and they normalize such devices as important and even necessary to human life." (130)
+
+scale, honesty/morality, imperialist
+>"quantum media can work in service of large-scale imperial or national claims of rights and authority, but they can also attest to the honesty, reputation, and labor of individuals. This is a critical feature of quantum media: their flexibility to operate across a range of scales." (129)
+
+>"processes and media for political arithmetic were a well-integrated part of fifteenth-century Incan statecraft, , suggesting that these textile-based censuses were an even earlier innovation (perhaps in the eleventh or twelfth century). [...] Incan officials used quipu ["a system of cords and knots, frequently made of cotton and dyed in a variety of colors"] to record and preserve censuses of newly colonized communities, track the productivity of mines, communicate the composition of workforces, and track and calculate tributes owed by colonized communities." (42)
+>"Other communities used three-dimensional textiles and other forms of visual representation to accomplish many of the same goals. Despite the radically different materials, each of the census traditions is deeply tied to statecraft, colonial oversight, and systems of taxation and management, suggesting that the process of enumeration is foundational while the media are variable." (43)
+
 >“the kinds of labor that the body-being-counted does for others” (Wernimont 2018, 9)
 normalizing, who counts, moral status
 >“matrices of bodies and media” (Wernimont 2018, 4)
-**more in book, get from pdf**
+
+**non mediated/nonwhateverable forms, womens forms and dark susveillance**
+
+Early women's life writing was more daily and embodied (109) "Where men followed meandering minds or put themselves in the mind of Christ, medieval and early modern English women's 'being in and becoming with' was situated in the social spaces of the home and materiality of bodies" (109). 
+
+>"Where early modern life writing by women was able to take account of the domestic and embodied labors of women, the automation and algorithmic black boxing of twenty-first-century devices limits what is counted, and thereby limits the kinds of lives that can emerge as mediated by these technologies." (142)
+"nondigital mediations allowed for narrative and numerate tracking of women’s lives" (142).
+
+>"Where data gathering and analysis is part of everyday practice, when lodged in the memories and bodies of women, it has been called caring for others. But the self-care processes that wearable devices can track, manage, and analyze have been coded as part of a masculine pursuit of self-knowledge and self-control. [...] But this body of knowledge looks s ciously like early Enlightenment paradigms that privileged white, male, bourgeois life as the only life worth knowing. [...] we are not simply talking about large-scale data storage and analysis creating different ways of knowing but also different ways of being." (143)
 
 Wernimont uses the metaphor of the matrices as “the media in which something is generated or developed. As a generative form, the matrix is a powerful way of understanding and critiquing binary logics and simple, progressive narratives” (11). Citing Vivian M. May, she says it also grounds intersectional practice and thought, “intersectional work focuses on 'enmeshed multiplicities,' including but not limited to those of race and gender. It also entails a commitment to ‘resistant forms of knowing’ [...]. The matrix logic of intersectional feminism ‘considers how inequalities intermingle,’ and stresses linkages between ‘the structural and experiential, and the material and the discursive’” (Wernimont 2018,  11). 
 **goes in field 3?**
@@ -147,7 +211,6 @@ victimhood, products contstruct identities specifically gendered, reproduce cult
 
 
 #### Neff/Nafus? Rosenberg? 
-
 
 
 ### Artists
@@ -189,16 +252,46 @@ her claim is speculative, hopeful
 
 #### Lupton
 
-#### 
+#### Liat Berdugo
 
 ![zooom2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FLiat-Zoom2.jpg?v=1597878236198)
 ![zooom1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FLiat-Zoom1.jpg?v=1597878236094) 
 
-Liat Berdugo's (2012) ["The Zoom Series"](https://www.liatberdugo.com/work/zoom) and (https://artcopyright.interartive.org/zoom-liat-berdugo)
+Liat Berdugo's (2012) ["The Zoom Series"](https://www.liatberdugo.com/work/zoom){:target="_blank"} and (https://artcopyright.interartive.org/zoom-liat-berdugo){:target="_blank"}
+
+#### Sonya Rapoport
+
+[computer printout drawings](http://www.sonyarapoport.org/project-type/early-computer-paper/)
+
+
+[Biorhythm](http://www.sonyarapoport.org/portfolio/biorhythm/)
+
+**use for example of contradiction**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fdl8xCdcYBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Rapoport's 1983 work, "The Computer Says I Feel,":
+One of the installation participants describes, "I feel much better... good... great!" And then a stern, authoritative voice declares instead, "The computer says 'CAUTION'." The cover of the 'hand' book for the installation reads, with one piece of the phrase per finger, "In this mechanized age, computer overrides all opinions." More samples available as [audio only](https://archive.org/details/cubanc_000340).
+
+![biorhythm-exhibition1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Biorhythm-page%2012.jpg?v=1597963523267) ![biorhythm-exhibiton2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Biorhythm-page%2013.jpg?v=1597963522353)
+Note the various kinds of information gathering from human subject reporting, computer reporting, to palm reading all being put in juxtaposition here. [Primary source materials courtesy Sonya Rapoport Legacy Trust and the San Jose Museum of Art](http://www.sonyarapoport.org/){:target="_blank"}
+{: .fs-2}
 
 
 
+**use for example of diff kinds of data collection**
+[![Rapoport-shoes](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Bonito-shoes.jpg?v=1597961497487)](http://www.sonyarapoport.org/portfolio/domestic-analysis/){:target="_blank"}
+[Bonito Rapoport Shoes, 1978, pencil, colored pencil, colored type, computer print and solvent transfer on continuous-feed computer print, 37 pages in 4 folios, 11 x 14.875” each.](http://www.sonyarapoport.org/portfolio/domestic-analysis/){:target="_blank"}
+{: .fs-2}
 
+
+#### Rebecca Horn
+
+[![horn-fingers]()](https://www.tate.org.uk/art/artworks/horn-finger-gloves-t07845)
+["Horn has described how wearing these gloves altered her relationship with her surroundings, so that distant objects came within her reach: ‘the finger gloves are light. I can move them without any effort. Feel, touch, grasp anything, but keeping a certain distance from the objects. The lever-action of the lengthened fingers intensifies the various sense-data of the hand; [...] I feel me touching, I see me grasping, I control the distance between me and the objects.’" --Tate gallery label, 2016](https://www.tate.org.uk/art/artworks/horn-finger-gloves-t07845)
+
+[![horn-pencil](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fhorn-pencil.jpg?v=1597963985835)](https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847)
+["Strapped around the face, this mask transforms the wearer’s head into an instrument for drawing. Horn has described wearing it: ‘All pencils are about two inches long and produce the profile of my face in three dimensions...I move my body rhythmically from left to right in front of a white wall. The pencils make marks on the wall the image of which corresponds to the rhythm of my movements.’ The spike-like pencils make this one of Horn’s more threatening works. However, it is linked to the feather masks, as feather quills were also once used for writing." --Tate gallery label, 2004](https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847)
+{: .fs-2}
 
 
 #### other quotes maybe

@@ -11,6 +11,8 @@ last_modified_date: 2020-08-18 11:09
 Live on part 2, because part 1 lost audio again. Please let me know if you notice this issue, thanks!
 {: .fs-3 }
 
+[_black lives matter_](https://www.jamestgreen.com/projects/blacklivesmatter)
+
 **Oh hi there,**
 
 This site is a work in progress which both tracks and _is_ the qualifying exam for Sarah Ciston's Media Arts + Practice PhD. Its format reimagines academic scholarship as writing, processing, performance---a live-coding, live-writing, embodied practice that references the genre of software documentation and API, and utilizes some of the cloud-based tools it also interrogates. The work is further embedded with metadata, multimedia, associative fragments that accrete throughout the writing process——blurring the edges across code work, creative work, critical work, and personal work, across material and ephemeral platforms.
