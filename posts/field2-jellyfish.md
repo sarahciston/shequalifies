@@ -9,7 +9,8 @@ excerpt_separator:  <!--more-->
 
 {% include references.md %}
 
-## jellyfish, a float
+## jellyfish and the vagus nerve 
+<!-- , a float -->
 
 immersed, pulled by the currents of meaning, electric, all nervous system, tendrils of data trailing behind, regenerating. 
 
@@ -18,3 +19,6 @@ big data is an undersea hypnosis, breathless, a void, no e, phone in dark mode.
 ![slowfloat](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FJelly-slowfloat.gif?v=1597546700884)
 
 jellyfish as metaphor? jellyfish as regenerative (stinging) multiorganistic system
+
+[no brain](https://www.pbs.org/wnet/nature/blog/no-brain-for-jellyfish-no-problem/)
+

@@ -6,13 +6,16 @@ last_modified_date: 2020-08-18 11:09
 ---
 <!-- layout: default -->
 
-<iframe width="266" height="150" src="https://www.youtube.com/embed/SznhRaT77G8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/JKLh31VH5iM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="266" height="150" src="https://www.youtube.com/embed/3DF759JzzAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/LYWWv2vsqHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Live on part 2, because part 1 lost audio again. Please let me know if you notice this issue, thanks!
+{: .fs-3 }
 
 **Oh hi there,**
 
 This site is a work in progress which both tracks and _is_ the qualifying exam for Sarah Ciston's Media Arts + Practice PhD. Its format reimagines academic scholarship as writing, processing, performance---a live-coding, live-writing, embodied practice that references the genre of software documentation and API, and utilizes some of the cloud-based tools it also interrogates. The work is further embedded with metadata, multimedia, associative fragments that accrete throughout the writing process——blurring the edges across code work, creative work, critical work, and personal work, across material and ephemeral platforms.
 
-Today I am writing Field 1: [Co-Writing with Algorithms](posts/field1-cowriting)
+Today I am writing Field 1: [Immersive Data Identities](posts/field2-dataIds)
 
 ![katyacantwait](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FKatya-cantwait.gif?v=1597792482090)
 
@@ -40,6 +43,6 @@ Today I am writing Field 1: [Co-Writing with Algorithms](posts/field1-cowriting)
 >_“no code refers to all the universes, and no universe is referred to by all codes”_ --Vilém Flusser
 {: .fs-3 }
 
-<iframe width="266" height="150" src="https://www.youtube.com/embed/3DF759JzzAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/gUCNY0Vqa_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="266" height="150" src="https://www.youtube.com/embed/SznhRaT77G8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/JKLh31VH5iM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/3DF759JzzAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/gUCNY0Vqa_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <!-- <iframe width="800" height="450" src="https://www.youtube.com/embed/_1AUZKtchzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> <!--width="560" height="315"-->
