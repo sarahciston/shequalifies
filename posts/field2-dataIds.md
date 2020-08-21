@@ -31,7 +31,7 @@ Field exam will appear here supplemented by the surrounding pages. Watch the liv
 
 ## 0. introduction
 
-
+**WHAT GOES HERE?**
 
 qualities these works share: open, adaptable in format; user designed; embodied not imposed upon a body; reappropriate; hyperboly or activism;
 old to new: increasingly producing closed systems that impose the tools or platforms that mediate, although users/artists still misuse, borrow, steal; new tech more subtly makes use of what's already on the body, violence more insidious (for some, at least)
@@ -57,7 +57,26 @@ As new practices of digital data collection increase at-scale, the extractive pr
 
 >data colonialism is changing society by transforming human life into a new abstracted social form that is also ripe for commodification: data. The means for this transformation are---to reiterate--not labor relations, but, more broadly, commodified social relations, or, more succinctly, data relations. [...] These new types of social relations implicate human beings in processes of data extraction, but in ways that do not _prima facie_ seem extractive. That is the key point: the audacious yet largely disguised corporate attempt to incorporate all of life, whether or not conceived by those doing it as “production,” into an expanded process for the generation of surplus value. The extraction of data from bodies, things, and systems create new possibilities for managing everything. This is the new and distinctive role of platforms and other environments of routine data extraction. (343)
 
+Simone Browne (2015) points to colonial-era hobbiest botanical classification and other scientific and pseudoscientific taxonomies occuring alongside human classification, exploitation, and economic trade: "human categorization and division is part of a larger imperial project of colonial expansion that aimed to fix, frame, and naturalize discursively constructed difference" (96). The main operational mode of computation as it is understood today is classification/categorization, which when taken as the main metaphor for contemporary thought continue to "naturalize discursively constructed difference." Computation and data, it could be argued, are part of the imperialist project. It may be possible to imagine other forms of computation not built on concepts of binary classification (down to the level of voltage and switches), but perhaps not within a culture built on and so deeply invested in these values. 
 
+Browne calls for "a critical biometric consciousness" that connects contemporary technologies to their violent anti-Black histories---used for population management, punishment, and racial profiling---and contends with their application to these ends in the present. She defines biometrics as "a technology of measuring the living body. The application of this technology is in the verification, identification, and automation practices that enable the body to function as evidence” (109). Along with ex-slave narratives, plantation rules, the census, runaway advertisements, ship manifests, and other documents of the transatlantic slave trade, Browne details how branding was "a biometric technology, as it was a measure of slavery’s making, marking, and marketing of the black subject as commodity" (91). Further, "the branding of blackness remains visible, and also makes certain brands visible" (92). She says, branding is not only "a material practice of hot irons on skin, but as a racializing act, where the one-drop rule was a technology of branding blackness that maintained the enslaved body as black" (92). Connecting this to present-day practices, Browne refers to "digital epidermalization" as what happens to certain bodies when "algorithms are the computational means through which the body, or more specifically parts, pieces, and, increasingly, performances of the body are mathematically coded as data, making for unique templates for computers to then sort [...], or to verify the identity [...,] also used for automation [..., or] to detect a user’s presence and gestures" (109). The effect of digital epidermalization is potentially alienation from the self and profound precarity, she says, at borders or voting booths, welfare offices or prisons, "moments where identification, and increasingly biometric information, is required to speak the truth of and for muted bodies. These sites and moments are productive of, and often necessitate, ontological insecurity" (110). Digital epidermalization in these moments can override one's own truth about oneself. 
+
+This idea that data speaks with more authority than certain types of people carries across platforms, races, genders, but seems to be informed mostly by whom is in power and what their values are about rationality and knowledge: who gets to know themselves, who gets to know about others, who has access to data. These data are used as evidence often that supercedes the direct experience or testimony of the person in question: "[they] either preempt or bolster women’s narrations of embodied experiences. In each of these instances, there is a sense that a data collection device can testify to the state of a woman’s body in ways that reveal truth---a pregnancy, injury, or perhaps subterfuge. What’s more, the data themselves are subject to further semiotic transformation before they come to testify on behalf of or against these women" (Wernimont 2018, 156). Even with the knowledge that the data have been manipulated beforehand, data may speak with more authority than the disenfranchised subject. 
+
+
+
+
+"our originary technicity, our way of being-with and emerging-with technology" (Kember and Zylinska , 14)
+
+"this originary technicity is also an ethical condition." (17)
+
+"Originary technicity can thus be understood as a condition of openness to what is not part of the human, of having to depend on alterity—be it in the form of gods, other humans, fire, or utensils—to fully constitute and actualize one’s being. But this imperative to get outside of oneself and to be technical, that is, to bring things forth, to create, is perhaps also an ethical injunction to create well, even if not a condition of ethical behavior." (17--18)
+
+"mediation is the originary process of media emergence, with media being seen as (ongoing) stabilizations of the media flow" (21).
+
+>"mediation can be seen as another term for “life,” for being-in and emerging-with the world. This thesis arises out of a body of work rooted in cybernetics and systems theory, whereby the media are understood primarily in terms of an ecology and a dynamic system of relations rather than as a series of discrete objects. Yet we also have reservations for some overenthusiastic applications of systemic thinking to the question of mediation. This is why a notion of “the cut”—as both a conceptual and material intervention into the “media flow” that has a cultural significance—is important for us in understanding what it means to be mediated, and in taking responsibility for this process, from within the process itself." (23)
+
+>“From this critical cybernetic perspective, the human is seen as having always been technological, or having always been mediated. To put it differently, technology and media are precisely what makes us human. [...] this position allows for a better understanding of what we have posited in this book as the relationality of the world—of which we are part. [...] If we do accept that we have indeed always been cyborgs, that we have always been mediated, it will be easier for us to let go of paranoid narratives [...] that see technology as an external other that threatens the human [...]. All this is not to say that in the universe of complex relations between human and nonhuman beings “anything goes” and that all connections are equally good. But seeing ourselves as always already connected, as being part of the system—rather than as masters of the universe to which all beings are inferior—is an important step in developing a more critical and a more responsible relationship to the world, to what we call “man,” “nature,” and “technology.” It is also a promise of the emergence of some more productive media relations and media environments.” (Kember and Zylinska 2012, 194)
 
 
 ## 2. dark susveillance, alternate media, less valued systems already in progress
@@ -116,35 +135,10 @@ critique of posthumanism
 
 #### Browne
 
->“biometrics is a technology of measuring the living body. The application of this technology is in the verification, identification, and automation practices that enable the body to function as evidence” (S Browne 2015, 109).
-
->“Importantly, a critical biometric consciousness must acknowledge the connections between contemporary biometric information technologies and their historical antecedents. Meaning here that this critical biometric consciousness must contend with the ways that branding, particularly within racial slavery, was instituted as a means of population management that rendered whiteness prototypical through its making, marking, and marketing of blackness as visible and as commodity. As well, it must contend with the ways in which branding was a form of punishment and racial profiling” (S Browne 2015, 118).
-
-Along with ex-slave narratives, plantation rules, the census, runaway advertisements, ship manifests, and other documents of the transatlantic slave trade, Browne details how branding was "a biometric technology, as it was a measure of slavery’s making, marking, and marketing of the black subject as commodity" (91). Further, "the branding of blackness remains visible, and also makes certain brands visible" (92). She says, branding is not only "a material practice of hot irons on skin, but as a racializing act, where the one-drop rule was a technology of branding blackness that maintained the enslaved body as black" (92).
-
-
-
->“the tracking of blackness as property informs the contemporary surveillance of the racial body [...] questioning how the intimate relation between branding and the black body---our biometric past---can allow us to think critically about our biometric present” (S Browne 2015, 91)
 
 def souveillance, as critique as praxis, historical and contemporary 
 >“Dark sousveillance, then, plots imaginaries that are oppositional and that are hopeful for another way of being. Dark sousveillance is a site of critique, as it speaks to black epistemologies of contending with antiblack surveillance, where the tools of social control in plantation surveillance or lantern laws in city spaces and beyond were appropriated, co-opted, repurposed, and challenged in order to facilitate survival and escape. [...] Dark sousveillance is also a reading praxis for examining surveillance that allows for a questioning of how certain surveillance technologies installed during slavery to monitor and track blackness as property (for example, branding, the one-drop rule, quantitative plantation records that listed enslaved people alongside livestock and crops, slave passes, slave patrols, and runaway notices) anticipate the contemporary surveillance of racialized subjects, and it also provides a way to frame how the contemporary surveillance of the racial body might be contended with” (S Browne 2015, 22–24)
 
-"The historical formation of surveillance is not outside of the historical formation of slavery." "narratives of ex-slaves, runaway slave advertisements, the census, and a set of plantation rules" (Browne 2015, 50)
-
->"Through their detailing of physical descriptions, the surveillance technology of the runaway slave advertisement was put to use to make the already hypervisible racial subject legible [...] Sall’s ability to evade surveillance through makeup, wicked tricks, and hiding in plain sight exposes the one-drop rule as a social construction that, for some, could be subverted by performing whiteness. Seth’s, or sometimes Sall’s, hiding in plain sightby identifying as white and using an alias—was a freedom practice to evade surveillance, and in so being a form of dark sousveillance." (Browne 2015, 54)
->"With Craft, her passing in terms of race, passing in terms of gender, passing in terms of class, and passing in terms of disability all played a role in her and William’s passing into freedom" (55).
-
->"In the United States, racial nomenclature as a form of population management was made official with the taking of the first federal census in 1790, [...] by way of formalized categories that fix individuals within a certain time and a particular space, making the census a technology that renders a population legible in racializing as well as gendering ways." (Browne 55--56) (_combined 2 ideas could resplit_) "it was left to the census taker to judge whether the census informant’s claim to the category of whiteness was valid, rather than accepting at face value the informant’s self-identification as white." (56)
-
->"commodity racism, that being to consume while at the same time alienating blackness. 55 Collecting and consuming blackness, and black people, whether kitsch or corporeal, forms part of the larger history continuing to the present of the ritualized practices and trauma of white supremacy, as the archive of lynching makes plain. After such extrajudicial killings and the ceremony that accompanied death, memorabilia would be taken, and oftentimes sold, as souvenirs" _blackness for sale, net.art not addressing race. browser names_
-
->
-
-Browne points to the hobbiest botanical classification and other scientific and pseudoscientific taxonomies occuring alongside this human classification, exploitation, and economic trade: "human categorization and division is part of a larger imperial project of colonial expansion that aimed to fix, frame, and naturalize discursively constructed difference" (Browne 2015, 96). The main operational mode of computation as it is understood today is classification/categorization, which when taken as the main metaphor for contemporary thought continue to "naturalize discursively constructed difference." Computation and data, it could be argued, are part of the imperialist project. It may be possible to imagine other forms of computation not built on concepts of binary classification (down to the level of voltage and switches), but perhaps not within a culture built on and so deeply invested in these values. 
-
-Browne refers to "digital epidermalization" as what happens to certain bodies when "algorithms are the computational means through which the body, or more specifically parts, pieces, and, increasingly, performances of the body are mathematically coded as data, making for unique templates for computers to then sort [...], or to verify the identity [...,] also used for automation [..., or] to detect a user’s presence and gestures" (109). The effect of digital epidermalization is potentially alienation from the self and profound precarity, she says, at borders or voting booths, welfare offices or prisons, "moments where identification, and increasingly biometric information, is required to speak the truth of and for muted bodies. These sites and moments are productive of, and often necessitate, ontological insecurity" (110). Digital epidermalization in these moments can override one's own truth about oneself.
-
-~~>"Digital epidermalization is the exercise of power cast by the disembodied gaze of certain surveillance technologies (for example, identity card readers and e-passport verification machines) that can be employed to do the work of alienating the subject by producing a truth about the racial body and one’s identity (or identities) despite the subject’s claims” (2015, 110).~~
 
 
 
@@ -179,9 +173,9 @@ could compare all these to the shipping manifests of the trade of enslaved peopl
 >"contemporary self-tracking pratices are firmly rooted in racializing, colonizing, and gendering technologies of knowledge as well as control." (Wernimont 2018, 122)
 
 colonial influenced logics, interface
->"Like the schema of early censuses and mortality counts, the established schema of mechanical step tracking quickly elided the ways in which colonial logics were both integrated and normalized by tracking devices and their outputs. While devices vary in detail, they almost all share a physical boundary like the watch face or digital output, and depend on the aesthetic rationality performed by spare numerical interfaces. The shared history with clockworks" (Wernimont 2018, 122)
+>"Like the schema of early censuses and mortality counts, the established schema of mechanical step tracking quickly elided the ways in which colonial logics were both integrated and normalized by tracking devices and their outputs. While devices vary in detail, they almost all share a physical boundary like the watch face or digital output, and depend on the aesthetic rationality performed by spare numerical interfaces" (Wernimont 2018, 122).
 
-From the 16th century, according to Wernimont (2018), and gaining popularity into the 18th century, the pedometer (or 'perambulator' or 'waywiser')(111) began as a tool for measuring distance, not the effort of the wearer, (123), and so first gained popularity for its imperialist abilities to "mediate territorial power" over land (123). Later the tool moves away from the domain of the elite white gentleman's conspicuous consumption and need "to measure the land and situate the wearer’s body therein," (123) to a measure of health or infirmity (but still wealth) (123). By the 19th century the pedometer became a measure for labor and morality of both genders among the white elite. Wernimont cites stories of a wife writing to the newspaper wishing to track her husband's evening excursions (130) and several accounts of pedometers at debutante balls and in which "the pedometer stands in as a technology able to reveal to anxious men the moral status of the woman being surveilled" (133). By the early 20th century, "quantifiable female body norms like weight and discussions of pedometers to improve household efficiencies emerged together in the context of increasing pressures to optimize industrial practices" (140). 
+From the 16th century, according to Jacqueline Wernimont (2018), and gaining popularity into the 18th century, the pedometer (111) began as a tool for measuring distance, not the effort of the wearer, (123), and so first gained popularity for its imperialist abilities to "mediate territorial power" over land (123). Later the 'waywiser' moves away from the domain of the elite white gentleman's conspicuous consumption and need "to measure the land and situate the wearer’s body therein," (123) to a measure of health or infirmity (but still wealth) (123). By the 19th century this same 'perambulator' became instead a measure for labor and morality of both genders among the white elite. Wernimont cites stories of a wife writing to the newspaper wishing to track her husband's evening excursions (130) and several accounts of pedometers at debutante balls in which "the pedometer stands in as a technology able to reveal to anxious men the moral status of the woman being surveilled" (133). By the early 20th century, "quantifiable female body norms like weight and discussions of pedometers to improve household efficiencies emerged together in the context of increasing pressures to optimize industrial practices" (140). 
 
 >"quantifications of life activities in recreational, social, and health contexts are part of the construction of whiteness, and especially certain kinds of valued white masculinity and white femininity, prior to the mid-twentieth century. The quantification of black life did occur, but it tended to happen within the different contexts of enslavement and labor quotas." (144--145)
 
@@ -192,8 +186,6 @@ Know thyself, foucault
 
 >"In Greek and Roman texts, the injunction of having to know yourself was always associated with the other principle of having to take care of yourself" (20) ... "There has been an inversion between the hierarchy of the two principles of antiquity, "Take care of yourself" and "Know thyself." In Greco-Roman culture knowledge of oneself appeared as the consequence of taking care of yourself. In the modern world, knowledge of oneself constitutes the fundamental principle." (Foucault , 22)
 
-data speaks with more authority than certain types of people, who gets to know themselves, who gets to know about others, access to data, relates to Browne's biometric data as evidence
->"quantum media are being used to either preempt or bolster women’s narrations of embodied experiences. In each of these instances, there is a sense that a data collection device can testify to the state of a woman’s body in ways that reveal truth—a pregnancy, injury, or perhaps subterfuge. What’s more, the data themselves are subject to further semiotic transformation before they come to testify on behalf of or against these women;" (156)
 
 the programmed constraints mean the devices and their data outputs can "only point in one direction: success or failure in a health paradigm [...] in ways that entirely missed political, environmental, and ethical contexts [...] for activity in favor of ones more supportive of the normalized behavior of affluent American citizens" (158):
 
@@ -219,8 +211,8 @@ prestige, normalizing
 scale, honesty/morality, imperialist
 >"quantum media can work in service of large-scale imperial or national claims of rights and authority, but they can also attest to the honesty, reputation, and labor of individuals. This is a critical feature of quantum media: their flexibility to operate across a range of scales." (129)
 
->"processes and media for political arithmetic were a well-integrated part of fifteenth-century Incan statecraft, , suggesting that these textile-based censuses were an even earlier innovation (perhaps in the eleventh or twelfth century). [...] Incan officials used quipu ["a system of cords and knots, frequently made of cotton and dyed in a variety of colors"] to record and preserve censuses of newly colonized communities, track the productivity of mines, communicate the composition of workforces, and track and calculate tributes owed by colonized communities." (42)
->"Other communities used three-dimensional textiles and other forms of visual representation to accomplish many of the same goals. Despite the radically different materials, each of the census traditions is deeply tied to statecraft, colonial oversight, and systems of taxation and management, suggesting that the process of enumeration is foundational while the media are variable." (43)
+>"processes and media for political arithmetic were a well-integrated part of fifteenth-century Incan statecraft, suggesting that these textile-based censuses were an even earlier innovation (perhaps in the eleventh or twelfth century). [...] Incan officials used quipu ["a system of cords and knots, frequently made of cotton and dyed in a variety of colors"] to record and preserve censuses of newly colonized communities, track the productivity of mines, communicate the composition of workforces, and track and calculate tributes owed by colonized communities." (42)
+>"Other communities used three-dimensional textiles and other forms of visual representation to accomplish many of the same goals. Despite the radically different materials, each of the census traditions is deeply tied to statecraft, colonial oversight, and systems of taxation and management, suggesting that the process of enumeration is foundational while the media are variable." (Wernimont 2018, 43)
 
 >“the kinds of labor that the body-being-counted does for others” (Wernimont 2018, 9)
 normalizing, who counts, moral status
@@ -228,14 +220,14 @@ normalizing, who counts, moral status
 
 **non mediated/nonwhateverable forms, womens forms and dark susveillance**
 
-Early women's life writing was more daily and embodied (109) "Where men followed meandering minds or put themselves in the mind of Christ, medieval and early modern English women's 'being in and becoming with' was situated in the social spaces of the home and materiality of bodies" (109). 
+Early women's life writing was more daily and embodied (109) "Where men followed meandering minds or put themselves in the mind of Christ, medieval and early modern English women's 'being in and becoming with' was situated in the social spaces of the home and materiality of bodies" (Wernimont 2018, 109). 
 
->"Where early modern life writing by women was able to take account of the domestic and embodied labors of women, the automation and algorithmic black boxing of twenty-first-century devices limits what is counted, and thereby limits the kinds of lives that can emerge as mediated by these technologies." (142)
-"nondigital mediations allowed for narrative and numerate tracking of women’s lives" (142).
+>"Where early modern life writing by women was able to take account of the domestic and embodied labors of women, the automation and algorithmic black boxing of twenty-first-century devices limits what is counted, and thereby limits the kinds of lives that can emerge as mediated by these technologies." (Wernimont 2018, 142)
+"nondigital mediations allowed for narrative and numerate tracking of women’s lives" (Wernimont 2018, 142).
 
->"Where data gathering and analysis is part of everyday practice, when lodged in the memories and bodies of women, it has been called caring for others. But the self-care processes that wearable devices can track, manage, and analyze have been coded as part of a masculine pursuit of self-knowledge and self-control. [...] But this body of knowledge looks s ciously like early Enlightenment paradigms that privileged white, male, bourgeois life as the only life worth knowing. [...] we are not simply talking about large-scale data storage and analysis creating different ways of knowing but also different ways of being." (143)
+>"Where data gathering and analysis is part of everyday practice, when lodged in the memories and bodies of women, it has been called caring for others. But the self-care processes that wearable devices can track, manage, and analyze have been coded as part of a masculine pursuit of self-knowledge and self-control. [...] But this body of knowledge looks s ciously like early Enlightenment paradigms that privileged white, male, bourgeois life as the only life worth knowing. [...] we are not simply talking about large-scale data storage and analysis creating different ways of knowing but also different ways of being." (Wernimont 2018, 143)
 
-Wernimont uses the metaphor of the matrices as “the media in which something is generated or developed. As a generative form, the matrix is a powerful way of understanding and critiquing binary logics and simple, progressive narratives” (11). Citing Vivian M. May, she says it also grounds intersectional practice and thought, “intersectional work focuses on 'enmeshed multiplicities,' including but not limited to those of race and gender. It also entails a commitment to ‘resistant forms of knowing’ [...]. The matrix logic of intersectional feminism ‘considers how inequalities intermingle,’ and stresses linkages between ‘the structural and experiential, and the material and the discursive’” (Wernimont 2018,  11). 
+Wernimont uses the metaphor of the matrices as “the media in which something is generated or developed. As a generative form, the matrix is a powerful way of understanding and critiquing binary logics and simple, progressive narratives” (11). Citing Vivian M. May, she says it also grounds intersectional practice and thought, “intersectional work focuses on 'enmeshed multiplicities,' including but not limited to those of race and gender. It also entails a commitment to ‘resistant forms of knowing’ [...]. The matrix logic of intersectional feminism ‘considers how inequalities intermingle,’ and stresses linkages between ‘the structural and experiential, and the material and the discursive’” (Wernimont 2018, 11). 
 **goes in field 3?**
 
 #### Wissinger
@@ -246,12 +238,7 @@ reproduce assumptions about women
 victimhood, products contstruct identities specifically gendered, reproduce cultural anxieties
 >“Whether susceptible to a snack attack, or a literal attack, the assumed potential victimhood of bodies gendered female is a telling illustration of broader cultural anxieties being reproduced within these new technologies, anxieties that feed into the identities these technologies are helping to construct” (Wissinger 2017, 374)
 
-
 >"The need to return to face-to-face contact resonates with assumptions about femininity regarding emotional availability. Both women and men are suffering from technologically induced reductions in eye contact; attentiveness and availability to others’ needs, however, are behaviors traditionally coded feminine [...] with attention to herself significantly missing from that list” (Wissinger 2017, 380)
-
-
-#### Neff/Nafus? Rosenberg? 
-
 
 ### Artists
 
@@ -373,7 +360,7 @@ This work is a further step in that project because in order to build this site 
 
 ### Lauren Mc, Hito Steyerl, maybe Kate Hartman
 
-#### other quotes maybe
+### other quotes maybe
 
 >“If matter itself is lively, then not only is the difference between subjects and objects minimized, but the status of the shared materiality of all things is elevated. All bodies become more than mere objects, as the thing-powers of resistance and protean agency are brought into sharper relief. Vital materialism would thus set up a kind of safety net for those humans who are now, in a world where Kantian morality is the standard, routinely made to suffer because they do not conform to a particular (Euro-American, bourgeois, theocentric, or other) model of personhood. The ethical aim becomes to distribute value more generously, to bodies as such” (Bennett 2010, 13) differs from OOO all objects are impenetrable abstractions
 
@@ -381,3 +368,18 @@ This work is a further step in that project because in order to build this site 
 _maybe for field3_
 
 "a standpoint-specific 'warm data' archive" (Posner & Klein 2017, 5)
+
+
+
+### unused quotes
+
+#### Neff/Nafus? Rosenberg? 
+
+>“the tracking of blackness as property informs the contemporary surveillance of the racial body [...] questioning how the intimate relation between branding and the black body---our biometric past---can allow us to think critically about our biometric present” (S Browne 2015, 91)
+
+>"Through their detailing of physical descriptions, the surveillance technology of the runaway slave advertisement was put to use to make the already hypervisible racial subject legible [...] Sall’s ability to evade surveillance through makeup, wicked tricks, and hiding in plain sight exposes the one-drop rule as a social construction that, for some, could be subverted by performing whiteness. Seth’s, or sometimes Sall’s, hiding in plain sightby identifying as white and using an alias—was a freedom practice to evade surveillance, and in so being a form of dark sousveillance." (Browne 2015, 54)
+>"With Craft, her passing in terms of race, passing in terms of gender, passing in terms of class, and passing in terms of disability all played a role in her and William’s passing into freedom" (55).
+
+>"In the United States, racial nomenclature as a form of population management was made official with the taking of the first federal census in 1790, [...] by way of formalized categories that fix individuals within a certain time and a particular space, making the census a technology that renders a population legible in racializing as well as gendering ways." (Browne 55--56) (_combined 2 ideas could resplit_) "it was left to the census taker to judge whether the census informant’s claim to the category of whiteness was valid, rather than accepting at face value the informant’s self-identification as white." (56)
+
+>"commodity racism, that being to consume while at the same time alienating blackness.  Collecting and consuming blackness, and black people, whether kitsch or corporeal, forms part of the larger history continuing to the present of the ritualized practices and trauma of white supremacy, as the archive of lynching makes plain. After such extrajudicial killings and the ceremony that accompanied death, memorabilia would be taken, and oftentimes sold, as souvenirs" _blackness for sale, net.art not addressing race. browser names_

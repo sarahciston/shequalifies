@@ -46,7 +46,7 @@ _a running total calculated using a proprietary algorithm, from a range of weigh
 
 ### current mood...
 
-![easycheese](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FHQ-cheese.gif?v=1597842831179)
+![murderpretzels](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FNG-murder.gif?v=1597981587364) ![easycheese](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FHQ-cheese.gif?v=1597842831179)
 
 #### more details
 
