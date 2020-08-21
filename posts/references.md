@@ -94,6 +94,7 @@ last_modified_date: 2020-08-15 19:17
 1. Rosenberg, Daniel. 2013. “Data before the Fact.” Raw Data is an Oxymoron.
 1. Rotman, Brian. 2008. “Parallel Selves.” Becoming Beside Ourselves. 
 1. Schüll, Natasha Dow. 2016. “Data for Life: Wearable Technology and the Design of Self-Care.” BioSocieties.
+1. Stark, Luke, and Kate Crawford. 2015. "The Conservatism of Emoji: Work, Affect, and Communication." _Social Media and Society_.
 1. Wissinger, Elizabeth. 2017. “Wearable Technology and the Woman Question.” Digital Sociologies. eds. Jessie Daniels, et al. 
 
 #### multimedia

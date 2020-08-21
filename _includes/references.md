@@ -59,6 +59,7 @@
 *[Rosenberg]: Rosenberg, Daniel. 2013. “Data before the Fact.” Raw Data is an Oxymoron.
 *[Rotman]: Rotman, Brian. 2008. “Parallel Selves.” Becoming Beside Ourselves. 
 *[Schüll]: Schüll, Natasha Dow. 2016. “Data for Life: Wearable Technology and the Design of Self-Care.” BioSocieties.
+*[Stark]: Stark, Luke, and Kate Crawford. 2015. "The Conservatism of Emoji: Work, Affect, and Communication." _Social Media and Society_.
 *[Wissinger]: Wissinger, Elizabeth. 2017. “Wearable Technology and the Woman Question.” Digital Sociologies. eds. Jessie Daniels, et al. 
 <!-- field3 -->
 *[Ahmed]: Ahmed, Sara. 2006. Queer Phenomenology; —. 2017. Living a Feminist Life.
@@ -78,7 +79,7 @@
 *[Butler]: Butler, Judith. 1988. “Performative Acts and Gender Constitution.” Theatre Journal.
 *[Cho]: Cho, Alexander. 2015. “Queer Reverb.” Networked Affect. Hillis, Ken, et al, eds.
 *[Cooper]: Cooper, Brittney. 2016. “Intersectionality.” In The Oxford Handbook of Feminist Theory.
-*[Crawford]: Crawford, Kate, and Vladan Joler. 2018. “Anatomy of an AI System.” SHARE Lab, SHARE Foundation and AI Institute.
+*[Crawford]: Crawford, Kate, and Vladan Joler. 2018. “Anatomy of an AI System.” SHARE Lab, SHARE Foundation and AI Institute.; Stark, Luke, and Kate Crawford. 2015. "The Conservatism of Emoji: Work, Affect, and Communication." _Social Media and Society_.
 *[Chun]: Chun, Wendy Hui Kyong. 2016. _Updating to Remain the Same_.; 2009. “Race and/as Technology.” Camera Obscura 70. 24:1.; Apprich, Clemens, Wendy Hui Kyong Chun, Florian Cramer, & Hito Steyerl. 2018. Pattern Discrimination.
 *[Daniels]: Daniels, Jessie. 2009. “Rethinking Cyberfeminism(s): Race, Gender, and Embodiment.” Women’s Studies Quarterly.
 *[Gaboury]: Gaboury, Jacob. “Becoming NULL: Queer Relations in the Excluded Middle.” Women & Performance: A Journal of Feminist Theory.

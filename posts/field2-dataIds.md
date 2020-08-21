@@ -144,46 +144,20 @@ _self-protection, activist, repurposing trash, outside the logics of capital, de
 </div>
 
 
-## 2. dark susveillance, disregarded (or adapted) forms
+## 2. passing & flagging: dark susveillance & adaptable forms
 
-Resistance to data colonialism, or surveillance broadly, also has its historical antecedents in the resistance practices of enslaved people, argues Simone Browne. She finds oppositional energy for another way of being by looking to "black epistemologies of contending with antiblack surveillance, where the tools of social control in plantation surveillance or lantern laws in city spaces and beyond were appropriated, co-opted, repurposed, and challenged in order to facilitate survival and escape" (22). She details examples of enslaved and formerly enslaved people evading these systems by passing, disguise, alternate communication networks, literacy, and more; and she argues that this group of strategies, which she terms "dark sousveillance [...] also provides a way to frame how the contemporary surveillance of the racial body might be contended with" (24).
+Resistance to data colonialism, or surveillance broadly, also has its historical antecedents in the resistance practices of enslaved people, argues Simone Browne. She finds oppositional energy for another way of being by looking to "black epistemologies of contending with antiblack surveillance, where the tools of social control in plantation surveillance or lantern laws in city spaces and beyond were appropriated, co-opted, repurposed, and challenged in order to facilitate survival and escape" (22). She details examples of enslaved and formerly enslaved people evading these systems by passing, disguise, alternate communication networks, literacy, and more (55); and she argues that this group of strategies, which she terms "dark sousveillance [...] also provides a way to frame how the contemporary surveillance of the racial body might be contended with" (24).
 
+These strategies of resistence rely on a combination of obfuscation and adaptation, working with and against the grain of data colonialism, and must address a multi-pronged concerns. Lupton suggests that the contemporary worry of data-profilers acquiring 'too much' knowledge has overshadowed the equally dangerous problems of innacurate and missing information, or the socio-economic disadvantages of data invisibility (125). However, in one counter-example, Nabil Hassein (2017) argues against improving the bias of facial recognition technologies, as this technology is so frequently used for law enforcement, which has been shown to unfairly uphold white supremacist anti-Black oppression: "Why should we desire our faces to be legible for efficient automated processing by systems of their design?" ([Hassein, "Against Black Inclusion in Facial Recognition"](https://digitaltalkingdrum.com/2017/08/15/against-black-inclusion-in-facial-recognition/))
 
+From the earliest examples I could find, analog forms like the paper diary proved adaptable to different uses---"nondigital mediations allowed for narrative and numerate tracking of women’s lives" (Wernimont 2018, 142)---(granted these still required a certain status and knowledge, like literacy and access to paper and time to write, which would not have been available to people of all races or classes). Early white women's life writing was more daily and embodied, says Wernimont, "Where men followed meandering minds or put themselves in the mind of Christ, medieval and early modern English women's 'being in and becoming with' was situated in the social spaces of the home and materiality of bodies" (109). However, with the shift to contemporary technologies, the gendering has remained but the opportunities for appropriation and adaptation have foreclosed dramatically:  
 
-
-
-
-
-
-### obfuscation as strategy & passing vs flagging--hanky codes as data, flower codes, crypto, 
-
-Lupton suggests that the worry of dataveillance acquiring 'too much' knowledge obfuscates the problems of innacurate and missing information, or the socio-economic disadvantages of data invisibility (125). However, in one counter-example, Nabil Hassein (2017) argues against improving the bias of facial recognition technologies, as this technology is so frequently used for law enforcement, which has been shown to unfairly uphold white supremacist anti-Black oppression: "Why should we desire our faces to be legible for efficient automated processing by systems of their design?" ([Hassein, "Against Black Inclusion in Facial Recognition"](https://digitaltalkingdrum.com/2017/08/15/against-black-inclusion-in-facial-recognition/))
-
-
-### life writing
-
-Early women's life writing was more daily and embodied (109) "Where men followed meandering minds or put themselves in the mind of Christ, medieval and early modern English women's 'being in and becoming with' was situated in the social spaces of the home and materiality of bodies" (Wernimont 2018, 109). 
-
->"Where early modern life writing by women was able to take account of the domestic and embodied labors of women, the automation and algorithmic black boxing of twenty-first-century devices limits what is counted, and thereby limits the kinds of lives that can emerge as mediated by these technologies." (Wernimont 2018, 142)
-"nondigital mediations allowed for narrative and numerate tracking of women’s lives" (Wernimont 2018, 142).
-
->"Where data gathering and analysis is part of everyday practice, when lodged in the memories and bodies of women, it has been called caring for others. But the self-care processes that wearable devices can track, manage, and analyze have been coded as part of a masculine pursuit of self-knowledge and self-control. [...] But this body of knowledge looks s ciously like early Enlightenment paradigms that privileged white, male, bourgeois life as the only life worth knowing. [...] we are not simply talking about large-scale data storage and analysis creating different ways of knowing but also different ways of being." (Wernimont 2018, 143)
-
-### open/closed forms, appropriating for own use
->"One of the ways in which the gendering of activity tracking has changed with the shift to mechanical and then digital pedometers is in the relative inaccessibility of the media for women’s appropriation. The interface of the manuscript page or book is relatively free from constraint; even in the tabular books and almanacs of the period, we see writers using forms designed to capture numbers in order to record a wide array of information. In contrast, tracking watches, bracelets, and necklaces along with their apps close off the data collection in ways that block women and gender-nonconforming or nonbinary people from hacking the media to create nonmasculine experiences and/or stories. The informational interfaces of digital media change, and the different media ecosystems today are mutually constitutive of one another, both working to create certain possibilities for lived experience and foreclosing others." (Wernimont 2018, 141)
-
-### care of the self(?) other
-
-
-
- 
+>One of the ways in which the gendering of activity tracking has changed with the shift to mechanical and then digital pedometers is in the relative inaccessibility of the media for women’s appropriation. The interface of the manuscript page or book is relatively free from constraint; even in the tabular books and almanacs of the period, we see writers using forms designed to capture numbers in order to record a wide array of information. In contrast, tracking watches, bracelets, and necklaces along with their apps close off the data collection in ways that block women and gender-nonconforming or nonbinary people from hacking the media to create nonmasculine experiences and/or stories. The informational interfaces of digital media change, and the different media ecosystems today are mutually constitutive of one another, both working to create certain possibilities for lived experience and foreclosing others. (Wernimont 2018, 141)
 
 <div class="artist">
 
 ### artist's intervention: Sonya Rapoport (pt 2)
 
-**use for example of diff kinds of data collection**
-  
 ![rapoport-biorhythm1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRapoport-Biorhythm_May_1980.jpg?v=1598005438251)
 ![rapoport-biorhythm2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRapoport-BiorhythmPostulatePerformance.jpg?v=1598005436045)
 _Biorhythm: Postulate and Performance_ (detail) (1981)
@@ -201,30 +175,21 @@ _Bonito Rapoport Shoes_ (1978) [Sonya Rapoport Legacy Trust](http://www.sonyarap
   
 [view Rapoport's additional computer printout works](http://www.sonyarapoport.org/project-type/early-computer-paper/){:target="_blank"}
 
-_forms of dailiness, open practice on paper, using the materials of computation (dot matrix paper), combining and comparing with computation (bio-tracking calculator), her own aesthetic emerges in collage form, using quantitative techniques for emotion/behavior/'soft'/qualitative data_
+_forms of dailiness, open form using paper for data collection, using the materials of computation (dot matrix paper), combining and comparing with computation (bio-tracking calculator), her own aesthetic emerges in collage form, using quantitative techniques for emotion/behavior/'soft'/qualitative data_
   
 </div>
 
+I'll offer two more examples of overshadowed forms that could offer insights into different ways of thinking with data. Lately overtaken with apps like Grindr and Tinder, since the early 1970s some queer and kink communities have used the simple printed hankerchief in different colors and patterns, placed in a pocket, to indicate sexual preference, availability, and compatability. I would consider this not only an extremely adaptive form but also a kind of self-identifying data practice. Economical, unlimited to the number of colors of fabric one can shove in a back pocket or tie to an arm, leg, etc., the options are virtually endless to signal interest and compatability---or at least, if not legible to the viewer, act as a conversation starter.[^Lex]
 
+[^]: It's worth noting a newly popular lesbian, non-binary, and queer dating app [Lex](https://thisislex.app/) takes its inspiration from the abbreviation-riddled text-only ads from the Village Voice era, so perhaps hybrid forms are catching on.
 
-**flagging**
+Not dissimilarly, emoji today may do poorly to convey literal meaning in the same way a non-pictographic sentence would, but conversants often develop a common lexicon amongst themselves that bear no resemblance or even run counter to the standard definitions established by Unicode and that may update on the fly as the needs of the user change over time or per conversation: "the utility of an emoji lies in the indeterminacy of its pictographic versus iconographic legibility as a signifier of affect, emotion, or sociality" (Stark and Crawford 2015, 5). And yet, this exuberance again gets reabsorbed as affective labor by the capitalist enterprise, as "just another means to lure consumers to a platform, to extract data from them more efficiently, and to express a normative, consumerist, and predominantly cheery world-view" (8). Apple will learn which weird emoji I plan to use next, and Facebook (with its choice of just a handful of animated emoji) will use my selection to categorize my response to a post as a 'feeling' and sift my timeline (and the timelines of others) all without my noticing.
 
-**emoji**
+The key is having a flexible format (what Barthes would call a writerly text). The original platform, tool, medium, or language must be open enough to interpretation to be able to be appropriated. Hankerchiefs? Sure. Smiley faces? Yes, with some latent race issues circulating around the weird yellow skin color, okay. Sometimes a peach is not just a peach but a cute butt. But an app reminding you that you haven't gone running as far as your friends, while showing you an ad for Cheetos? That's just mean, with not much room for reappropriation. 
 
-The key is having an open, writerly format: The original platform, tool, medium, or language must be open enough to interpretation to be able to be appropriated. Hankerchiefs? Sure. Smiley faces? Yes, with some latent race issues circulating around the weird yellow skin color, okay. Sometimes a peach is not just a peach but a cute butt. But an app reminding you that you haven't gone running as far as your friends, while showing you an ad for Cheetos? That's just mean, with not much room for reappropriation. 
+>"Where data gathering and analysis is part of everyday practice, when lodged in the memories and bodies of women, it has been called caring for others. But the self-care processes that wearable devices can track, manage, and analyze have been coded as part of a masculine pursuit of self-knowledge and self-control. [...] But this body of knowledge looks suspiciously like early Enlightenment paradigms that privileged white, male, bourgeois life as the only life worth knowing. [...] we are not simply talking about large-scale data storage and analysis creating different ways of knowing but also different ways of being." (Wernimont 2018, 143)
 
-
-
-
-Lupton (2020) calls for an 'ethics of care' that can reconceptualize "personal data by re-humanizing them" (123), in part to "think about digital data as forms of matter" (123)---even as "a new form of human remains" just like bones (125). To take an ethical stance with data assemblages, she argues, means not assuming data can 'speak for' anyone and requires asking "whose interests are served or neglected when agential cuts are made in response to digital datasets?" (124). 
-
-**see also my data decomp problem**
-
-
-
-
-
-
+Lupton (2020) instead calls for an 'ethics of care' that can reconceptualize "personal data by re-humanizing them" (123), in part to "think about digital data as forms of matter" (123)---even as "a new form of human remains" just like bones (125). What would it mean to consider our data traces to be 'ours' as much as we consider other human remains? In part, to take an ethical stance with data assemblages, she argues, means not assuming data can 'speak for' anyone and requires asking "whose interests are served or neglected when agential cuts are made in response to digital datasets?" (124). 
 
 <div class="artist">
 
@@ -279,10 +244,10 @@ Further, she points out that a technophenomenological viewpoint allows, or requi
 
 >From this critical cybernetic perspective, the human is seen as having always been technological, or having always been mediated. To put it differently, technology and media are precisely what makes us human. [...] this position allows for a better understanding of what we have posited in this book as the relationality of the world—--of which we are part. [...] All this is not to say that in the universe of complex relations between human and nonhuman beings “anything goes” and that all connections are equally good. But seeing ourselves as always already connected, as being part of the system—--rather than as masters of the universe to which all beings are inferior—--is an important step in developing a more critical and a more responsible relationship to the world, to what we call 'man,' 'nature,' and 'technology'. It is also a promise of the emergence of some more productive media relations and media environments. (194)
 
-They call this always-already mediated state "originary technicity" and connect it to our dependence on each other as an ethical imperative: "Originary technicity can thus be understood as a condition of openness to what is not part of the human, of having to depend on alterity [...] to fully constitute and actualize one’s being. But this imperative to get outside of oneself and to be technical, that is, to bring things forth, to create, is perhaps also an ethical injunction to create well" (17--18). For Jones, it is paradoxically through deep engagement with "knowing thyself" that a technophenomenological data body artist might access this alterity. She says, "it is the very narcissism of the performance of the self that inexorably engages the self in the other: our self-conception, our self-performance can only take place through our phenomenological assumption of subjectivity (or moments of subjective engagement) via others in the world" (238). Of course, she also points out that this self for more recent artists is much more unmoored, "technologized, specifically unnatural, and fundamentally unfixable in identity or subjective/objective meaning in the world: [...] This "posthuman" body/self is thoroughly particularized, its gender, sexuality, sexual orientation, race, ethnicity, class, and other identifications insistently enunciated within the intersubjective structures established by the body-oriented practice" (199).
+They call this always-already mediated state "originary technicity" and connect it to our dependence on each other as an ethical imperative: "Originary technicity can thus be understood as a condition of openness to what is not part of the human, of having to depend on alterity [...] to fully constitute and actualize one’s being. But this imperative to get outside of oneself and to be technical, that is, to bring things forth, to create, is perhaps also an ethical injunction to create well" (17--18). For Jones, it is paradoxically through deep engagement with "knowing thyself" that a technophenomenological data body artist might access this alterity. She says, "it is the very narcissism of the performance of the self that inexorably engages the self in the other: our self-conception, our self-performance can only take place through our phenomenological assumption of subjectivity (or moments of subjective engagement) via others in the world" (238). Of course, she also points out that this self for more recent artists is much more unmoored, "technologized, specifically unnatural, and fundamentally unfixable in identity or subjective/objective meaning in the world: [...] This 'posthuman' body/self is thoroughly particularized, its gender, sexuality, sexual orientation, race, ethnicity, class, and other identifications insistently enunciated within the intersubjective structures established by the body-oriented practice" (199).
 
 
-
+### 4. This technophenomenological body/self
 
 <div class="artist">
 
