@@ -20,5 +20,7 @@ big data is an undersea hypnosis, breathless, a void, no e, phone in dark mode.
 
 jellyfish as metaphor? jellyfish as regenerative (stinging) multiorganistic system
 
+donna haraway's "tentacular thinking" for "dense entanglement" and the "circular and generative relationship between life death and decay" (Lupton 2020, 26)
+
 [no brain](https://www.pbs.org/wnet/nature/blog/no-brain-for-jellyfish-no-problem/)
 
