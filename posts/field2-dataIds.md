@@ -144,17 +144,17 @@ _self-protection, activist, repurposing trash, outside the logics of capital, de
 </div>
 
 
-## 2. dark susveillance, alternate media, less valued systems already in progress
+## 2. dark susveillance, disregarded forms
 
-Resistance to data colonialism, or surveillance broadly, also has its historical antecedents in the resistance practices of enslaved people, argues Simone Browne. She groups the labels **...**
+Resistance to data colonialism, or surveillance broadly, also has its historical antecedents in the resistance practices of enslaved people, argues Simone Browne. She finds oppositional energy for another way of being by looking to "black epistemologies of contending with antiblack surveillance, where the tools of social control in plantation surveillance or lantern laws in city spaces and beyond were appropriated, co-opted, repurposed, and challenged in order to facilitate survival and escape" (22). She details examples of enslaved and formerly enslaved people evading these systems by passing, disguise, alternate communication networks, literacy, and more; and she argues that this group of strategies, which she terms "dark sousveillance [...] also provides a way to frame how the contemporary surveillance of the racial body might be contended with" (24).
+
+
+
 
 **non mediated/nonwhateverable forms, womens forms and dark susveillance**
 
 Lupton suggests that the worry of dataveillance acquiring 'too much' knowledge obfuscates the problems of innacurate and missing information, or the socio-economic disadvantages of data invisibility (125). However, in one counter-example, Nabil Hassein (2017) argues against improving the bias of facial recognition technologies, as this technology is so frequently used for law enforcement, which has been shown to unfairly uphold white supremacist anti-Black oppression: "Why should we desire our faces to be legible for efficient automated processing by systems of their design?" ([Hassein, "Against Black Inclusion in Facial Recognition"](https://digitaltalkingdrum.com/2017/08/15/against-black-inclusion-in-facial-recognition/))
 
-
-def souveillance, as critique as praxis, historical and contemporary 
->“Dark sousveillance, then, plots imaginaries that are oppositional and that are hopeful for another way of being. Dark sousveillance is a site of critique, as it speaks to black epistemologies of contending with antiblack surveillance, where the tools of social control in plantation surveillance or lantern laws in city spaces and beyond were appropriated, co-opted, repurposed, and challenged in order to facilitate survival and escape. [...] Dark sousveillance is also a reading praxis for examining surveillance that allows for a questioning of how certain surveillance technologies installed during slavery to monitor and track blackness as property (for example, branding, the one-drop rule, quantitative plantation records that listed enslaved people alongside livestock and crops, slave passes, slave patrols, and runaway notices) anticipate the contemporary surveillance of racialized subjects, and it also provides a way to frame how the contemporary surveillance of the racial body might be contended with” (S Browne 2015, 22–24)
 
 
 Early women's life writing was more daily and embodied (109) "Where men followed meandering minds or put themselves in the mind of Christ, medieval and early modern English women's 'being in and becoming with' was situated in the social spaces of the home and materiality of bodies" (Wernimont 2018, 109). 
@@ -172,14 +172,25 @@ open/closed forms, appropriating for own use
 ### artist's intervention: Sonya Rapoport (pt 2)
 
 **use for example of diff kinds of data collection**
+  
+![rapoport-biorhythm1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRapoport-Biorhythm_May_1980.jpg?v=1598005438251)
+![rapoport-biorhythm2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRapoport-BiorhythmPostulatePerformance.jpg?v=1598005436045)
+_Biorhythm: Postulate and Performance_ (detail) (1981)
 
-[![Rapoport-shoes](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Bonito-shoes.jpg?v=1597961497487)](http://www.sonyarapoport.org/portfolio/domestic-analysis/){:target="_blank"}
-[Bonito Rapoport Shoes, 1978, pencil, colored pencil, colored type, computer print and solvent transfer on continuous-feed computer print, 37 pages in 4 folios, 11 x 14.875” each.](http://www.sonyarapoport.org/portfolio/domestic-analysis/){:target="_blank"}
+"Using a commercial kit to predict her daily biorhythms, Rapoport recorded her physical, sensitivity, and cognitive cycles throughout the year 1980. Making use of an oversize calendar, she created each day a small collage with the ephemera of her everyday life and paper records of her art practice – a fascinating autobiographical portrait. Rapoport created an artist book on computer printout paper in which plotter-printed graphs of her biorhythm data is compared to the computer’s predictions, which appear as sinusoidal curves in colored typewriter." [Sonya Rapoport Legacy Trust](http://www.sonyarapoport.org/portfolio/biorhythm/){:target="_blank"}
+  
+"I didn't realize it then but starting on this project was consistent with the way I start most of my projects, a striving to understand myself. And one way was to learn about my behavior patterns. [...] I was determined that my work would be an expression of my cultural environment. A woman [...] using technological tools that expressed our time."
 
-[computer printout drawings](http://www.sonyarapoport.org/project-type/early-computer-paper/)
-[Biorhythm](http://www.sonyarapoport.org/portfolio/biorhythm/)
+[![rapoport-shoes](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Bonito-shoes.jpg?v=1597961497487)](http://www.sonyarapoport.org/portfolio/domestic-analysis/){:target="_blank"}
+_Bonito Rapoport Shoes_ (1978) [Sonya Rapoport Legacy Trust](http://www.sonyarapoport.org/portfolio/domestic-analysis/){:target="_blank"}
+  
+"I start with soft material. Soft material deals with behavior patterns, something that's not categorized. And I analyze this soft material into a hard material," says Rapoport in the exhibition video. "Now, by hard, I mean that they're categorized, they're numbered, all devices used to put them into a computer program." 
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J3iMUX7sJQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+[view Rapoport's additional computer printout works](http://www.sonyarapoport.org/project-type/early-computer-paper/){:target="_blank"}
 
-_forms of dailiness, open practice on paper, using the materials of computation (dot matrix paper), combining with computation (bio-tracking calculator) and comparing, own aesthetic emerges in collage form_
+_forms of dailiness, open practice on paper, using the materials of computation (dot matrix paper), combining and comparing with computation (bio-tracking calculator), her own aesthetic emerges in collage form, using quantitative techniques for emotion/behavior/'soft'/qualitative data_
   
 </div>
 
@@ -199,8 +210,11 @@ _activist, ethics of care, intersectional, new cyberfeminist aesthetics, anti-ra
 
 </div>
 
+Creating and making existing forms one's own are essential because externally programmed devices and their data constrain outputs, says Wernimont (2018) meaning results can "only point in one direction: success or failure in a [particular] paradigm [...] in ways that entirely missed political, environmental, and ethical contexts [...] for activity in favor of ones more supportive of the normalized behavior of affluent American citizens" (158). For example, the current commercially available Fitbit-style "activity monitors can only understand physical activity within a paradigm where the wearer is safe, not responsible for the care of others, and using activity for exercise, not survival" (158). Wernimont theorizes, like Ross and Githere have begun to enact, the need for a broader range of stories and storytellers, types of data and data structures, systems and support systems. "What kinds of stories cannot be told [...] because individuals do not have access to such media, the time to engage it fully, and/or do not have the security to reveal the details of their everyday experience without increasing their risk of domestic or state violence?" says Wernimont. "Can we imagine other possibilities?" (159).
 
-## 3. why artistic, hybrid, other possibilities
+## 3. art or otherwise: technophenomenological 
+
+>Artists who appropriate dataveillance techniques and tools as a medium for creative production inform, enlighten, and help us to imagine otherwise by refusing the fantasy of exodus, a withdrawal from a given political, economic, or cultural system predicated on the notion that there is a neutral external vantage point from which one can begin the work of critical assessment. In a very general sense we might term such work immanent critique: art-activism operating within a given structure and inhabiting a particular perspectival frame. (Rita Raley 2013, 135)
 
 <div class="artist">
   
@@ -228,6 +242,7 @@ TECHNOPHENOMENOLOGICAL
 
 expands technophenomenological, body practices help ground our interrelationality
 >"[This kind of work] ultimately points to an expansion of the phenomenological relation to a technophenomenological relation that intertwines intersubjectivity with interobjectivity: we are enworlded via the envelopment of our bodies in space, the touch of our hands on a keyboard, the stroke of our gaze on the video screen. Seemingly paradoxically, given the conventional association of technology with disembodiment and disengagement from the world, recent body-oriented practices have increasingly mobilized and highlighted this reversibility, using the artists' own body/self as both subject and object, as multiplicitous, particular, and unfixable, and engaging with audiences in increasingly interactive ways. [...] Rather than projecting immanence onto the other, such a practice embraces the flesh (but specifically as enworlded and intersubjectively determined rather than somehow "essential" or in itself transcendent). ” (Jones 1998, 239)
+
 **also makes it political**
 >"Such an acknowledgment forces us to experience ourselves as not only in the  world, but as also belonging to it and thus owing it something: as fully contingent bodies/selves who are responsible for the effects our behaviors and perceptions have on others and aware of our reactions to other subjects and objects in the world. This technophenomenological understanding of the body/ self poses it as deeply socialized and politicized” (Jones 1998, 239–240).
 
@@ -240,22 +255,13 @@ self performance engages self with other, why artist performance w tech matters
 unfixed self in later body art entangled with tech
 >“While the earlier artists had focused obsessively (if, in the case of the male artists, often unconsciously or uncritically) on the body's role in self-other relations through structures of narcissism and the rhetoric of the pose, these younger artists tend to explore the body/ self as technologized, specifically unnatural,and fundamentally unfixable in identity or subjective/ objective meaning in the world: [...] This "posthuman" body/self is thoroughly particularized, its gender, sexuality, sexual orientation, race, ethnicity, class, and other identifications insistently enunciated within the intersubjective structures established by the body-oriented practice” (Jones 1998, 199).
 
-
 What Jones calls “body art” are “a set of performative practices that, through such intersubjective engagement, instantiate the dislocation or decentering of the Cartesian subject of modernism.” 
 However, not a body that is set off from an original "authentic body"
->“No ‘original’ body is assumed at any point of such a project, no body to be ‘freed’ from opp essive representations (as would have been the case in much early feminist body art and theories of representation)” (Jones 1998, 200) 
->“body art projects can develop a new (implicitly feminist) reading praxis that is suspicious of the assumptions and privileges embedded in and veiled by conventional, masculinist models of artistic interpretation” (Jones 1998, 15) _and cultural ...being?_
+>“No 'original' body is assumed at any point of such a project, no body to be ‘freed’ from opp essive representations (as would have been the case in much early feminist body art and theories of representation)” (Jones 1998, 200) 
+>"body art projects can develop a new (implicitly feminist) reading praxis that is suspicious of the assumptions and privileges embedded in and veiled by conventional, masculinist models of artistic interpretation" (Jones 1998, 15) _and cultural ...being?_
 
 her claim is speculative, hopeful
 >“this claim is rather utopian; the effects of these works will of course depend on how they are contextualized and who experiences and engages with them” (Jones 1998, 203).
-
-
-
-#### Raley
-artists use dataveillance for why
->"Artists who appropriate dataveillance techniques and tools as a medium for creative production inform, enlighten, and help us to imagine otherwise by refusing the fantasy of exodus, a withdrawal from a given political, economic, or cultural system predicated on the notion that there is a neutral external vantage point from which one can begin the work of critical assessment. In a very general sense we might term such work immanent critique: art-activism operating within a given structure and inhabiting a particular perspectival frame" (Raley 2013, 135)
-
-
 
 <div class="artist">
 
@@ -294,41 +300,10 @@ Lupton also cites an example of an artistic intervention that connects some of t
 >The _Algorithmic History Museum_ was a pop-up exhibition [...] to present fictionalized algorithmic 'solutions' to historical 'problems' [.... For example,] for slaves to wear bracelets that track their exercise" in order to 'solve' the scenario of enslaved people captured by Dutch traders dying "en route to the Netherlands due to the appaulling living conditions on the vessels in which they were imprisoned. [...] The contemporary analogy is that of third parties exploiting for profit the data generated by people wearing digital devices [...] and questions the privacy of these data and coercion to wear them (e.g. by employers or health insurance companies). (72) 
 
 
->"data selves are more-than-human because they are always more-than-individual and more-than-human" (Lupton 2020, 121). "Living with data is a mode of being, making and becoming. These data are not inscribed on bodies: they work with and through bodies" (122). 
+>"data selves are more-than-human because they are always more-than-individual and more-than-human" (Lupton 2020, 121). "Living with data is a mode of being, making and becoming. These data are not inscribed on bodies: they work with and through bodies" (Lupton 2020, 122). 
 
-#### Kember & Zylinska
+Sarah Kember and Joanna Zylinska focus on mediation as the primary way of "being-in and emerging-with the world" (23) and with media objects as but temporary stabilizations of that flow (21), which allows for a more ethical relationship with technology and with each other: 
+>From this critical cybernetic perspective, the human is seen as having always been technological, or having always been mediated. To put it differently, technology and media are precisely what makes us human. [...] this position allows for a better understanding of what we have posited in this book as the relationality of the world—--of which we are part. [...] All this is not to say that in the universe of complex relations between human and nonhuman beings “anything goes” and that all connections are equally good. But seeing ourselves as always already connected, as being part of the system—--rather than as masters of the universe to which all beings are inferior—--is an important step in developing a more critical and a more responsible relationship to the world, to what we call 'man,' 'nature,' and 'technology'. It is also a promise of the emergence of some more productive media relations and media environments. (194)
 
-"our originary technicity, our way of being-with and emerging-with technology" (Kember and Zylinska , 14)
-
-"this originary technicity is also an ethical condition." (17)
-
-"Originary technicity can thus be understood as a condition of openness to what is not part of the human, of having to depend on alterity—be it in the form of gods, other humans, fire, or utensils—to fully constitute and actualize one’s being. But this imperative to get outside of oneself and to be technical, that is, to bring things forth, to create, is perhaps also an ethical injunction to create well, even if not a condition of ethical behavior." (17--18)
-
-"mediation is the originary process of media emergence, with media being seen as (ongoing) stabilizations of the media flow" (21).
-
->"mediation can be seen as another term for “life,” for being-in and emerging-with the world. This thesis arises out of a body of work rooted in cybernetics and systems theory, whereby the media are understood primarily in terms of an ecology and a dynamic system of relations rather than as a series of discrete objects. Yet we also have reservations for some overenthusiastic applications of systemic thinking to the question of mediation. This is why a notion of “the cut”—as both a conceptual and material intervention into the “media flow” that has a cultural significance—is important for us in understanding what it means to be mediated, and in taking responsibility for this process, from within the process itself." (23)
-
->“From this critical cybernetic perspective, the human is seen as having always been technological, or having always been mediated. To put it differently, technology and media are precisely what makes us human. [...] this position allows for a better understanding of what we have posited in this book as the relationality of the world—of which we are part. [...] If we do accept that we have indeed always been cyborgs, that we have always been mediated, it will be easier for us to let go of paranoid narratives [...] that see technology as an external other that threatens the human [...]. All this is not to say that in the universe of complex relations between human and nonhuman beings “anything goes” and that all connections are equally good. But seeing ourselves as always already connected, as being part of the system—rather than as masters of the universe to which all beings are inferior—is an important step in developing a more critical and a more responsible relationship to the world, to what we call “man,” “nature,” and “technology.” It is also a promise of the emergence of some more productive media relations and media environments.” (Kember and Zylinska 2012, 194)
-
-Finn: _methodological tools: process, abstraction, implementation, imagination_
-
-
-## Haven't used yet
-
-#### Wernimont
-
-These externally programmed constraints mean the devices and their data outputs can "only point in one direction: success or failure in a health paradigm [...] in ways that entirely missed political, environmental, and ethical contexts [...] for activity in favor of ones more supportive of the normalized behavior of affluent American citizens" (Wernimont 2018, 158):
-
->"**activity monitors can only understand physical activity within a paradigm where the wearer is safe, not responsible for the care of others, and using activity for exercise, not survival" (Wernimont 2018, 158).**
-
->"the “we” of device wearers are not really building the “we” imagined" (Wernimont 2018, 158)
-
->"Such mediations thus violently rewrite [...] experiences" (Wernimont 2018, 159)
-
->"What kinds of stories cannot be told with either a commercial report or even [an] artistic mapping because individuals do not have access to such media, the time to engage it fully, and/or do not have the security to reveal the details of their everyday experience without increasing their risk of domestic or state violence? Do we really want a suite of quantifying tools built largely by a long progression of white Christian men to be the dominant media for understanding and living human life? Can we imagine other possibilities?" (Wernimont 2018, 159)
-
->"That users might need to take back data about their embodied experience testifies to the degree to which the informational flow has changed, thus positioning the data creator as reader versus author/artist" (Wernimont 2018, 141)
-
-tie to identity
->"We are not currently ourselves, they claim, but wearable tracking devices, apps, and other so-called lifestyle integrations can help us map a way to find ourselves—out there, in the data. Such claims assert that processes of abstraction and surveillance enable self-understanding and fulfillment. The good life, they maintain, can be had with the help of a wrist bracelet or clip used to carefully monitor behaviors and behavioral change. Such logic may not be especially unusual. Meditation is a practice based on self-observation as well. But the fact that meaning making is outsourced to corporations suggests a commercialized panopticon embedded in and around bodies and everyday digital practices." (Wernimont 2018, 96)
+They call this always-already mediated state "originary technicity" and connect it to our dependence on each other as an ethical imperative: "Originary technicity can thus be understood as a condition of openness to what is not part of the human, of having to depend on alterity [...] to fully constitute and actualize one’s being. But this imperative to get outside of oneself and to be technical, that is, to bring things forth, to create, is perhaps also an ethical injunction to create well" (17--18).
 
