@@ -35,34 +35,41 @@ Watch the livestream and refresh this page to read along.
 word count: {{ wordcount }}
 {: .fs-3 }
 
-## 0. introduction
+## 0. introduction: know thyself? take care of yourself
 
-**WHAT GOES HERE?**
+>"Know thyself has long been cover for self-regulation and wealth generation in the service of the nation-state and other institutional entities. [...] Knowing thyself looks an awful lot like corporate efforts to know and shape the consumer body" (Jacqueline Wernimont 2018, 155, 155).
+{: .fs-3 }
 
-qualities these works share: open, adaptable in format; user designed; embodied not imposed upon a body; reappropriate; hyperboly or activism;
+>"In Greek and Roman texts, the injunction of having to know yourself was always associated with the other principle of having to take care of yourself. [...] "There has been an inversion between the hierarchy of the two principles of antiquity, 'Take care of yourself' and 'Know thyself.' In Greco-Roman culture knowledge of oneself appeared as the consequence of taking care of yourself. In the modern world, knowledge of oneself constitutes the fundamental principle." (Michel Foucault 1988, 20, 22)
+{: .fs-3 }    
+    
+    "I received an email telling me it was over. 
+    I didn’t know how to respond 
+    It was almost as if it hadn’t been meant for me. 
+    It ended with the words, Take care of yourself.
+    I followed this advice to the letter
+    I asked 107 women (as well as two handpuppets and a parrot), chosen for their profession or skills, to interpret the letter.
+    To analyse it, comment on it, dance it, sing it. Dissect it. Exhaust it.
+    Understand it for me. Answer for me.
+    It was a way of taking the time to break up
+    A way to take care of myself." (Sophie Calle 2007)
+    
+    #datacollection
+
+The data body, a term first popularized by Critical Art Ensemble (1998), which called it the 'fascist sibling' of the virtual body (145), is now marketed to serve as an anticipatory recommendation engine who knows you better than you do, "a form of algorithmic proprioception, an expansion of the self, enabled by physical and cognitive sensors and feedback loops” (Finn 2017, 77). The convenience of this (proposed) service is how all manner of intimacy breeches and unethical oversteps inch into users' lives, as frogs immersed in a soup of their own data. This is not a warm bath of self-care, measured in meditation minutes, but an uncontrollable roiling boil.
+
+How do I know if I've lost feeling in my data body, and what even is data anyway? There's too much of it to bother knowing what it is, but Miriam Posner and Lauren Klein (2017) build on definitions by Christine Borgman and Daniel Rosenberg to argue that, in addition to being "contingent and time-based" as well as "_specifically_ rhetorical," they add "categorization and computability" (1). Importantly, Posner and Klein call data as much an orientation to source material as a kind of knowlege (2). What's interesting about this is the whole point of data now is to sound not-contingent but fixed, not-rhetorical but indesputable---oozing with Truthiness. And this orientation to knowledge joins us from, yes, probably as early as the Enlightenment--because science! You probably know the rest.
+
+**Along the way we'll cover why your iPhone isn't as sassy as it ought to be or as useful in the trenches of war, whether a 1983 computer is better at your feelings than you are, the importance of critical biometric consciousness, why donating your data is better than having it extracted, how to heal from data trauma, and the subversive qualities that can help us escape data colonialism---namely: embodiment, adaptability, open-access, ...**
+**qualities these works share: open, adaptable in format; user designed; embodied not imposed upon a body; reappropriate; hyperboly or activism;
 old to new: increasingly producing closed systems that impose the tools or platforms that mediate, although users/artists still misuse, borrow, steal; new tech more subtly makes use of what's already on the body, violence more insidious (for some, at least)
-
->"With the virtual body came its fascist sibling, the data body—a much more highly developed virtual form, and one that exists in complete service to the corporate and police state. The data body is the total collection of files connected to an individual" (Critical Art Ensemble 1998, 145). 
-
-What even is data? Miriam Posner and Lauren Klein (2017) build on definitions by Christine Borgman and Daniel Rosenberg to argue that, in addition to being "contingent and time-based" as well as "_specifically_ rhetorical," they add "categorization and computability" (1). Importantly, Posner and Klein call data as much an orientation to source material as a kind of knowlege (2). 
-
-Know thyself, foucault
->"know thyself has long been cover for self-regulation and wealth generation in the service of the nation-state and other institutional entities" (151) "Knowing thyself looks an awful lot like corporate efforts to know and shape the consumer body" (155).
-
->"In Greek and Roman texts, the injunction of having to know yourself was always associated with the other principle of having to take care of yourself" (20) ... "There has been an inversion between the hierarchy of the two principles of antiquity, "Take care of yourself" and "Know thyself." In Greco-Roman culture knowledge of oneself appeared as the consequence of taking care of yourself. In the modern world, knowledge of oneself constitutes the fundamental principle." (Foucault , 22)
-
->“This is [marketed as] a form of algorithmic proprioception, an expansion of the self, enabled by physical and cognitive sensors and feedback loops” (Finn 2017, 77).
-
-
-
+**
 
 ## 1. history was awful and the present isn't looking pretty
 
-**just start here?**
-
 ![marey-sphygmograph](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FEtienne-jules-marey2.jpg?v=1597976587166)
 
-Étienne-Jules Marey is a prominent figure in the story of the long histories of violence emerging from the colonialist impulses toward classification, datification, taxonomy, encyclopedic knowledge, and ownership. In 1859, he invented the sphygmograph, a direct indexical measure of the rhythms of bloodflow---from wrist to stylus to carbon (Osman 2019, 13). His sphygmograph sounds like something to be cleaned up later and appears like a clackering stigmata against the vulnerable pulse point inside the wrist. Meanwhile his other chronolocomotive tools built to capture motion otherwise imperceptible to the eye resemble guns and and 19th-century FitBit torture device. 
+Étienne-Jules Marey is a prominent figure in the story of the long histories of violence emerging from the colonialist impulses toward classification, datification, taxonomy, encyclopedic knowledge, and ownership. In 1859, he invented the sphygmograph, a direct indexical measure of the rhythms of bloodflow---from wrist to stylus to carbon (Osman 2019, 13). His sphygmograph sounds like something to be cleaned up later and appears like a clackering stigmata against the vulnerable pulse point inside the wrist. Meanwhile his other chronolocomotive tools built to capture motion otherwise imperceptible to the eye resemble guns and a 19th-century FitBit torture device. 
 
 ![marey-chromogun](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FEtienne-jules-marey3.jpg?v=1597977680381){: width="390px" } ![marey-ped](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FEtienne-jules-marey.png?v=1597976257718){: width="390px" }
 
@@ -194,7 +201,6 @@ _activist, ethics of care, intersectional, new cyberfeminist aesthetics, anti-ra
 
 
 ## 3. why artistic, hybrid, other possibilities
-
 
 <div class="artist">
   
