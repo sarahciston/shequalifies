@@ -68,3 +68,4 @@ _a running total calculated using a proprietary algorithm, from a range of weigh
     - {{test.date | date_to_string }}: on computer {{ test.total_duration_formatted }}
     {%- endfor -%}
 
+**For the qualifying exam portfolio maybe I will make a page charting all the collected data, too bad the dialogue wont likely be auto captioned from these videos, won't capture all the icky feeling from producing these documents, the cumulative sleep, the total words divided by, weight lost/gained, etc.**

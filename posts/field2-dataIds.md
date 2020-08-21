@@ -2,7 +2,7 @@
 title: immersive data identities
 nav_order: 5
 has_children: true
-last_modified_date: 2020-07-30 10:40
+last_modified_date: 2020-08-21 07:07
 ---
 
 {% include glossary.md %}
@@ -91,7 +91,7 @@ Browne calls for "a critical biometric consciousness" that connects contemporary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fdl8xCdcYBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In Sonya Rapoport's 1983 work, "The Computer Says I Feel," one of the installation participants describes, "I feel much better... good... great!" And then a stern, authoritative voice declares instead, "The computer says 'CAUTION'." The cover of the 'hand' book for the installation reads, with one piece of the phrase per finger, "In this mechanized age, computer overrides all opinions." More samples available as [audio only](https://archive.org/details/cubanc_000340).
+In Sonya Rapoport's 1983 work, "The Computer Says I Feel," one of the installation participants describes, "I feel much better... good... great!" And then a stern, authoritative voice declares instead, "The computer says 'CAUTION'." The cover of the 'hand' book for the installation reads, with one piece of the phrase per finger, "In this mechanized age, computer overrides all opinions." More samples available as [audio only](https://archive.org/details/cubanc_000340){:target="_blank"}.
 
 ![biorhythm-exhibition1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Biorhythm-page%2012.jpg?v=1597963523267) ![biorhythm-exhibiton2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Biorhythm-page%2013.jpg?v=1597963522353)
 [Primary source materials courtesy Sonya Rapoport Legacy Trust and the San Jose Museum of Art](http://www.sonyarapoport.org/){:target="_blank"}
@@ -115,7 +115,7 @@ These traces of violence are latent in the objects in our pockets. According to 
 ![liat-zoom2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FLiat-Zoom2.jpg?v=1597878236198)
 ![liat-zoom1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FLiat-Zoom1.jpg?v=1597878236094) 
 
-Liat Berdugo's (2012) [_The Zoom Series_](https://www.liatberdugo.com/work/zoom){:target="_blank"} and (https://artcopyright.interartive.org/zoom-liat-berdugo){:target="_blank"} copyrights the gestures of the smartphone as choreography, challenging the idea that a corporation can own bodily movements by "enacting the “zoom,” “scroll,” and “rotate” gestures used to operate Apple devices without the devices present, [...] zooming herself into the camera" (Berdugo).
+Liat Berdugo's (2012) [_The Zoom Series_](https://www.liatberdugo.com/work/zoom){:target="_blank"} copyrights the gestures of the smartphone as choreography, challenging the idea that a corporation can own bodily movements by "enacting the “zoom,” “scroll,” and “rotate” gestures used to operate Apple devices without the devices present, [...] zooming herself into the camera" ([Berdugo](https://artcopyright.interartive.org/zoom-liat-berdugo){:target="_blank"}).
 
 ![liat-aerobic](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FLiat-Aerobics1.jpg?v=1597976254479)
 
@@ -133,11 +133,12 @@ Finn argues that corporations are able to market the interface as a mediating la
 
 <div class="artist">
 
-### artists' intervention: micha cárdenas, Patrisse Cullors, Edxie Betts, and Chris Head
+### artists' intervention: 
+  micha cárdenas, Patrisse Cullors, Edxie Betts, and Chris Head
 
 ![cardenas1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fcardenas-kevlar1.jpg?v=1597976422077){: width="390px" } ![cardenas2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fcardenas-kevlar2.jpg?v=1597976421671){: width="390px" }
 
-["Unstoppable" (2015)](https://michacardenas.sites.ucsc.edu/unstoppable/), a collection of bulletproof clothing inspired by the prompt for "technology for black lives" references Nao Bustamante's ["Soldadera" (2015)](http://naobustamante.com/archive/soldadera/), which recreates in Kevlar historical feminine soldiers outfits from the Mexican revolution.
+["Unstoppable" (2015)](https://michacardenas.sites.ucsc.edu/unstoppable/){:target="_blank"}, a collection of bulletproof clothing inspired by the prompt for "technology for black lives" references Nao Bustamante's ["Soldadera" (2015)](http://naobustamante.com/archive/soldadera/){:target="_blank"}, which recreates in Kevlar historical feminine soldiers outfits from the Mexican revolution.
 
 _self-protection, activist, repurposing trash, outside the logics of capital, designed by intended wearers/users_
 
@@ -148,7 +149,7 @@ _self-protection, activist, repurposing trash, outside the logics of capital, de
 
 Resistance to data colonialism, or surveillance broadly, also has its historical antecedents in the resistance practices of enslaved people, argues Simone Browne. She finds oppositional energy for another way of being by looking to "black epistemologies of contending with antiblack surveillance, where the tools of social control in plantation surveillance or lantern laws in city spaces and beyond were appropriated, co-opted, repurposed, and challenged in order to facilitate survival and escape" (22). She details examples of enslaved and formerly enslaved people evading these systems by passing, disguise, alternate communication networks, literacy, and more (55); and she argues that this group of strategies, which she terms "dark sousveillance [...] also provides a way to frame how the contemporary surveillance of the racial body might be contended with" (24).
 
-These strategies of resistence rely on a combination of obfuscation and adaptation, working with and against the grain of data colonialism, and must address a multi-pronged concerns. Lupton suggests that the contemporary worry of data-profilers acquiring 'too much' knowledge has overshadowed the equally dangerous problems of innacurate and missing information, or the socio-economic disadvantages of data invisibility (125). However, in one counter-example, Nabil Hassein (2017) argues against improving the bias of facial recognition technologies, as this technology is so frequently used for law enforcement, which has been shown to unfairly uphold white supremacist anti-Black oppression: "Why should we desire our faces to be legible for efficient automated processing by systems of their design?" ([Hassein, "Against Black Inclusion in Facial Recognition"](https://digitaltalkingdrum.com/2017/08/15/against-black-inclusion-in-facial-recognition/))
+These strategies of resistence rely on a combination of obfuscation and adaptation, working with and against the grain of data colonialism, and must address a multi-pronged concerns. Lupton suggests that the contemporary worry of data-profilers acquiring 'too much' knowledge has overshadowed the equally dangerous problems of innacurate and missing information, or the socio-economic disadvantages of data invisibility (125). However, in one counter-example, Nabil Hassein (2017) argues against improving the bias of facial recognition technologies, as this technology is so frequently used for law enforcement, which has been shown to unfairly uphold white supremacist anti-Black oppression: "Why should we desire our faces to be legible for efficient automated processing by systems of their design?" ([Hassein, "Against Black Inclusion in Facial Recognition"](https://digitaltalkingdrum.com/2017/08/15/against-black-inclusion-in-facial-recognition/){:target="_blank"})
 
 From the earliest examples I could find, analog forms like the paper diary proved adaptable to different uses---"nondigital mediations allowed for narrative and numerate tracking of women’s lives" (Wernimont 2018, 142)---(granted these still required a certain status and knowledge, like literacy and access to paper and time to write, which would not have been available to people of all races or classes). Early white women's life writing was more daily and embodied, says Wernimont, "Where men followed meandering minds or put themselves in the mind of Christ, medieval and early modern English women's 'being in and becoming with' was situated in the social spaces of the home and materiality of bodies" (109). However, with the shift to contemporary technologies, the gendering has remained but the opportunities for appropriation and adaptation have foreclosed dramatically:  
 
@@ -159,8 +160,8 @@ From the earliest examples I could find, analog forms like the paper diary prove
 ### artist's intervention: Sonya Rapoport (pt 2)
 
 ![rapoport-biorhythm1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRapoport-Biorhythm_May_1980.jpg?v=1598005438251)
-![rapoport-biorhythm2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRapoport-BiorhythmPostulatePerformance.jpg?v=1598005436045)
-_Biorhythm: Postulate and Performance_ (detail) (1981)
+<!-- ![rapoport-biorhythm2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRapoport-BiorhythmPostulatePerformance.jpg?v=1598005436045)
+_Biorhythm: Postulate and Performance_ (detail) (1981) -->
 
 "Using a commercial kit to predict her daily biorhythms, Rapoport recorded her physical, sensitivity, and cognitive cycles throughout the year 1980. Making use of an oversize calendar, she created each day a small collage with the ephemera of her everyday life and paper records of her art practice – a fascinating autobiographical portrait. Rapoport created an artist book on computer printout paper in which plotter-printed graphs of her biorhythm data is compared to the computer’s predictions, which appear as sinusoidal curves in colored typewriter." [Sonya Rapoport Legacy Trust](http://www.sonyarapoport.org/portfolio/biorhythm/){:target="_blank"}
   
@@ -181,7 +182,7 @@ _forms of dailiness, open form using paper for data collection, using the materi
 
 I'll offer two more examples of overshadowed forms that could offer insights into different ways of thinking with data. Lately overtaken with apps like Grindr and Tinder, since the early 1970s some queer and kink communities have used the simple printed hankerchief in different colors and patterns, placed in a pocket, to indicate sexual preference, availability, and compatability. I would consider this not only an extremely adaptive form but also a kind of self-identifying data practice. Economical, unlimited to the number of colors of fabric one can shove in a back pocket or tie to an arm, leg, etc., the options are virtually endless to signal interest and compatability---or at least, if not legible to the viewer, act as a conversation starter.[^Lex]
 
-[^]: It's worth noting a newly popular lesbian, non-binary, and queer dating app [Lex](https://thisislex.app/) takes its inspiration from the abbreviation-riddled text-only ads from the Village Voice era, so perhaps hybrid forms are catching on.
+[^]: It's worth noting a newly popular lesbian, non-binary, and queer dating app [Lex](https://thisislex.app/){:target="_blank"} takes its inspiration from the abbreviation-riddled text-only ads from the Village Voice era, so perhaps hybrid forms are catching on.
 
 Not dissimilarly, emoji today may do poorly to convey literal meaning in the same way a non-pictographic sentence would, but conversants often develop a common lexicon amongst themselves that bear no resemblance or even run counter to the standard definitions established by Unicode and that may update on the fly as the needs of the user change over time or per conversation: "the utility of an emoji lies in the indeterminacy of its pictographic versus iconographic legibility as a signifier of affect, emotion, or sociality" (Stark and Crawford 2015, 5). And yet, this exuberance again gets reabsorbed as affective labor by the capitalist enterprise, as "just another means to lure consumers to a platform, to extract data from them more efficiently, and to express a normative, consumerist, and predominantly cheery world-view" (8). Apple will learn which weird emoji I plan to use next, and Facebook (with its choice of just a handful of animated emoji) will use my selection to categorize my response to a post as a 'feeling' and sift my timeline (and the timelines of others) all without my noticing.
 
@@ -194,13 +195,13 @@ Lupton (2020) instead calls for an 'ethics of care' that can reconceptualize "pe
 <div class="artist">
 
 ###  artists' intervention: @datahealing & @cyberdoula
-  
-![datahealingmeme](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fdecolonialtexting.png?v=1597999550287)
 
-"Data healing" according to its inventor, Neema Githere, is "alchemizing our data::trauma into: new technologies" ([@datahealing]https://www.instagram.com/datahealing)). She argues that, "By prioritzing love over likes, data healing asks us to consider alternative metrics of engagement on social media." She created the term in response to "data trauma" a term created by Olivia McKayla Ross [@cyberdoula](https://www.instagram.com/cyberdoula/) "to describe the compound effects of navigating digital infrastructures created to exploit, categorize, and discard personhood" ([Ross](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma)). Each of their work on social media helps reposition social media itself as potentially available for renewed practices of care and ethics, repair from past harms. Ross says she is responding to "the violence of being counted, of being sorted–and of not being counted, of not being sorted," and she frames her work as "teaching people how to build their nests out of plastic" ([Ross](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma)). One place to start? Githere suggests reparations are one form of data healing ([Githere](https://www.are.na/neema-xx/data-healing)).
+![datahealingmeme](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fdecolonialtexting.png?v=1597999550287){:target="_blank"}
+
+"Data healing" according to its inventor, Neema Githere, is "alchemizing our data::trauma into: new technologies" ([@datahealing](https://www.instagram.com/datahealing){:target="_blank"}). She argues that, "By prioritzing love over likes, data healing asks us to consider alternative metrics of engagement on social media." She created the term in response to "data trauma" a term created by Olivia McKayla Ross [@cyberdoula](https://www.instagram.com/cyberdoula/){:target="_blank"} "to describe the compound effects of navigating digital infrastructures created to exploit, categorize, and discard personhood" ([Ross](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma){:target="_blank"}). Each of their work on social media helps reposition social media itself as potentially available for renewed practices of care and ethics, repair from past harms. Ross says she is responding to "the violence of being counted, of being sorted–and of not being counted, of not being sorted," and she frames her work as "teaching people how to build their nests out of plastic" ([Ross](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma){:target="_blank"}). One place to start? Githere suggests reparations are one form of data healing ([Githere](https://www.are.na/neema-xx/data-healing){:target="_blank"}).
 
 _activist, ethics of care, intersectional, new cyberfeminist aesthetics, anti-racist_
-
+  
 </div>
 
 Creating and making existing forms one's own are essential because externally programmed devices and their data constrain outputs, says Wernimont (2018) meaning results can "only point in one direction: success or failure in a [particular] paradigm [...] in ways that entirely missed political, environmental, and ethical contexts [...] for activity in favor of ones more supportive of the normalized behavior of affluent American citizens" (158). For example, the current commercially available Fitbit-style "activity monitors can only understand physical activity within a paradigm where the wearer is safe, not responsible for the care of others, and using activity for exercise, not survival" (158). Wernimont theorizes, like Ross and Githere have begun to enact, the need for a broader range of stories and storytellers, types of data and data structures, systems and support systems. "What kinds of stories cannot be told [...] because individuals do not have access to such media, the time to engage it fully, and/or do not have the security to reveal the details of their everyday experience without increasing their risk of domestic or state violence?" says Wernimont. "Can we imagine other possibilities?" (159).
@@ -215,7 +216,8 @@ Artistic approaches to data can "reveal the more-than-representational dimension
 
 Both make unique use of natural materials as indexical markers of or in feedback with human patterns, as well as because they also speak at least loosely to the prior section's discussion of open, adaptable forms. The detritus of the vacuum bag recalls Lupton's data-as-remains and the question _To whom does the data one makes belong?_ (more on this later, time permitting).[^mine]
 
-[^mine]: My data decomposes when the cloud service start-up I have uploaded my voice to in order to produce the voice synthesizer who will sound like me and speak as me for _innervoiceover_ is sold to a larger start-up. I have no way to download my synthesized voice, or my original voice, no way to reproduce the sound of me. The API through which I access myself one day just stops working and I follow the trail to an email in my spam folder warning me of its immanent shutdown---but no way to recover 'my' data. Where has my data gone to decompose? Who now owns the traces of me on that server somewhere, where? What they might one day make? What format they're in that will also go defunct or overheat or any other way technologies resist our attempts at immortality, preservation, ownership, leakage prevention? 
+[^mine]: My data decomposes when the cloud service start-up I have uploaded my voice to (lyrebird.ai) in order to produce the voice synthesizer who will sound like me and speak as me for _innervoiceover_ is sold to a larger start-up. I have no way to download my synthesized voice, or my original voice, no way to reproduce the sound of me. The API through which I access myself one day just stops working and I follow the trail to an email in my spam folder warning me of its immanent shutdown---but no way to recover 'my' data. Where has my data gone to decompose? Who now owns the traces of me on that server somewhere, where? What they might one day make? What format they're in that will also go defunct or overheat or any other way technologies resist our attempts at immortality, preservation, ownership, leakage prevention? 
+
 
 <div class="artist">
   
@@ -229,7 +231,7 @@ Both make unique use of natural materials as indexical markers of or in feedback
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v3DfebecTcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- [![horn-pencil](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fhorn-pencil.jpg?v=1597963985835)](https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847) -->
-"Strapped around the face, this mask transforms the wearer’s head into an instrument for drawing. Horn has described wearing it: ‘All pencils are about two inches long and produce the profile of my face in three dimensions...I move my body rhythmically from left to right in front of a white wall. The pencils make marks on the wall the image of which corresponds to the rhythm of my movements.’ The spike-like pencils make this one of Horn’s more threatening works. However, it is linked to the feather masks, as feather quills were also once used for writing." [--Tate gallery label, 2004](https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847)
+"Strapped around the face, this mask transforms the wearer’s head into an instrument for drawing. Horn has described wearing it: ‘All pencils are about two inches long and produce the profile of my face in three dimensions...I move my body rhythmically from left to right in front of a white wall. The pencils make marks on the wall the image of which corresponds to the rhythm of my movements.’ The spike-like pencils make this one of Horn’s more threatening works. However, it is linked to the feather masks, as feather quills were also once used for writing." [--Tate gallery label, 2004](https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847){:target="_blank"}
 {: .fs-3 }
 
 _wearable non-digital technology, to extend the reach of the body also encumbers the body, also creates data, makes a mark or trace, prosthesis_ 
@@ -246,35 +248,20 @@ Further, she points out that a technophenomenological viewpoint allows, or requi
 
 They call this always-already mediated state "originary technicity" and connect it to our dependence on each other as an ethical imperative: "Originary technicity can thus be understood as a condition of openness to what is not part of the human, of having to depend on alterity [...] to fully constitute and actualize one’s being. But this imperative to get outside of oneself and to be technical, that is, to bring things forth, to create, is perhaps also an ethical injunction to create well" (17--18). For Jones, it is paradoxically through deep engagement with "knowing thyself" that a technophenomenological data body artist might access this alterity. She says, "it is the very narcissism of the performance of the self that inexorably engages the self in the other: our self-conception, our self-performance can only take place through our phenomenological assumption of subjectivity (or moments of subjective engagement) via others in the world" (238). Of course, she also points out that this self for more recent artists is much more unmoored, "technologized, specifically unnatural, and fundamentally unfixable in identity or subjective/objective meaning in the world: [...] This 'posthuman' body/self is thoroughly particularized, its gender, sexuality, sexual orientation, race, ethnicity, class, and other identifications insistently enunciated within the intersubjective structures established by the body-oriented practice" (199).
 
-
-### 4. This technophenomenological body/self
-
 <div class="artist">
 
-#### uncertainty index? and haptics of not touching, my works -- the gif essay and the creative/critical/code writing (CONCLUSION?)
-**example of borrowed from confessional poetry/database**
-**eventual adaptation into wearable body suit after RH/LHL/SCalle/--**
-embodied data & endataed body
-trails of data attach to each word
-body as storage of database of trauma, text as database as body (of text)
-wearable self, put on, take off
-_Francesca Woodman blending into the wallpaper, performing as the asmr comfort body database_
+  #### artist's intervention: sarah ciston
 
-![datacollection](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fpersonaldata2017.jpg?v=1597986001587){: width="390px" }
-
-**Data decomposition**: Counter the loss of my voice synthesis data due to the corporate buy-out of the Lyrebird.ai startup with ...
-
-**my, expand on** 2017 reading of UI, requesting reciprocal data from audience in analog fashion, havent opened since. **see also** Feminist.AI practice of requesting 'data donations' rather than a fine-print practice of data extraction. These subtle shifts in approach point toward new possibilities for being with data, **lupton's data as remains**
+  <iframe src="https://drive.google.com/file/d/1IDodHwOFww1i3pe6CRe_UUEd7oC6IobT/preview" width="640" height="480"></iframe>
   
- "once you label something, you limit what it can become. Predictive analysis limits our human potential for growth." ([Ross](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma))
-
-"words such as submission on digital forms describing the power differentials when giving away information" ([Ross](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma)) 
+  [_Uncertainty Index_](https://sarahciston.com/ui/) is an example of a form I developed for my MFA thesis which I refer to as quantified confessional poetry, among other things, which links personal 'metadata' to each  based on the date it was originally written---trails of data attached to each fragment or phrase. The poem is an endless loop, ending where it starts, and is resortable by the categories and qualities listed in its database. In this way, the piece works over the the text as a body as a database as a storage site of trauma and text.
+ 
+  ![datacollection](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fpersonaldata2017.jpg?v=1597986001587){: width="390px" }
   
-
-This work is a further step in that project because in order to build this site I learned to connect programmatically to the live data outputs my personal trackers are producing using their APIs (previous projects had used downloaded static data in CSVs rather than live updating). This will allow me to build future projects that act on the data they pull on the fly, whether manipulating it aesthetically or analytically. 
+  In my 2017 performance of _Uncertainty Index_, I requested from the audience reciprocal data in the form of their mood and/or weight on a slip of paper, inserted into this jar passed around the room. I haven't opened the jar, ahtough some handwritten and typed phrases are visible. The slips of paper are scraps from drafts of the manuscript. This reminds me of what I learned later from [Feminist.AI](http://feminist.ai){:target="_blank"} to practice requesting what they call 'data donations', i.e. informed consent, rather than a fine-print terms of service covering their data extraction practice. These subtle shifts in approach point toward new possibilities for being with data. As Ross describes, words like 'submission' already describe "the power differentials when giving away information" ([Ross](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma){:target="_blank"}).
   
-**Note to self, for portfolio make a page charting all the collected data, too bad the dialogue wont likely be auto captioned, won't capture all the icky feeling from producing these documents, the cumulative sleep, the total words divided by, weight lost/gained, etc.**
-  
+  The technical code work I did in preparation for these exams was another step for this project, because in order to build this site I learned to connect programmatically to the live data outputs my personal trackers are producing using their APIs (previous projects had used downloaded static data in CSVs rather than live updating). This will allow me to build future projects that act on the data they pull on the fly, whether manipulating it aesthetically or analytically. My goal is to do another iteration of this or similar work as a wearable body suit that transmits to either a site and/or a second display body suit, as referenced in my creative-critical GIF essay ["The Haptics of Not Touching"](https://medium.com/@sarahciston/the-haptics-of-not-touching-b7f9b889e2df){:target="_blank"} which addresses some of the anxieties around these themes (in particular body-as-performance/database/API, subscription capitalism, and (lately) touch without touch.
+ 
 </div>
 
 
@@ -282,4 +269,10 @@ This work is a further step in that project because in order to build this site 
 
 her claim is speculative, hopeful
 >“this claim is rather utopian; the effects of these works will of course depend on how they are contextualized and who experiences and engages with them” (Jones 1998, 203).
+
+"once you label something, you limit what it can become. Predictive analysis limits our human potential for growth." ([Ross](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma){:target="_blank"})
+
+my works -- the gif essay and the creative/critical/code writing (CONCLUSION?), embodied data & endataed body / wearable self, put on, take off
+_Francesca Woodman blending into the wallpaper, performing as the asmr comfort body database_
+    
 
