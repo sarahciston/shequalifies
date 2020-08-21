@@ -22,7 +22,7 @@ last_modified_date: 2020-08-19 10:00
 _In your description for Field I, you note your interest in “the entanglements of self/other/technology” and how these entanglements “get enacted, distributed, absorbed, and reworked.” The writers that you have included on your list have very different views regarding these entanglements, especially as they relate to code and software. As Wendy Chun writes, for example, the “relationship among code and interface, action and result is always contingent and always to some extent imagined.” She goes on to outline an argument for code as fetish, as sourcery, and as re-source by emphasizing the gap between source and execution. Choose at least three central thinkers from your list and describe their articulations of the entanglements of self/other/technology/code/software. If it’s useful, include examples from your list of artworks as well, and/or discuss the framework you created to respond to your exam questions. What does it allow you to enact in relationship to this field? What entanglement(s) are you hoping to create?_
 {: .fs-2 }
 
-#### exam response, in progress
+#### exam response
 
 {% assign wordcount = page.content | strip_html | split: ' ' | size %}
 word count: {{ wordcount }}
