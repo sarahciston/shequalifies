@@ -32,14 +32,33 @@ Field exam will appear here supplemented by the surrounding pages. Watch the liv
 ## 0. introduction
 
 
+
+qualities these works share: open, adaptable in format; user designed; embodied not imposed upon a body; reappropriate; hyperboly or activism;
+old to new: increasingly producing closed systems that impose the tools or platforms that mediate, although users/artists still misuse, borrow, steal; new tech more subtly makes use of what's already on the body, violence more insidious (for some, at least)
+
 >"With the virtual body came its fascist sibling, the data body—a much more highly developed virtual form, and one that exists in complete service to the corporate and police state. The data body is the total collection of files connected to an individual" (Critical Art Ensemble 1998, 145). 
 
+What even is data? Miriam Posner and Lauren Klein (2017) build on definitions by Christine Borgman and Daniel Rosenberg to argue that, in addition to being "contingent and time-based" as well as "_specifically_ rhetorical," they add "categorization and computability" (1). Importantly, Posner and Klein call data as much an orientation to source material as a kind of knowlege (2). 
 
-What even is data? Miriam Posner and Lauren Klein build on definitions by Christine Borgman and Daniel Rosenberg to argue that, in addition to being "contingent and time-based" as well as "_specifically_ rhetorical," they add "categorization and computability" (1). Importantly, Posner and Klein call data as much an orientation to source material as a kind of knowlege (2). 
 
-"a standpoint-specific 'warm data' archive" (5)
+## 1. history was awful and the present isn't looking pretty
 
-## 1. history sucks and the present isn't looking great
+![marey-sphygmograph](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FEtienne-jules-marey2.jpg?v=1597976587166)
+
+Étienne-Jules Marey is a prominent figure in the story of the long histories of violence emerging from the colonialist impulses toward classification, datification, taxonomy, encyclopedic knowledge, and ownership. In 1859, he invented the sphygmograph, a direct indexical measure of the rhythms of bloodflow---from wrist to stylus to carbon (Osman 2019, 13). His sphygmograph sounds like something to be cleaned up later and appears like a clackering stigmata against the vulnerable pulse point inside the wrist. Meanwhile his other chronolocomotive tools built to capture motion otherwise imperceptible to the eye resemble guns and and 19th-century FitBit torture device. 
+
+![marey-chromogun](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FEtienne-jules-marey3.jpg?v=1597977680381) ![marey-ped](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FEtienne-jules-marey.png?v=1597976257718) 
+
+As precursors to the contemporary data devices we enjoy and are annoyed by today, these objects are oft cited when sketching the history of wearable technology and personal data. But the story goes back much further and persists in todays materials, practices, and concerns, however invisibly embedded and embodied. 
+
+The ability and interest in classification and differentiation of people was (and is) directly tied to the project of oppression. As Alexander Weheliye (2014) frames it, race is created for racism---and declared 'natural' to justify its violence: “the biopolitical function of race is racism” (42). He details how this project categorizes state subjects into degrees of human, using categories of non-human to do so: "Despite having no real basis in biochemistry, the hieroglyphics of the flesh requires grounding in the biological sphere so as to facilitate—even as it conceals and because it masks—the political, economic, social, and cultural disciplining (semiosis of procedure) of the Homo sapiens species into assemblages of the human, not-quite-human, and nonhuman; this is what I am referring to as racialization" (33).
+
+As new practices of digital data collection increase at-scale, the extractive practices of colonialism are also amplified. Nick Couldry and Ulises A. Mejias (2019) urge a resiuating of big data in the context of continuing colonialism as what they call "data colonialism," and this term is useful for creating a continuous thread connecting historical approaches to data (and human) management with current ones, which may at first glance appear quite different but share not only media histories but sometimes (un)ethical approaches:
+
+>data colonialism is changing society by transforming human life into a new abstracted social form that is also ripe for commodification: data. The means for this transformation are---to reiterate--not labor relations, but, more broadly, commodified social relations, or, more succinctly, data relations. [...] These new types of social relations implicate human beings in processes of data extraction, but in ways that do not _prima facie_ seem extractive. That is the key point: the audacious yet largely disguised corporate attempt to incorporate all of life, whether or not conceived by those doing it as “production,” into an expanded process for the generation of surplus value. The extraction of data from bodies, things, and systems create new possibilities for managing everything. This is the new and distinctive role of platforms and other environments of routine data extraction. (343)
+
+
+
 
 ## 2. dark susveillance, alternate media, less valued systems already in progress
 
@@ -47,10 +66,9 @@ What even is data? Miriam Posner and Lauren Klein build on definitions by Christ
 
 
 
+
+
 ## Stuff I haven't used yet
-
-Marey, measurement of movement, and the long histories of violence that emerged from those impulses toward taxonoomy. His sphygmograph appearing like a clackering stigmata against the pulse point inside the wrist. The chronolocomotive tools built to capture motion imperceptible by the eye, somewhere between a 19th-century FitBit and a torture device. 
-
 
 #### Lupton
 
@@ -81,8 +99,6 @@ Barad's "diffractive reading" which Lupton uses, McPherson's "lenticular" analys
 
 #### Mejias & Couldry / Contemp
 
-newly ready to be commodified and extracted
->"data colonialism is changing society by transforming human life into a new abstracted social form that is also ripe for commodification: data. The means for this transformation are---to reiterate--not labor relations, but, more broadly, commodified social relations, or, more succinctly, data relations” (Couldry and Mejias 2019, 343). … “These new types of social relations implicate human beings in processes of data extraction, but in ways that do not _prima facie_ seem extractive. That is the key point: the audacious yet largely disguised corporate attempt to incorporate all of life, whether or not conceived by those doing it as “production,” into an expanded process for the generation of surplus value. The extraction of data from bodies, things, and systems create new possibilities for managing everything. This is the new and distinctive role of platforms and other environments of routine data extraction” (Couldry and Mejias 2019, 343).
 
 unfortunately humans are still attached to these data bodies, the stakes are material
 >“Even though the new social knowledge is produced through operations that bypass human beings, it is actual human beings, not “doubles,” who are tethered to the discriminations that such knowledge generates. It is a real person who gets offered a favorable price in the supermarket, an opportunity for social housing, or a legal penalty, all based on algorithmic reasoning” (Couldry and Mejias 2019, 344)
@@ -93,11 +109,6 @@ this is not natural or rational, but capitalist and motivated, for powerful inte
 
 
 #### Weheliye
-race is for racism
->“the biopolitical function of race is racism” (Weheliye 2014, 42).
-
-naturalized to create human /nonhuman > racialization
->“Despite having no real basis in biochemistry, the hieroglyphics of the flesh requires grounding in the biological sphere so as to facilitate—even as it conceals and because it masks—the political, economic, social, and cultural disciplining (semiosis of procedure) of the Homo sapiens species into assemblages of the human, not-quite-human, and nonhuman; this is what I am referring to as racialization” (Weheliye 2014, 33).
 
 critique of posthumanism
 >“many invocations of posthumanism, whether in antihumanist post-structuralist theorizing or in current considerations of technology and animality, reinscribe the humanist subject (Man) as the personification of the human by insisting that this is the category to be overcome, rarely considering cultural and political formations outside the world of Man that might offer alternative versions of humanity. 18 Moreover, posthumanism and animal studies isomorphically yoke humanity to the limited possessive individualism of Man, because these discourses also presume that we have now entered a stage in human development where all subjects have been granted equal access to western humanity and that this is, indeed, what we all want to overcome” (Weheliye 2014, 15).
@@ -286,6 +297,8 @@ her claim is speculative, hopeful
 
 Liat Berdugo's (2012) ["The Zoom Series"](https://www.liatberdugo.com/work/zoom){:target="_blank"} and (https://artcopyright.interartive.org/zoom-liat-berdugo){:target="_blank"}
 
+Liat Berdugo's follow-up work converted this into a fitness routine, because it was the only format not available to Apple to copyright. 
+
 #### Sonya Rapoport
 
 [computer printout drawings](http://www.sonyarapoport.org/project-type/early-computer-paper/)
@@ -301,14 +314,15 @@ One of the installation participants describes, "I feel much better... good... g
 
 ![biorhythm-exhibition1](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Biorhythm-page%2012.jpg?v=1597963523267) ![biorhythm-exhibiton2](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Biorhythm-page%2013.jpg?v=1597963522353)
 Note the various kinds of information gathering from human subject reporting, computer reporting, to palm reading all being put in juxtaposition here. [Primary source materials courtesy Sonya Rapoport Legacy Trust and the San Jose Museum of Art](http://www.sonyarapoport.org/){:target="_blank"}
-{: .fs-2}
+{: .fs-3}
 
 
 
 **use for example of diff kinds of data collection**
+
 [![Rapoport-shoes](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FSonya_Rapoport_Bonito-shoes.jpg?v=1597961497487)](http://www.sonyarapoport.org/portfolio/domestic-analysis/){:target="_blank"}
 [Bonito Rapoport Shoes, 1978, pencil, colored pencil, colored type, computer print and solvent transfer on continuous-feed computer print, 37 pages in 4 folios, 11 x 14.875” each.](http://www.sonyarapoport.org/portfolio/domestic-analysis/){:target="_blank"}
-{: .fs-2}
+{: .fs-3}
 
 
 #### Rebecca Horn
@@ -317,19 +331,21 @@ Note the various kinds of information gathering from human subject reporting, co
 
 Rebecca Horn's 1974 performance with her "Finger Gloves"
 
-[![horn-fingers]()](https://www.tate.org.uk/art/artworks/horn-finger-gloves-t07845)
+<!-- [![horn-fingers]()](https://www.tate.org.uk/art/artworks/horn-finger-gloves-t07845) -->
 ["Horn has described how wearing these gloves altered her relationship with her surroundings, so that distant objects came within her reach: ‘the finger gloves are light. I can move them without any effort. Feel, touch, grasp anything, but keeping a certain distance from the objects. The lever-action of the lengthened fingers intensifies the various sense-data of the hand; [...] I feel me touching, I see me grasping, I control the distance between me and the objects.’" --Tate gallery label, 2016](https://www.tate.org.uk/art/artworks/horn-finger-gloves-t07845)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v3DfebecTcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![horn-pencil](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fhorn-pencil.jpg?v=1597963985835)](https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847)
+<!-- [![horn-pencil](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fhorn-pencil.jpg?v=1597963985835)](https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847) -->
 ["Strapped around the face, this mask transforms the wearer’s head into an instrument for drawing. Horn has described wearing it: ‘All pencils are about two inches long and produce the profile of my face in three dimensions...I move my body rhythmically from left to right in front of a white wall. The pencils make marks on the wall the image of which corresponds to the rhythm of my movements.’ The spike-like pencils make this one of Horn’s more threatening works. However, it is linked to the feather masks, as feather quills were also once used for writing." --Tate gallery label, 2004](https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847)
-{: .fs-2}
+{: .fs-3}
 
 prosthesis, not tracking but wearable technology, to extend the reach of the body also encumbers the body, creates data, makes a mark. 
 
+**use as example of activist, personal, ethics of care, intersectional approaches**
+
 #### @datahealing & @cyberdoula, active approaches to data trauma...aesthetic from cyberfeminism but w race and intersectionality previously missing now returned 
-(Posner)
+(Posner from field3?)
 
 "alchemizing our data::trauma into: new technologies" "telepathy is the original OS" "By prioritzing love over likes, data healing asks us to consider alternative metrics of engagement on social media" (Neema Githere, [@findingneema](https://www.instagram.com/findingneema)).
 
@@ -339,6 +355,18 @@ prosthesis, not tracking but wearable technology, to extend the reach of the bod
 
 ["Unstoppable" (2015)](https://michacardenas.sites.ucsc.edu/unstoppable/), a collection of bulletproof clothing inspired by the prompt for "technology for black lives."
 ...and references Nao Bustamante's ["Soldadera" (2015)](http://naobustamante.com/archive/soldadera/), which recreates in Kevlar historical feminine soldiers outfits from the Mexican revolution.
+
+
+#### uncertainty index? and haptics of not touching, my works -- the gif essay and the creative/critical/code writing (CONCLUSION?)
+**example of borrowed from confessional poetry/database**
+**eventual adaptation into wearable body suit after RH/LHL/SCalle/--**
+embodied data & endataed body
+trails of data attach to each word
+body as storage of database of trauma, text as database as body (of text)
+wearable self, put on, take off
+_Francesca Woodman blending into the wallpaper, performing as the asmr comfort body database_
+
+This work is a further step in that project because in order to build this site I learned to connect programmatically to the live data outputs my personal trackers are producing using their APIs (previous projects had used downloaded static data in CSVs rather than live updating). This will allow me to build future projects that act on the data they pull on the fly, whether manipulating it aesthetically or analytically. 
 
 
 #### Anna Daučíková, VALIE EXPORT, Lynn Hershman Leeson, Lygia Clark
@@ -351,3 +379,5 @@ prosthesis, not tracking but wearable technology, to extend the reach of the bod
 
 >"But how can we define a ritual as ancient as the Agnicayana as algorithmic? To many, it may appear an act of cultural appropriation to read ancient cultures through the paradigm of the latest technologies. Nevertheless, claiming that abstract techniques of knowledge and artificial metalanguages belong uniquely to the modern industrial West is not only historically inaccurate but also an act and one of implicit _epistemic colonialism_ towards cultures of other places and other times. The French mathematician Jean-Luc Chabert has noted that “algorithms have been around since the beginning of time and existed well before a special word had been coined to describe them. Algorithms are simply a set of step by step instructions, to be carried out quite mechanically, so as to achieve some desired result.” Today some may see algorithms as a recent technological innovation implementing abstract mathematical principles. On the contrary, algorithms are among the most ancient and material practices, predating many human tools and all modern machines" (Pasquinelli 2019)
 _maybe for field3_
+
+"a standpoint-specific 'warm data' archive" (Posner & Klein 2017, 5)
