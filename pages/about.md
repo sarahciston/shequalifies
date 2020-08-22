@@ -20,4 +20,7 @@ My approach to this work is inspired by approaches like Ruja Benjamin's "thin de
 
 Plus it is more interesting to me to write from a place of curiosity than certainty. 
 
+>"Thinness [...] attempts a humble but no less ambitious approach to knowledge production. Thinness allows greater elasticity, engaging fields of thought and action too often disconnected. This analytic flexibility, in my view, is an antidote to digital disconnection, tracing links between individual and institutional, mundane and spectacular, desirable and deadly in a way that troubles easy distinctions. [...]
+If the New Jim Code seeks to penetrate all areas of life, extracting data, producing hierarchies, and predicting futures, thin description exercises a much needed discretion, pushing back against the all-knowing, extractive, monopolizing practices of coded inequity." (Benjamin 2019, 23--24)
+
 >"Suppose one asserts that a poethics of possibility must be founded on improbability, pattern-bounded unpredictability, the intercourse of chance and intention, self and notself. Then one must move from idealized images of Euclidean horizons (which turn out to be nothing but a series of vanishing points) to fractal coastlines. The horizon is always a function of the position of the viewing subject." (Retallack 2003, 14).

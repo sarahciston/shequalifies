@@ -41,9 +41,7 @@ word count: {{ wordcount }}
     To analyse it, comment on it, dance it, sing it. Dissect it. Exhaust it.
     Understand it for me. Answer for me.
     It was a way of taking the time to break up
-    A way to take care of myself." (Sophie Calle 2007)
-    
-    #datacollection
+    A way to take care of myself." (Sophie Calle 2007, #datacollection)
 
 The data body, a term first popularized by Critical Art Ensemble (1998), which called it the 'fascist sibling' of the virtual body (145), is now marketed to serve as an anticipatory recommendation engine who knows you better than you do, "a form of algorithmic proprioception, an expansion of the self, enabled by physical and cognitive sensors and feedback loops” (Finn 2017, 77). The convenience of this (proposed) service is how all manner of intimacy breeches and unethical oversteps inch into users' lives, as frogs immersed in a soup of their own data. This is not a warm bath of self-care, measured in meditation minutes, but an uncontrollable roiling boil.
 
@@ -178,7 +176,7 @@ _forms of dailiness, open form using paper for data collection, using the materi
 
 I'll offer two more examples of overshadowed forms that could offer insights into different ways of thinking with data. Lately overtaken with apps like Grindr and Tinder, since the early 1970s some queer and kink communities have used the simple printed hankerchief in different colors and patterns, placed in a pocket, to indicate sexual preference, availability, and compatability. I would consider this not only an extremely adaptive form but also a kind of self-identifying data practice. Economical, unlimited to the number of colors of fabric one can shove in a back pocket or tie to an arm, leg, etc., the options are virtually endless to signal interest and compatability---or at least, if not legible to the viewer, act as a conversation starter.[^Lex]
 
-[^]: It's worth noting a newly popular lesbian, non-binary, and queer dating app [Lex](https://thisislex.app/){:target="_blank"} takes its inspiration from the abbreviation-riddled text-only ads from the Village Voice era, so perhaps hybrid forms are catching on.
+[^Lex]: It's worth noting a newly popular lesbian, non-binary, and queer dating app [Lex](https://thisislex.app/){:target="_blank"} takes its inspiration from the abbreviation-riddled text-only ads from the Village Voice era, so perhaps hybrid forms are catching on.
 
 Not dissimilarly, emoji today may do poorly to convey literal meaning in the same way a non-pictographic sentence would, but conversants often develop a common lexicon amongst themselves that bear no resemblance or even run counter to the standard definitions established by Unicode and that may update on the fly as the needs of the user change over time or per conversation: "the utility of an emoji lies in the indeterminacy of its pictographic versus iconographic legibility as a signifier of affect, emotion, or sociality" (Stark and Crawford 2015, 5). And yet, this exuberance again gets reabsorbed as affective labor by the capitalist enterprise, as "just another means to lure consumers to a platform, to extract data from them more efficiently, and to express a normative, consumerist, and predominantly cheery world-view" (8). Apple will learn which weird emoji I plan to use next, and Facebook (with its choice of just a handful of animated emoji) will use my selection to categorize my response to a post as a 'feeling' and sift my timeline (and the timelines of others) all without my noticing.
 
@@ -249,7 +247,7 @@ They call this always-already mediated state "originary technicity" and connect 
 
 ### artist's intervention: Sarah Ciston
 
-<iframe src="https://drive.google.com/file/d/1IDodHwOFww1i3pe6CRe_UUEd7oC6IobT/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1IDodHwOFww1i3pe6CRe_UUEd7oC6IobT/preview" width="800" height="450"></iframe>
 
 [_Uncertainty Index_](https://sarahciston.com/ui/) is an example of a form I developed for my MFA thesis which I refer to as quantified confessional poetry, among other things, which links personal 'metadata' to each  based on the date it was originally written---trails of data attached to each fragment or phrase. The poem is an endless loop, ending where it starts, and is resortable by the categories and qualities listed in its database. In this way, the piece works over the the text as a body as a database as a storage site of trauma and text.
 {: .fs-3 }

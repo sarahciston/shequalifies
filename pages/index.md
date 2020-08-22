@@ -6,22 +6,24 @@ last_modified_date: 2020-08-18 11:09
 ---
 <!-- layout: default -->
 
-<iframe width="266" height="150" src="https://www.youtube.com/embed/3DF759JzzAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/LYWWv2vsqHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Live on part 2, because part 1 lost audio again. Please let me know if you notice this issue, thanks!
-{: .fs-3 }
-
-[_black lives matter_](https://www.jamestgreen.com/projects/blacklivesmatter)
-
 **Oh hi there,**
 
 This site is a work in progress which both tracks and _is_ the qualifying exam for Sarah Ciston's Media Arts + Practice PhD. Its format reimagines academic scholarship as writing, processing, performance---a live-coding, live-writing, embodied practice that references the genre of software documentation and API, and utilizes some of the cloud-based tools it also interrogates. The work is further embedded with metadata, multimedia, associative fragments that accrete throughout the writing process——blurring the edges across code work, creative work, critical work, and personal work, across material and ephemeral platforms.
 
-Today I am writing Field 1: [Immersive Data Identities](posts/field2-dataIds)
+Friday (today) I finished writing Field 2: [Immersive Data Identities](posts/field2-dataIds)
+
+Wednesday, I completed Field 1: [Co-Writing with Algorithms](posts/field1-cowriting)
+
+And by Sunday I will wrap up Field 3: [Intersectional AI](posts/field3-IAI) 
 
 ![katyacantwait](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FKatya-cantwait.gif?v=1597792482090)
 
+#### field 3 / day 3 (begins Saturday 10am)
+<iframe width="266" height="150" src="https://www.youtube.com/embed/gUCNY0Vqa_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 ### some framing thoughts
+
+[_black lives matter_](https://www.jamestgreen.com/projects/blacklivesmatter)
 
 **interdependence is indigenous knowledge**
 
@@ -45,6 +47,10 @@ Today I am writing Field 1: [Immersive Data Identities](posts/field2-dataIds)
 >_“no code refers to all the universes, and no universe is referred to by all codes”_ --Vilém Flusser
 {: .fs-3 }
 
-<iframe width="266" height="150" src="https://www.youtube.com/embed/SznhRaT77G8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/JKLh31VH5iM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/3DF759JzzAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/gUCNY0Vqa_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+#### field 1 / day 1
+<iframe width="266" height="150" src="https://www.youtube.com/embed/SznhRaT77G8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="266" height="150" src="https://www.youtube.com/embed/JKLh31VH5iM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+#### field 2 / day 2
+<iframe width="266" height="150" src="https://www.youtube.com/embed/3DF759JzzAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="266" height="150" src="https://www.youtube.com/embed/LYWWv2vsqHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <!-- <iframe width="800" height="450" src="https://www.youtube.com/embed/_1AUZKtchzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --> <!--width="560" height="315"-->
