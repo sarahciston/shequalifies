@@ -6,12 +6,12 @@ last_modified_date: 2020-08-18 11:09
 ---
 <!-- layout: default -->
 
-{% assign randomNumber = page.content | size | modulo: 10 | round: 3 %}
+<!-- {% assign randomNumber = page.content | size | modulo: 10 | round: 3 %} -->
 
-### CURRENT QUALIFYING EXAM CREDIT SCORE: {{ randomNumber }}
+<!-- ### CURRENT QUALIFYING EXAM CREDIT SCORE: {{ randomNumber }} -->
 
-_a running total calculated using a proprietary algorithm, from a range of weighted factors, updated in real time (range: 0--10)_
-{: .fs-2 }
+<!-- _a running total calculated using a proprietary algorithm, from a range of weighted factors, updated in real time (range: 0--10)_
+{: .fs-2 } -->
 
 <iframe width="266" height="150" src="https://www.youtube.com/embed/gUCNY0Vqa_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
