@@ -1,10 +1,8 @@
 ---
 title: zine 1, why IAI
 parent: intersectional AI
-last_modified_date: 2020-08-23 02:59
+last_modified_date: 2020-08-23 05:00
 ---
-
-
 
 <main class="zine" markdown="1">
 <section class="zine-page page-1" markdown="1">

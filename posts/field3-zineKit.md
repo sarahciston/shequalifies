@@ -1,7 +1,7 @@
 ---
 title: zine 2, toolkit
 parent: intersectional AI
-last_modified_date: 2020-08-23 03:37
+last_modified_date: 2020-08-23 05:00
 ---
 
 
@@ -21,17 +21,17 @@ This mini-field-guide is part of a series looking at ideas, approaches, and exam
 #### AI TO-DO LIST 
 
 Keep in mind the following goals:
-  1. know it's about power
-  1. stay self-reflexive, polyvocal, multimodal
-  1. add back error, uncertainty, entanglement
-  1. combine tech & dialogue
-  1. entwine data, design, & community
-  1. embrace a meta ethics of multiplicity & relation
-  1. decenter European values & knowledge (and its own origin stories)
-  1. dedigitize sometimes
-  1. focus on infrastructures of care: mutual aid, start low & go slow
-  1. apply to every level in the stack, every step in the process
-  1. let intersectionality guide aesthetics, tactics, and ethics
+  - know it's about power
+  - stay self-reflexive, polyvocal, multimodal
+  - add back error, uncertainty, entanglement
+  - combine tech & dialogue
+  - entwine data, design, & community
+  - embrace a meta ethics of multiplicity & relation
+  - decenter European values & knowledge (and its own origin stories)
+  - dedigitize sometimes
+  - focus on infrastructures of care: mutual aid, start low & go slow
+  - apply to every level in the stack, every step in the process
+  - let intersectionality guide aesthetics, tactics, and ethics
 
 _What is intersectional AI?_ For more info, see the other zines in this library.
 
@@ -46,82 +46,58 @@ _since this isn't my subject position or expertise area, here would be a great p
 #### embodying anti-white-supremacist values
 The zine ["Characteristics of White Supremacy Culture"](https://www.dismantlingracism.org/uploads/4/3/5/7/43579015/zine_02.pdf){:target="_blank"} by [Tema Okun](https://www.dismantlingracism.org/white-supremacy-culture.html){:target="_blank"} details traits that permate the broader culture (and tech culture). They don't feel good, and avoiding them in life and when designing and implementing intersectional technology sounds like such a great idea:
 
-#### embodying anti-white-supremacist values
-The zine ["Characteristics of White Supremacy Culture"](https://www.dismantlingracism.org/uploads/4/3/5/7/43579015/zine_02.pdf){:target="_blank"} by [Tema Okun](https://www.dismantlingracism.org/white-supremacy-culture.html){:target="_blank"} details traits that permate the broader culture (and tech culture). They don't feel good, and avoiding them in life and when designing and implementing intersectional technology sounds like such a great idea:
-
-  ~~perfectionism~~ | | ~~urgency~~ | | 
-  ~~defensiveness~~ | | ~~quantity before quality~~ | | 
-  ~~worship of the written word~~ | | ~~only one right way~~  | | 
-  ~~paternalism~~ | | ~~either/or thinking~~ | | 
-  ~~power hoarding~~ | | ~~fear of conflict~~ | | 
-  ~~individualism~~ | | ~~progress as bigger/more~~ | |  
-  ~~objectivity~~ | | ~~right to comfort~~ | | 
+~~perfectionism~~, ~~urgency~~, ~~defensiveness~~, ~~quantity before quality~~, ~~worship of the written word~~, ~~only one right way~~, ~~paternalism~~, ~~either/or thinking~~, ~~power hoarding~~, ~~fear of conflict~~, ~~individualism~~, ~~progress as bigger/more~~, ~~objectivity~~, ~~right to comfort~~
+{: .purple-inline }
 
 _Do you see these values in the digital objects and services you use now? How can you imagine them operating differently? What values would you replace them with? 
 
 </section>
 
 <section class="zine-page page-4" markdown="1">
-### feminist tactics
-
-#### Catherine D'Ignazio and Lauren Klein's 7 Tenants of Data Feminism
-  1. examine power
-  1. challenge power
-  1. elevate emotion and embodiment, valuing multiple forms of knowledge
-  1. rethink binaries and hierarchies
-  1. embrace multiple perspectives, prioritizing local, indigenous, and experiential knowing
-  1. consider context: "data are not neutral or objective. They are the products of unequal social relations, and this context is essential for conducting accurate, ethical analysis"
-  1. make labor visible so it can be valued
+<!-- ### feminist tactics -->
+#### 7 Tenants of Data Feminism 
+from Catherine D'Ignazio and Lauren Klein's (2019) book of the same name:
+  - examine power
+  - challenge power
+  - elevate emotion and embodiment, valuing multiple forms of knowledge
+  - rethink binaries and hierarchies
+  - embrace multiple perspectives, prioritizing local, indigenous, and experiential knowing
+  - consider context: "data are not neutral or objective. They are the products of unequal social relations, and this context is essential for conducting accurate, ethical analysis"
+  - make labor visible so it can be valued
   
 #### hosting a feminist server
 Because it offers material access and control, running a "feminist server" can be a form of activism (anarchoserver.org via Dunbar-Hester 2020, 113--114). "For example, on the radical left, the group Riseup devotes server space to mirroring content for social justice organizations on at least three continents" (113). Some of the "principles for design and operation" include:
-  - is a situated technology, in context, part of an ecology of practice
-  - run by and for a caring community
-  - builds on the materiality of software, hardware, and the bodies gathered around it
-  - exposes processes, tools, sources, habits, patterns
-  - does not strive for seamlessness (not transparent as in invisible)
+<!--   - is a situated technology, in context, part of an ecology of practice -->
+<!--   - run by and for a caring community -->
+<!--   - builds on the materiality of software, hardware, and the bodies gathered around it -->
+<!--   - exposes processes, tools, sources, habits, patterns -->
+<!--   - does not strive for seamlessness (not transparent as in invisible) -->
   - avoids efficiency, ease-of-use, scaleability, and immediacy because they can be traps
   - knows that networking is actually an awkward, promiscuous, paracitic practice
-  - decides her own dependencies
-  - questions the conditions for servicing and service, experiments with changing client-server relations
-  - wants mutable, read-write accessible networks
+<!--   - decides her own dependencies -->
+<!--   - questions the conditions for servicing and service, experiments with changing client-server relations -->
+<!--   - wants mutable, read-write accessible networks -->
   - does not confuse safety with security, risks exposing her insecurity
   - tries not to apologize when she is unavailable
 </section>
 
 <section class="zine-page page-5" markdown="1">
-#### NULL, break, reverb: queer affects 
+#### queer reverb, queer refusal
+<!-- #### NULL, break, reverb: queer affects find connection in refusal  -->
 <!-- passing flagging? Choosing when passing/flagging (not an option for everyone) -->
-#### queer reverb & connecting through disconnection
-Alexander Cho (2015) says, "if queer temporality is the condition, then refrain is the mechanics" (52). He points to Tumblr's "nonlinear, atemporal rhizomal exchange of affect and sensation, a 'queer reverb' of repeat and repeat; and there may be a possibility for this sort of transmission to buoy an antinormative or resistant politics" (47)
 
+Rather than assuming the goal for all systems is more visibility and more access, different approaches to AI could incorporate queer, feminist, anti-racist theories that understand some folks have other goals, even answering Gaboury's question: "how can we enact disappearance in such a way that does not erase difference?" (147). Citing black data,[^blackdata] alongsie "queer opacity [and] queer darkness as not only an aesthetic but an ethos" and calls for "forms of life that account for refusal as a situated practice---one that is explicitly raced and embodied, even as it would prefer not to articulate the situatedness of any single identity form" (148). This is not just resistence "but a refusal of the very terms of engagement" (149).
 
-"If constant connectivity provides us with a relational norm of sorts, then disconnection could function as a queer orientation device with the potential of creating openings for other ways of coming together, and other ways of staying together" (Súnden 64).
+Gaboury offers a concrete example of how code can undermine the binaries it constructs: "The use of NULL [in place of a valid answer in a database] marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a 'middle' that explicitly marks an indeterminate, incalculable, unknown state of being" (153). NULL is not zero or blank, nor is it quite an answer (like, say, male/female) that conforms to the field. It marks the inability to be known---"an excessive illegibility [...] within an otherwise normative system of relations" (153) and "a tactic of negotiated visibility that removes itself from the productive logic of the system that would seek to identify it" (154). 
 
->"Once we conceptualise or otherwise sense how the break, or the possibility of a break, is that which makes the signal, something happens to how relations can be conceived, and how they might feel. Disconnection, as something that lives within every connection, as the backbone of connectivity, may help us rethink connectedness and relations on a fundamental affective level. Put differently, the vulnerability and disruptive quality of digital media can help us envision modes of being together in ways that challenge the norm of uninterrupted connectivity and relatedness. The break may not be the end, but a new beginning. The disconnect may not lessen, but intensify the connection, as well as open up for other connections, in parallel." (Súnden 73)
-{: .purple-inline }
-
-
-
-Citing several artists and scholars, Jacob Gabory points to "queer opacity [or] queer darkness as not only an aesthetic but an ethos" (Gaboury 2018, 148)
-
-"not a politics of resistance but a refusal of the very terms of engagement." (Gaboury 2018, 149)
-
-"how can we enact disappearance in such a way that does not erase difference?" (Gaboury 2018, 147). Gaboury calls for "forms of life that account for refusal as a situated practice---one that is explicitly raced and embodied, even as it would prefer not to articulate the situatedness of any single identity form." (Gaboury 2018, 148)
-
-"The use of NULL thus marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a “middle” that explicitly marks an indeterminate, incalculable, unknown state of being." (Gaboury 2018, 153)
-
-<!-- "NULL in the relational model is not a synonym for an empty string or the numerical value 0. While the number 0 would indicate an explicit lack of some quantiﬁable thing, and therefore be numerically meaningful in the calculation of a given value, NULL indicates the absence of any value whatsoever, such that linguistically it is not considered a value at all, but rather a “marker” that indicates a state of indeterminacy." (Gaboury 2018, 152) -->
-
-
-<!-- "the NULL marker corresponds with the epistemological condition of queerness as an excessive illegibility collapsed into an unwieldy frame, an aberrant third-ness within an otherwise normative system of relations. In this sense, NULL is not a state of being, but rather a mode of relation invested in the production of unknowable markers, a practice of becoming." (Gaboury 2018, 153) -->
-
-"Centering black[^black data] and queer life [...] offers a radical reformulation of the subtractive mode offered by the NULL marker as a technological form, that is, as a tactic of negotiated visibility that removes itself from the productive logic of the system that would seek to identify it." (Gaboury 2018, 154)
-
-[^black data]: Gaboury cites Shaka McGlotten's concept of 'black data', and the dehumanization of black and queer life to construct and stabilize the white political techno subject,  which I want to read up on next.
+If not indeterminate, then in looping, reverberating, proliferating refrain: Alexander Cho (2015) says, "if queer temporality is the condition, then refrain is the mechanics" (52). Cho points to Tumblr's "nonlinear, atemporal rhizomal exchange of affect and sensation, a 'queer reverb' of repeat and repeat; and there may be a possibility for this sort of transmission to buoy an antinormative or resistant politics" (47).[^Sunden]
 
 </section>
 
+[^blackdata]: Gaboury cites Shaka McGlotten's concept of 'black data', and the dehumanization of black and queer life to construct and stabilize the white political techno subject,  which I want to read up on next. "Centering black and queer life [...] offers a radical reformulation of the subtractive mode offered by the NULL marker as a technological form, that is, as a tactic of negotiated visibility that removes itself from the productive logic of the system that would seek to identify it." (Gaboury 2018, 154)
+
+[^Sunden]: Another thread to this, space not permitting, is Jenny Sundén's "queer disconnection," which I have written on elsewhere: "If constant connectivity provides us with a relational norm of sorts, then disconnection could function as a queer orientation device with the potential of creating openings for other ways of coming together, and other ways of staying together" (Sundén 64). "Once we conceptualise or otherwise sense how the break, or the possibility of a break, is that which makes the signal, something happens to how relations can be conceived, and how they might feel. [...] the vulnerability and disruptive quality of digital media can help us envision modes of being together in ways that challenge the norm of uninterrupted connectivity and relatedness." (Sundén 73)
+{: .purple-inline }
 
 <section class="zine-page page-6" markdown="1">
 ### more strategies from makers in the field 
@@ -132,23 +108,16 @@ Could contemporary AI work draw on the work of feminist handmade media makers an
 - continually iterative, slow and explorative, rather than strictly goal-oriented
 - community-focused, often in domestic or caretaking spaces, work that is functioning or proving as well as expressing
 
-#### how to write nonviolent creative code, from p5.js
-- honor the land
-- honor the body
-- honor the small
-- honor the exchange 
-
-For details, see [p5.js Contributors Conference](https://docs.google.com/presentation/d/19xxc2zWWdFMAQjT6tRdN5ZU13vAKSwM7jojaC2U4F6Q/edit#slide=id.g5fc8f78ea6_1_99){:target="_blank"} 
+#### how to write nonviolent creative code
+"honor the land, honor the body, honor the small, honor the exchange" [p5.js Contributors Conference](https://docs.google.com/presentation/d/19xxc2zWWdFMAQjT6tRdN5ZU13vAKSwM7jojaC2U4F6Q/edit#slide=id.g5fc8f78ea6_1_99){:target="_blank"} 
 
 #### creative code collective
 MA+P's Creative Code Collective values include (and we continue to develop these in community): 
 - cooperation not competition
 - scrappy artistic strategies not perfect code
-- open-source first
-- do-it-together, creativity as collective wayfinding
+- creativity as collective wayfinding
 - project-based and process-oriented
 - growth not perfection
-
 </section>
 
 <section class="zine-page page-7" markdown="1">
@@ -199,6 +168,7 @@ _Thanks and credit to Creative Code Collective, students of MA+P, and Feminist.A
 
 </section>
 </main>
+
 
 
 <style>

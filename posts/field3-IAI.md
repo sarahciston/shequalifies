@@ -2,7 +2,7 @@
 title: intersectional AI
 nav_order: 8
 has_children: true
-last_modified_date: 2020-08-23 03:38
+last_modified_date: 2020-08-23 05:11
 ---
 
 {% include glossary.md %}
@@ -18,9 +18,7 @@ last_modified_date: 2020-08-23 03:38
 This question invites you to sketch a toolkit, guide, or handbook for the advocacy argument made by this list. You write that, “less-biased technologies, intersectional ethics and approaches should be embedded at every level, from software and hardware development to implementation and to the audiences they serve.” How, concretely, should this be proposition be realized? How can the manifesto for intersectional AI be translated into practice? Alternately, describe a representative set of attempts to illuminate and/or redress the biases embedded in machine learning systems that you find meaningful or that do some of the work you envision.
 {: .fs-2 }
 
-#### exam response in progress
-
-Field exam will appear here supplemented by the surrounding pages. Watch the livestream and refresh this page to read along.
+#### exam response
 
 {% assign wordcount = page.content | strip_html | split: ' ' | size %}
 word count: {{ wordcount }}
@@ -40,11 +38,16 @@ In _Living a Feminist Life_, Sara Ahmed outlines "A Killjoy Survival Kit," which
 
 #### table of contents for individual printable zines (also readable in full below)
 
-- [zine 1: why intersectional AI?](/posts/field3-zineIntersectional)
-- [zine 2: so you want to make better AI: a toolkit](/posts/field3-zineKit)
-- zine 3: a better AI is possible: love notes to intersectional AI innovators (coming soon)
-- zine 4: creative code collective: values & approaches (coming soon)
-- zine 5: I know NO code: where would I even start? help! (possible future volume)
+- [zine 1: why intersectional AI?](/posts/field3-zineIntersectional) 
+    - [printable version](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FCiston-Exam3-Zine1.pdf?v=1598184135754){:target="_blank"} 
+- [zine 2: so you want to make better AI: a toolkit](/posts/field3-zineKit) 
+    - [printable version](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FCiston-Exam3-Zine2.pdf?v=1598184135837){:target="_blank"} 
+- zine 3: a better AI is possible: love notes to intersectional AI innovators 
+    - (coming soon)
+- zine 4: creative code collective: values & approaches 
+    - (coming soon)
+- zine 5: I know NO code: where would I even start? help! 
+    - (possible future volume)
 
 
 ![insurmountable](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2Fexternal-content.duckduckgo-49.gif?v=1598153303268)
@@ -133,6 +136,9 @@ Intersectional AI must be not just about remedying bias but more broadly about i
 </section>
 
 <section class="zine-page page-8" markdown="1">
+
+![justlikeyou](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FKatya-likeyou.gif?v=1598153822857)
+
 #### a better AI is possible: love notes to intersectional innovators
 
 Besides activism like protest or critical writing, another way to make change is "argument by technology"---aka making stuff---or even "hacks of open-technology communities themselves, which directly flow from practitioners' habit of reflective technical engagement" (Dunbar-Hester 2020, 50).
@@ -151,10 +157,6 @@ _So how do I make intersectional AI?_ For more info, see the other zines in this
 </section>
 </main>
 
-![justlikeyou](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FKatya-likeyou.gif?v=1598153822857)
-
-
-![dontfuckitup](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRu-dontfuckitup.gif?v=1598153546957)
 
 <main class="zine" markdown="1">
 <section class="zine-page page-1" markdown="1">
@@ -168,21 +170,23 @@ This mini-field-guide is part of a series looking at ideas, approaches, and exam
 
 </section>
 
+![dontfuckitup](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRu-dontfuckitup.gif?v=1598153546957)
+
 <section class="zine-page page-2" markdown="1">
 #### AI TO-DO LIST 
 
 Keep in mind the following goals:
-    - know it's about power
-    - stay self-reflexive, polyvocal, multimodal
-    - add back error, uncertainty, entanglement
-    - combine tech & dialogue
-    - entwine data, design, & community
-    - embrace a meta ethics of multiplicity & relation
-    - decenter European values & knowledge (and its own origin stories)
-    - dedigitize sometimes
-    - focus on infrastructures of care: mutual aid, start low & go slow
-    - apply to every level in the stack, every step in the process
-    - let intersectionality guide aesthetics, tactics, and ethics
+  - know it's about power
+  - stay self-reflexive, polyvocal, multimodal
+  - add back error, uncertainty, entanglement
+  - combine tech & dialogue
+  - entwine data, design, & community
+  - embrace a meta ethics of multiplicity & relation
+  - decenter European values & knowledge (and its own origin stories)
+  - dedigitize sometimes
+  - focus on infrastructures of care: mutual aid, start low & go slow
+  - apply to every level in the stack, every step in the process
+  - let intersectionality guide aesthetics, tactics, and ethics
 
 _What is intersectional AI?_ For more info, see the other zines in this library.
 
@@ -205,9 +209,9 @@ _Do you see these values in the digital objects and services you use now? How ca
 </section>
 
 <section class="zine-page page-4" markdown="1">
-<!-- ### feminist tactics
- -->
-#### Catherine D'Ignazio and Lauren Klein's 7 Tenants of Data Feminism
+<!-- ### feminist tactics -->
+#### 7 Tenants of Data Feminism 
+from Catherine D'Ignazio and Lauren Klein's (2019) book of the same name:
   - examine power
   - challenge power
   - elevate emotion and embodiment, valuing multiple forms of knowledge
@@ -233,38 +237,22 @@ Because it offers material access and control, running a "feminist server" can b
 </section>
 
 <section class="zine-page page-5" markdown="1">
-#### NULL, break, reverb: queer affects 
+#### queer reverb, queer refusal
+<!-- #### NULL, break, reverb: queer affects find connection in refusal  -->
 <!-- passing flagging? Choosing when passing/flagging (not an option for everyone) -->
-#### queer reverb & connecting through disconnection
-Alexander Cho (2015) says, "if queer temporality is the condition, then refrain is the mechanics" (52). He points to Tumblr's "nonlinear, atemporal rhizomal exchange of affect and sensation, a 'queer reverb' of repeat and repeat; and there may be a possibility for this sort of transmission to buoy an antinormative or resistant politics" (47)
 
+Rather than assuming the goal for all systems is more visibility and more access, different approaches to AI could incorporate queer, feminist, anti-racist theories that understand some folks have other goals, even answering Gaboury's question: "how can we enact disappearance in such a way that does not erase difference?" (147). Citing black data,[^blackdata] alongsie "queer opacity [and] queer darkness as not only an aesthetic but an ethos" and calls for "forms of life that account for refusal as a situated practice---one that is explicitly raced and embodied, even as it would prefer not to articulate the situatedness of any single identity form" (148). This is not just resistence "but a refusal of the very terms of engagement" (149).
 
-"If constant connectivity provides us with a relational norm of sorts, then disconnection could function as a queer orientation device with the potential of creating openings for other ways of coming together, and other ways of staying together" (Súnden 64).
+Gaboury offers a concrete example of how code can undermine the binaries it constructs: "The use of NULL [in place of a valid answer in a database] marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a 'middle' that explicitly marks an indeterminate, incalculable, unknown state of being" (153). NULL is not zero or blank, nor is it quite an answer (like, say, male/female) that conforms to the field. It marks the inability to be known---"an excessive illegibility [...] within an otherwise normative system of relations" (153) and "a tactic of negotiated visibility that removes itself from the productive logic of the system that would seek to identify it" (154). 
 
->"Once we conceptualise or otherwise sense how the break, or the possibility of a break, is that which makes the signal, something happens to how relations can be conceived, and how they might feel. Disconnection, as something that lives within every connection, as the backbone of connectivity, may help us rethink connectedness and relations on a fundamental affective level. Put differently, the vulnerability and disruptive quality of digital media can help us envision modes of being together in ways that challenge the norm of uninterrupted connectivity and relatedness. The break may not be the end, but a new beginning. The disconnect may not lessen, but intensify the connection, as well as open up for other connections, in parallel." (Súnden 73)
-{: .purple-inline }
-
-
-
-Citing several artists and scholars, Jacob Gabory points to "queer opacity [or] queer darkness as not only an aesthetic but an ethos" (Gaboury 2018, 148)
-
-"not a politics of resistance but a refusal of the very terms of engagement." (Gaboury 2018, 149)
-
-"how can we enact disappearance in such a way that does not erase difference?" (Gaboury 2018, 147). Gaboury calls for "forms of life that account for refusal as a situated practice---one that is explicitly raced and embodied, even as it would prefer not to articulate the situatedness of any single identity form." (Gaboury 2018, 148)
-
-"The use of NULL thus marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a “middle” that explicitly marks an indeterminate, incalculable, unknown state of being." (Gaboury 2018, 153)
-
-<!-- "NULL in the relational model is not a synonym for an empty string or the numerical value 0. While the number 0 would indicate an explicit lack of some quantiﬁable thing, and therefore be numerically meaningful in the calculation of a given value, NULL indicates the absence of any value whatsoever, such that linguistically it is not considered a value at all, but rather a “marker” that indicates a state of indeterminacy." (Gaboury 2018, 152) -->
-
-
-<!-- "the NULL marker corresponds with the epistemological condition of queerness as an excessive illegibility collapsed into an unwieldy frame, an aberrant third-ness within an otherwise normative system of relations. In this sense, NULL is not a state of being, but rather a mode of relation invested in the production of unknowable markers, a practice of becoming." (Gaboury 2018, 153) -->
-
-"Centering black[^black data] and queer life [...] offers a radical reformulation of the subtractive mode offered by the NULL marker as a technological form, that is, as a tactic of negotiated visibility that removes itself from the productive logic of the system that would seek to identify it." (Gaboury 2018, 154)
-
-[^black data]: Gaboury cites Shaka McGlotten's concept of 'black data', and the dehumanization of black and queer life to construct and stabilize the white political techno subject,  which I want to read up on next.
+If not indeterminate, then in looping, reverberating, proliferating refrain: Alexander Cho (2015) says, "if queer temporality is the condition, then refrain is the mechanics" (52). Cho points to Tumblr's "nonlinear, atemporal rhizomal exchange of affect and sensation, a 'queer reverb' of repeat and repeat; and there may be a possibility for this sort of transmission to buoy an antinormative or resistant politics" (47).[^Sunden]
 
 </section>
 
+[^blackdata]: Gaboury cites Shaka McGlotten's concept of 'black data', and the dehumanization of black and queer life to construct and stabilize the white political techno subject,  which I want to read up on next. "Centering black and queer life [...] offers a radical reformulation of the subtractive mode offered by the NULL marker as a technological form, that is, as a tactic of negotiated visibility that removes itself from the productive logic of the system that would seek to identify it." (Gaboury 2018, 154)
+
+[^Sunden]: Another thread to this, space not permitting, is Jenny Sundén's "queer disconnection," which I have written on elsewhere: "If constant connectivity provides us with a relational norm of sorts, then disconnection could function as a queer orientation device with the potential of creating openings for other ways of coming together, and other ways of staying together" (Sundén 64). "Once we conceptualise or otherwise sense how the break, or the possibility of a break, is that which makes the signal, something happens to how relations can be conceived, and how they might feel. [...] the vulnerability and disruptive quality of digital media can help us envision modes of being together in ways that challenge the norm of uninterrupted connectivity and relatedness." (Sundén 73)
+{: .purple-inline }
 
 <section class="zine-page page-6" markdown="1">
 ### more strategies from makers in the field 
