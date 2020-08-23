@@ -1,0 +1,94 @@
+
+$nav-width: 375px;
+$nav-width-md: 300px;
+$content-width: 900px;
+$header-height: 65px;
+$transition-duration: 300ms; 
+
+$media-queries: (
+  xs: 320px,
+  sm: 500px,
+  md: 550px, /*$content-width*/
+  lg: 950px, /*$content-width + $nav-width,*/
+  xl: 1000px
+);
+
+
+$body-font-family: roboto, Menlo, noto, "segoe ui", -apple-system, BlinkMacSystemFont, "helvetica neue",
+  helvetica, arial, sans-serif;
+$mono-font-family: "SFMono-Regular", roboto, Menlo, Consolas, Monospace;
+$root-font-size: 9px;
+
+$body-heading-color: $purple-100;
+$link-color: $purple-100;
+$btn-primary-color: $purple-100;
+
+/* The popup form - hidden by default */
+.newComment {
+  display: block; /*none ;  block */
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+.comment-quote {
+  color: $purple-100;
+}
+
+.purple-inline {
+  color: $purple-100;
+}
+
+/* Add styles to the form container */
+.form-horizontal {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.newComment input[type=text] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus {
+  background-color: #ddd;
+  outline: none;
+  display: none; /*none ;  block */
+}
+
+
+/* code {
+  padding: 0.2em 0.15em;
+  font-weight: 400;
+  background-color: $code-background-color;
+  border: $border $border-color;
+  border-radius: $border-radius;
+} */
+
+.artist {
+  padding: $sp-3;
+  margin-bottom: $sp-3;
+  border: 1px solid $border-color;
+  border-radius: $border $border-radius;
+  background-color: $code-background-color;
+
+/*   + .highlighter-rouge,
+  + figure.highlight {
+    position: relative;
+    margin-top: -$sp-4;
+    border-right: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
+    border-left: 1px solid $border-color;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  } */
+}
+

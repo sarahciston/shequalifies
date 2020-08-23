@@ -1,0 +1,89 @@
+<!--inserting new stuff-->
+
+{% if page.commenting == 'open' %}
+<div class="newComment" id="formPopup">
+<form action="/newComment" method="post" id="commentform" class="form-horizontal" >
+  <fieldset id="commentfields">
+    <h4>add a comment</h4>
+    <input name="redirect" type="hidden" value="{{ page.title }}">
+    <input name="pageId" type="hidden" value="{{ page.title }}">
+
+    <label for="name">name</label>
+    <input type="text" name="name" id="name" placeholder="" />
+
+    <label for="email">email</label>
+    <input type="text" name="email" id="email" placeholder=""/>
+    <br><br>
+    <textarea name="message" id="message" placeholder="" rows="5"></textarea>
+
+    <button class="btn btn-primary" id="commentbutton">submit</button> 
+
+  </fieldset>
+</form>
+</div>
+{% endif %}         
+        
+<!--end insert-->
+
+  
+  <script type="application/javascript">
+    ////comments stuff
+    let selection;
+    let selectedText;
+    
+    document.onselectend = function() {
+      selection = document.getSelection();
+      
+      selectedText = selection.toString();
+      console.log(selectedText);
+      
+      // document.onmouseup = function() { 
+          // openForm() //aka
+      //   var textarea = document.getElementById('message');
+      //   textarea.placeholder = selectedText;
+      //   document.getElementById("formPopup").style.display = "block";
+      // }
+    };
+    
+    document.getElementById("formPopup").style.display = "block";
+    
+    //all this copied over from comment-new.html
+//     var commentbutton = document.getElementById('commentbutton')
+//     commentbutton.addEventListener("click", setupForm);
+  
+//     function setupForm() {
+//       console.log('reached setupForm()')
+
+//       // var status = document.getElementById('commentstatus')
+//       // status.innerText = ''
+
+//       var requiredIds = [ 'message', 'email', 'name']
+//       var missing = requiredIds.filter(id => document.getElementById(id).value.length < 3)
+//       if (missing.length > 0) {
+//         status.innerText = 'Some required fields are missing - (' + missing.join(', ') + ')'
+//         return
+//       }
+
+//       var form = document.getElementById('commentform')
+//       form.action = {{ site.comments.receiver }}
+//       console.log('form action reached')
+//       button.innerText = 'Posting...'
+//       button.disabled = true
+//       form.submit()
+//       console.log('form submitted')
+//       var fields = document.getElementById('commentfields')            
+//       fields.disabled = true  
+//       // closeForm(); //added
+//     }  
+
+    // function openForm() {
+      // var textarea = document.getElementById('message');
+      // textarea.placeholder = selectedText;
+      // document.getElementById("formPopup").style.display = "block";
+    // }
+
+    // function closeForm() {
+    //   document.getElementById("formPopup").style.display = "none";
+    // }
+    
+  </script>
