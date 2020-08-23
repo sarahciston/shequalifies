@@ -1,7 +1,7 @@
 ---
-title: zine
+title: zine 2, toolkit
 parent: intersectional AI
-last_modified_date: 2020-08-22 10:46
+last_modified_date: 2020-08-22 20:09
 ---
 
 <!-- need to make new print styles for h1,2,3,4 headers all coming out as h1? -->
@@ -78,7 +78,7 @@ Wernimont uses the metaphor of the matrices as “the media in which something i
   }
   
   body {
-    font-size: 33%; /* 69% */
+    font-size: 42%; /* 69%, 33% */
   }
   
   a {

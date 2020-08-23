@@ -8,11 +8,14 @@ last_modified_date: 2020-08-17 20:57
 
 {% include references.md %}
 
+
 ## embodied data, endataed body
 
-### CURRENT QUALIFYING EXAM CREDIT SCORE: 00
+{% assign randomNumber = page.content | size | modulo: 10 | round: 3 %}
 
-_a running total calculated using a proprietary algorithm, from a range of weighted factors, updated in real time (range: 0--1)_
+### CURRENT QUALIFYING EXAM CREDIT SCORE: {{ randomNumber }}
+
+_a running total calculated using a proprietary algorithm, from a range of weighted factors, updated in real time (range: 0--10)_
 {: .fs-2 }
 
 ### today in this body so far...
@@ -46,7 +49,17 @@ _a running total calculated using a proprietary algorithm, from a range of weigh
 
 ### current mood...
 
-![murderpretzels](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FNG-murder.gif?v=1597981587364) ![easycheese](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FHQ-cheese.gif?v=1597842831179)
+![bjork](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FRu-Katya-Bjork.gif?v=1598145397867) 
+Exam 3
+{: fs-2 .purple-inline }
+
+![murderpretzels](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FNG-murder.gif?v=1597981587364) 
+Exam 2
+{: fs-2 .purple-inline }
+
+![easycheese](https://cdn.glitch.com/eaa18b38-3765-4c0b-8304-2af139b6b542%2FHQ-cheese.gif?v=1597842831179)
+Exam 1
+{: fs-2 .purple-inline }
 
 #### more details
 
@@ -66,6 +79,6 @@ _a running total calculated using a proprietary algorithm, from a range of weigh
 
     {% for test in site.data.rescueDaily %}    
     - {{test.date | date_to_string }}: on computer {{ test.total_duration_formatted }}
-    {%- endfor -%}
+    {% endfor %}
 
-**For the qualifying exam portfolio maybe I will make a page charting all the collected data, too bad the dialogue wont likely be auto captioned from these videos, won't capture all the icky feeling from producing these documents, the cumulative sleep, the total words divided by, weight lost/gained, etc.**
+_note to self: For the qualifying exam portfolio maybe I will make a page charting all the collected data, too bad the dialogue wont likely be auto captioned from these videos, won't capture all the icky feeling from producing these documents, the cumulative sleep, the total words divided by, weight lost/gained, etc._
