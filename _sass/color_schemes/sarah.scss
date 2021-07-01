@@ -14,14 +14,30 @@ $media-queries: (
 );
 
 
-$body-font-family: roboto, Menlo, noto, "segoe ui", -apple-system, BlinkMacSystemFont, "helvetica neue",
+$body-font-family: Menlo, noto, "segoe ui", -apple-system, BlinkMacSystemFont, "helvetica neue",
   helvetica, arial, sans-serif;
-$mono-font-family: "SFMono-Regular", roboto, Menlo, Consolas, Monospace;
+$mono-font-family: Menlo, Consolas, Monospace;
 $root-font-size: 9px;
 
 $body-heading-color: $purple-100;
 $link-color: $purple-100;
 $btn-primary-color: $purple-100;
+
+
+.image-right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
 
 /* The popup form - hidden by default */
 .newComment {
@@ -91,4 +107,7 @@ $btn-primary-color: $purple-100;
     border-top-right-radius: 0;
   } */
 }
+
+
+
 

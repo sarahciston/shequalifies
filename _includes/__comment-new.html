@@ -39,7 +39,7 @@ function setupForm() {
   }
 
   var form = document.getElementById('commentform')
-  form.action = {{ site.comments.receiver }}
+  form.action = {{ site.comments.receiver }} //i forget what this does?
   console.log('form action reached')
   button.innerText = 'Posting...'
   button.disabled = true

@@ -1,8 +1,8 @@
 ---
 <!-- layout: post -->
 title: glossary
-nav_order: 97
 last_modified_date: 2020-08-12 19:56
+parent: home
 ---
 
 {% include glossary.md %}

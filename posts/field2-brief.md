@@ -11,7 +11,7 @@ last_modified_date: 2020-08-1 14:00
 
 # immersive data identities
 
-_What does my data say about me, that I couldn't say before? That I didn't want to say? Do I wear it well_
+_What does my data say about me, that I couldn't say before? That I didn't want to say?_
 
 ## field brief
 
@@ -25,17 +25,3 @@ _What does my data say about me, that I couldn't say before? That I didn't want 
 ### organizing metaphors & verbs
 infinite scroll, flagging
 a self API
-
-### historical moments, conceptual & technical shifts
-
-### figures & contributions
-
-### key terms, theirs & mine
-
-### applied media examples
-
-### in my own work
-
-### sub-topics
-
-### gaps & interventions

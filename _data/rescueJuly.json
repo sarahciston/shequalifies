@@ -47,14 +47,7 @@
     [36, 45, 1, "latimes.com", "General News \u0026 Opinion", -2],
     [37, 44, 1, "wowpresentsplus.com", "Uncategorized", 0],
     [38, 39, 1, "support.runwayml.com", "Uncategorized", 0],
-    [
-      39,
-      39,
-      1,
-      "subscription.packtpub.com",
-      "Engineering \u0026 Technology",
-      2
-    ],
+    [ 39, 39, 1, "subscription.packtpub.com", "Engineering \u0026 Technology", 2],
     [40, 38, 1, "learn.runwayml.com", "Uncategorized", 0],
     [41, 37, 1, "google.com", "Search", 1],
     [42, 33, 1, "app.runwayml.com", "Uncategorized", 0],

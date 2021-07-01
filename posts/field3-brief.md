@@ -27,17 +27,3 @@ moiré, intersecting lines that create energy beyond the surface of the page, dr
 passing (& flagging) bi/femme/mixed
 bot, ladymouth, tactical media tools
 matrix as opposed to stack for the network infrastructure
-
-### historical moments, conceptual & technical shifts
-
-### figures & contributions
-
-### key terms, theirs & mine
-
-### applied media examples
-
-### in my own work
-
-### sub-topics
-
-### gaps & interventions

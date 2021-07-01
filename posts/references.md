@@ -1,8 +1,8 @@
 ---
 layout: post
 title: references
-nav_order: 98
 last_modified_date: 2020-08-15 19:17
+parent: home
 ---
 
 ## references

@@ -23,18 +23,5 @@ _How does language change within algorithmic systems, and how does it change us?
 
 ### organizing metaphors & verbs
 labyrinth
-loop, gif, recursion, spiral, labyrinth again, the substrata trauma repeating
-
-### historical moments, conceptual & technical shifts
-
-### figures & contributions
-
-### key terms, theirs & mine
-
-### applied media examples
-
-### in my own work
-
-### sub-topics
-
-### gaps & interventions
+loop, gif, recursion, spiral
+labyrinth again, the substrata trauma repeating

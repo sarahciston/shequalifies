@@ -22,5 +22,9 @@ jellyfish as metaphor? jellyfish as regenerative (stinging) multiorganistic syst
 
 donna haraway's "tentacular thinking" for "dense entanglement" and the "circular and generative relationship between life death and decay" (Lupton 2020, 26)
 
+the vagus nerve as our jellyfish remnant, the brain outside the brain, trail to the thinking gut
+
+these days my allostatic load is showing, yours too? stuck in the sympathetic response, unable to sympathize with anyone just flight mode heart pounding stomach lost arms numb need-need-needs 
+
 [no brain](https://www.pbs.org/wnet/nature/blog/no-brain-for-jellyfish-no-problem/)
 

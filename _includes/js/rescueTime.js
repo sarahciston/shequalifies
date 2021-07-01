@@ -26,8 +26,8 @@ function appendRequest(url, path, res){
     .catch(err => {console.log(err)})
 }
 
-function writeRequest(url, path, res){
-  request(url, path)
+function writeRequest(url, opt, path, res){
+  request(url, opt)
     .then(r => {
       r = r.replace(/<\/?([a-z][a-z0-9]*)\b[^>]*>/gi, ''); //fixes weird html in json issue
       console.log(r)
@@ -62,23 +62,29 @@ exports.today = (req, res) => {
   let url = baseUrl + 'data?key=' + KEY
   // console.log(url)
   
+  
   let params = {
+      restrict_thing: "total_duration_formatted",
       perspective: "interval",
+      // restrict_kind: "efficiency", //productive time
+      // restrict_kind: "overview", //big categories
       // resolution_time: "overview", 
-      restrict_kind: "productivity", 
-      restrict_begin: dateISO,
-      restrict_end: dateISO,
+      resolution_time: "day", 
+      restrict_begin: "2020-08-18", //dateISO,
+      restrict_end: "2020-08-24",//dateISO,
       format: "json"
     }
+  
+// "total_duration_formatted"
 
 //only productivity types and times
-//   https://www.rescuetime.com/anapi/data?key=B63wBhc83u_6AKC06cC7zeMtzyhD4wthprJgzUQ5&perspective=interval&resolution_time=day&restrict_kind=productivity&restrict_begin=2020-08-10&restrict_end=2020-08-10&format=json
+//   https://www.rescuetime.com/anapi/data?key=B63wBhc83u_6AKC06cC7zeMtzyhD4wthprJgzUQ5&perspective=interval&resolution_time=day&restrict_kind=productivity&restrict_begin=2020-08-18&restrict_end=2020-08-18&format=json
 
   let options = { formData: params }
   
-  let path = './_data/rescueToday.json'
+  let path = './_data/rescueDuration.json'
   
-  writeRequest(url, path, res)
+  writeRequest(url, options, path, res)
     
 }
 
@@ -106,7 +112,7 @@ exports.august = (req, res) => {
   
   let path = './_data/rescueAugust.json'
   
-  writeRequest(url, path, res)
+  writeRequest(url, options, path, res)
     
 }
 
