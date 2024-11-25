@@ -32,6 +32,12 @@ var fun = function lang(l) {
 }
 ```
 
+Or this: 
+{:.javascript}
+    for (var i=0; i < list.length; i++) {
+      console.log(i)
+    }
+
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|

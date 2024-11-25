@@ -15,3 +15,62 @@ $code-background-color: $grey-dk-250;
 $search-background-color: $grey-dk-250;
 $table-background-color: $grey-dk-250;
 $feedback-color: darken($sidebar-color, 3%);
+
+$nav-width: 375px;
+$nav-width-md: 300px;
+$nav-list-item-height: $sp-6;
+$nav-list-item-height-sm: $sp-8;
+$nav-list-expander-right: true;
+$content-width: 900px;
+$header-height: 65px;
+$search-results-width: $content-width - $nav-width;
+$transition-duration: 300ms;
+
+$media-queries: (
+  xs: 320px,
+  sm: 500px,
+  md: 550px, /*$content-width*/
+  lg: 950px, /*$content-width + $nav-width,*/
+  xl: 1000px,
+);
+
+
+$body-font-family: roboto, Menlo, noto, "segoe ui", -apple-system, BlinkMacSystemFont, "helvetica neue",
+  helvetica, arial, sans-serif;
+$mono-font-family: "SFMono-Regular", roboto, Menlo, Consolas, Monospace;
+$root-font-size: 9px;
+
+
+/* The popup form - hidden by default */
+.newComment {
+  display: block; /*none ;  block */
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+.comment-quote {
+  color: $purple-100;
+}
+
+/* Add styles to the form container */
+.form-horizontal {
+  max-width: 300px;
+  padding: 10px;
+}
+
+/* Full-width input fields */
+.newComment input[type=text] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus {
+  outline: none;
+  display: none; /*none ;  block */
+}

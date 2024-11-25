@@ -1,0 +1,38 @@
+<hr>
+<h4>comments</h4>
+{% capture default_slug %}{{ page.slug | default: (page.title | slugify) }}{% endcapture %}
+{% capture slug %}{{ (page.slug | fallback: default_slug) | downcase | replace: '.', '-' | replace: '_' : '-' }}{% endcapture %}
+<!-- all comments -->
+{% for comments in site.data.comments %}
+{% assign comments = comments[1] %}
+<!-- sort by date -->
+{% assign sorted_comments = comments | sort: 'createdBy' %}
+<!-- show comments if they exist -->
+{% assign comment_count = sorted_comments | size %}
+{% if comment_count != 0 %}
+<div id="comments">
+    <ul>
+    {% for comment in sorted_comments %}
+<!--         display -->
+      <!-- just this page -->
+    {% if comment.pageId == page.title %}
+      <li class="sortbypage">
+        {% if comment.quote != "" %}<i><span class="comment-quote">{{ comment.quote }}</span></i>{% endif %}
+        {{ comment.message }} 
+        <cite>&ndash; {{ comment.name }}, <span class="muted" title="{{ comment.createdAt | date_to_rfc822 }}">
+      {{ comment.createdAt | date: '%B' }}
+      {% assign d = comment.createdAt | date: "%-d" %}
+      {% case d %}
+        {% when '1' or '21' or '31' %}{{d}}st,
+        {% when '2' or '22' %}{{d}}nd,
+        {% when '3' or '23' %}{{d}}rd,
+        {% else %}{{d}}th,
+      {% endcase %}
+      {{ comment.createdAt | date: '%Y' }}
+    </span></cite></li>
+  {% endif %}
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}
+{% endfor %}

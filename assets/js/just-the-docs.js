@@ -219,7 +219,7 @@ function searchLoaded(index, docs) {
 
       var resultDoc = document.createElement('div');
       resultDoc.classList.add('search-result-doc');
-      resultDoc.innerHTML = '<svg viewBox="0 0 24 24" class="search-result-icon"><use xlink:href="#svg-doc"></use></svg>';
+      resultDoc.innerHTML = '<svg viewbox="0 0 24 24" class="search-result-icon"><use xlink:href="#svg-doc"></use></svg>';
       resultTitle.appendChild(resultDoc);
 
       var resultDocTitle = document.createElement('div');

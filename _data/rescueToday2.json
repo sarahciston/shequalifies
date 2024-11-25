@@ -1,0 +1,16 @@
+{
+  "notes": "data is an array of arrays (rows), column names for rows in row_headers",
+  "row_headers": [
+    "Rank",
+    "Time Spent (seconds)",
+    "Number of People",
+    "Efficiency"
+  ],
+  "rows": [
+    [1, 169389, 1, "Productive Time"],
+    [2, 82337, 1, "Very Productive Time"],
+    [3, 26162, 1, "Neutral Time"],
+    [4, 20187, 1, "Very Distracting Time"],
+    [5, 6218, 1, "Distracting Time"]
+  ]
+}

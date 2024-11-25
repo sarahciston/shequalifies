@@ -1,0 +1,1 @@
+curl --data "grant_type=authorization_code&client_id=3f03bb0d51326fa723a820c5e60e6889a07110004df4103da2b18557a83c722a&client_secret=e680f4637e548ac58fff40131413e64089888c5c7766b0e1461d014bd4055e67&code=dac017c986d159efe22784a372f70fb743c8d697&redirect_uri=https://shequalifies.glitch.me/" 'https://account.withings.com/oauth2/token'
